@@ -1,0 +1,60 @@
+# =====================================================================
+# Environment & Secrets (CRITICAL SECURITY)
+# =====================================================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.cert
+
+# =====================================================================
+# Python Cache, Bytecode & Virtual Environments
+# =====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# =====================================================================
+# Temporary Scratch Scripts & Data Caches
+# =====================================================================
+scratch/
+.cache/
+*.log
+*.tmp
+*.temp
+
+# =====================================================================
+# Generated Deliverable Outputs & PDF Artifacts
+# (Uncomment if you do NOT want generated CSVs/PDFs committed to git)
+# =====================================================================
+# output/
+# output/*.csv
+# architecture.pdf
+
+# =====================================================================
+# IDEs & System Files
+# =====================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================================================
+# Gemini / Agentic AI Artifacts & Logs
+# =====================================================================
+.gemini/
+.agents/

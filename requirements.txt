@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+pydantic
+rapidfuzz
+python-dotenv
+fpdf2
+pytest
+pytest-asyncio
+lxml

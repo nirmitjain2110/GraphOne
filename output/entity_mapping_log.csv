@@ -1,0 +1,2381 @@
+raw_name,canonical_name,match_score,method,entity_type,timestamp
+Autogpt,Autogpt,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890082Z
+Prompts.Chat,Prompts.Chat,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890082Z
+Groww,Groww,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890082Z
+Llms From Scratch,Llms From Scratch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Instacart,Instacart,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Deep Live Cam,Deep Live Cam,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+GitLab,Gitlab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Claude Mem,Claude Mem,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Rigetti Computing,Rigetti Computing,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Dropbox,Dropbox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Openhands,Openhands,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+EquipmentShare,Equipmentshare,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+BillionToOne,Billiontoone,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.890788Z
+Ai For Beginners,Ai For Beginners,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Matterport,Matterport,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Amplitude,Amplitude,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Flowise,Flowise,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Ginkgo Bioworks,Ginkgo Bioworks,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Minimind,Minimind,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Weave,Weave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Pardes Biosciences,Pardes Biosciences,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Strix,Strix,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Momentus,Momentus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Kong,Kong,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891358Z
+Segment,Segment,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Algolia,Algolia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Truebill,Truebill,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Twitch,Twitch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Draggan,Draggan,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Cruise,Cruise,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Spacy,Spacy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Benchling,Benchling,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Casetext,Casetext,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Bird,Bird,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Brex,Brex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Pytorch Lightning,Pytorch Lightning,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+The Athletic,The Athletic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Codecademy,Codecademy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.891965Z
+Ai Expert Roadmap,Ai Expert Roadmap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Checkr,Checkr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Lever,Lever,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Clipboard,Clipboard,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Heap,Heap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Sim,Sim,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Sendwave,Sendwave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Deel,DeepL,88.88888888888889,FuzzyMatch,STARTUP,2026-08-11T09:10:34.892503Z
+Awesome Ai Agents,Awesome Ai Agents,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Clever,Clever,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Caper,Caper,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+H4Cker,H4Cker,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Reddit,Reddit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Machine Zone,Machine Zone,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Faire,Faire,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Semantic Kernel,Semantic Kernel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Fivetran,Fivetran,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.892503Z
+Optimizely,Optimizely,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Hands On Large Language Models,Hands On Large Language Models,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Cs249R Book,Cs249R Book,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Weebly,Weebly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Flock Safety,Flock Safety,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Invokeai,Invokeai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+NURX,Nurx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Repomix,Repomix,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Go1,Go1,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+CoreOS,Coreos,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Ai,Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Bear Flag Robotics,Bear Flag Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+GOAT Group,Goat Group,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Heroku,Heroku,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+GrubMarket,Grubmarket,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Nautilus Trader,Nautilus Trader,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+HelloSign,Hellosign,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Zenefits,Zenefits,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893027Z
+Honeylove,Honeylove,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Marimo,Marimo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Cognito,Cognito,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Recommenders,Recommenders,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Datasets,Datasets,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Moxion Power Co.,Moxion Power Co.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+DrChrono,Drchrono,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Onnx,Onnx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Newfront,Newfront,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Dyad,Dyad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Nowports,Nowports,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+Odeko,Odeko,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+L1B3Rt4S,L1B3Rt4S,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.893546Z
+GitPrime,Gitprime,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Proxy,Proxy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Machine Learning For Trading,Machine Learning For Trading,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Podium,Podium,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Rappi,Rappi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Razorpay,Razorpay,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Deepresearch,Deepresearch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Rippling,Rippling,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894063Z
+Scale AI,Scale AI,100.0,DirectMatch,STARTUP,2026-08-11T09:10:34.894063Z
+Gun,Gun,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Scribd,Scribd,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Airsim,Airsim,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+ShipBob,Shipbob,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+SmartAsset,Smartasset,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Ai Guide,Ai Guide,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Stripe,Stripe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Wave,Wave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Superagi,Superagi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.894605Z
+Camel,Camel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Zapier,Zapier,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Focal Systems,Focal Systems,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Mio,Mio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Leon,Leon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Daily,Daily,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Petcube,Petcube,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Outschool,Outschool,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895120Z
+Mason,Mason,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Tovala,Tovala,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Cheatsheets Ai,Cheatsheets Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+GetAccept,Getaccept,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Chatfuel,Chatfuel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Carla,Carla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+GoCardless,Gocardless,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Stealth Worker,Stealth Worker,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Deeplearning4J,Deeplearning4J,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.895696Z
+Deepgram,Deepgram,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+SOUNDBOKS,Soundboks,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Lattice,Lattice,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Mux,Mux,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Human Interest,Human Interest,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Eight Sleep,Eight Sleep,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Instawork,Instawork,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+Awesome Diffusion Models,Awesome Diffusion Models,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+TetraScience,Tetrascience,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896236Z
+The Ticket Fairy,The Ticket Fairy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Font Awesome,Font Awesome,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Tensorzero,Tensorzero,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+"80,000 Hours","80,000 Hours",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Xendit,Xendit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Kornia,Kornia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Shred Video,Shred Video,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Plate IQ,Plate Iq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Pocketflow,Pocketflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.896790Z
+Fountain,Fountain,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Fiftyone,Fiftyone,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Microhealth,Microhealth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Zeplin,Zeplin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Hexstrike Ai,Hexstrike Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Circle Medical,Circle Medical,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Tabnine,Tabnine,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+GiveCampus,Givecampus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Drip Capital,Drip Capital,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897326Z
+Wasmedge,Wasmedge,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Chaldal,Chaldal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Clerky,Clerky,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Bodyport,Bodyport,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Verge Genomics,Verge Genomics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Spring Ai Alibaba,Spring Ai Alibaba,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Thrive Agritech,Thrive Agritech,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Tesorio,Tesorio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.897867Z
+Mit Deep Learning,Mit Deep Learning,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+AgileMD,Agilemd,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Reach,Reach,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+X Anylabeling,X Anylabeling,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+SunFarmer,Sunfarmer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Confident LIMS,Confident Lims,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Sonnet,Sonnet,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Branch8,Branch8,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Heroic Labs,Heroic Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+SnapMagic,Snapmagic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898383Z
+Cai,Cai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Gemnote,Gemnote,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+New Story,New Story,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Warriorjs,Warriorjs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Ironclad,Ironclad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Leaders In Tech,Leaders In Tech,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Inference,Inference,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+teaBOT,Teabot,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Teleport,Teleport,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.898955Z
+Lugg,Lugg,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Mashgin,Mashgin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Ccf Deadlines,Ccf Deadlines,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+NimbleRx,Nimblerx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Quartzy,Quartzy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Ai Collection,Ai Collection,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Replika,Replika,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Tara AI,Tara Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Imageai,Imageai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.899489Z
+Flip,Flip,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.900045Z
+X-Zell,X-Zell,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.900045Z
+Mage Ai,Mage Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.900045Z
+Zenflow,Zenflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.901632Z
+Tab,Tab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Streak,Streak,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Meadow,Meadow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Level Frames,Level Frames,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Industrial Microbes,Industrial Microbes,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Caffe2,Caffe2,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902170Z
+Giveffect,Giveffect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+eBrandvalue,Ebrandvalue,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Optimate,Optimate,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Quantierra,Quantierra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Cleanly,Cleanly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Rig,Rig,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Resolve,Resolve,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Makrwatch,Makrwatch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Tempo,Tempo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.902505Z
+Sails Co.,Sails Co.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Stanza,Stanza,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+ReadMe,Readme,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+BuildScience,Buildscience,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Platzi,Platzi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Labdoor,Labdoor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Shortgpt,Shortgpt,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+GiveMeTap,Givemetap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Bankjoy,Bankjoy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Zeitview,Zeitview,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+The Human Utility,The Human Utility,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Democracy Earth,Democracy Earth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+OneSignal,Onesignal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Tensorlayer,Tensorlayer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Numerion Labs,Numerion Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Bright,Bright,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Magic,Magic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Mezmo,Mezmo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.903009Z
+Akido Labs,Akido Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Qventus,Qventus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Flower,Flower,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Bayes Impact,Bayes Impact,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Helion Energy,Helion Energy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+HackerRank,Hackerrank,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Front,Front,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Swarms,Swarms,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Apollo,Apollo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Roomstorm,Roomstorm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Hive,Hive,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+SpotAngels,Spotangels,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+Centaurloop,Centaurloop,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+UserGems,Usergems,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+SFOX,Sfox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.904016Z
+PicnicAI,Picnicai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Permutive,Permutive,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Founder Flow,Founder Flow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Alchemy,Alchemy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Ai Founder Interviews,Ai Founder Interviews,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+MetricWire,Metricwire,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Ajen,Ajen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Greentoe,Greentoe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Hyperpad,Hyperpad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Ai Startups,Ai Startups,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Flaviar,Flaviar,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Clear,Clear,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.905085Z
+Backpack,Backpack,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Immunity Project,Immunity Project,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Dify,Dify,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Dyspatch,Dyspatch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+OpenCurriculum,Opencurriculum,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Ragflow,Ragflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+MixerBox,Mixerbox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Y Combinator,Y Combinator,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+GBatteries,Gbatteries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Zinc,Zinc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Ruflo,Ruflo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Zidisha,Zidisha,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+TrueVault,Truevault,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Anything Llm,Anything Llm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Guesty,Guesty,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Snapdocs,Snapdocs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.906093Z
+Medmonk,Medmonk,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Shoobs,Shoobs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Openmontage,Openmontage,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Pushbullet,Pushbullet,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Povio,Povio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Siyuan,Siyuan,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+PiinPoint,Piinpoint,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+One Degree,One Degree,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907092Z
+Agents,Agents,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Copilotkit,Copilotkit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+CodeNow,Codenow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+CodeCombat,Codecombat,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Pageindex,Pageindex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Noora Health,Noora Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Cambly,Cambly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Composio,Composio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Ambition,Ambition,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+AirHelp,Airhelp,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+42,42,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+True Link,True Link,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Agenticseek,Agenticseek,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Reebee,Reebee,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Lob,Lob,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.907594Z
+Haystack,Haystack,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Panorama Education,Panorama Education,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Cratejoy,Cratejoy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+"Estimote, Inc.","Estimote, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+EasyPost,Easypost,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Genai Agents,Genai Agents,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Asseta,Asseta,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Per Vices,Per Vices,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+7cups,7Cups,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Adk Python,Adk Python,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Hindsight,Hindsight,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+SimplyInsured,Simplyinsured,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Keploy,Keploy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+CircuitHub,Circuithub,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Experiment,Experiment,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+RADAR,Radar,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.908604Z
+Lollipuff,Lollipuff,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Strikingly,Strikingly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+InfluxData,Influxdata,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Eigent,Eigent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Etleap,Etleap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Skillspector,Skillspector,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Casdoor,Casdoor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+CircuitLab,Circuitlab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+StyleUp,Styleup,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+9gag,9Gag,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Everos,Everos,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Svbtle,Svbtle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Plivo,Plivo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Learn Harness Engineering,Learn Harness Engineering,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Double Robotics,Double Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Vastrm,Vastrm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.909599Z
+Bytebot,Bytebot,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Flightfox,Flightfox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Valuecell,Valuecell,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Submittable,Submittable,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+NewsBlur,Newsblur,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Kedro,Kedro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+OctaveWealth,Octavewealth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Upwave,Upwave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Memos,Memos,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Eligible,Eligible,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+FundersClub,Fundersclub,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Art,Art,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Zentail,Zentail,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Mattermost,Mattermost,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Loop Engineering,Loop Engineering,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Human Dx,Human Dx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.910599Z
+Pyod,Pyod,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Mth Sense,Mth Sense,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Vorelios,Vorelios,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+twentyfour26,Twentyfour26,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Astron Agent,Astron Agent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Forward,Forward,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Screenleap,Screenleap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Git Mcp,Git Mcp,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Qokedas,Qokedas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Buxfer,Buxfer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Vision Agents,Vision Agents,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+herdr,Herdr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Lambda Robotics,Lambda Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Oh My Opencode Slim,Oh My Opencode Slim,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Virtualmin,Virtualmin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Conifer,Conifer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.911599Z
+Agent Squad,Agent Squad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Simantic,Simantic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Experiential Labs,Experiential Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Clawx,Clawx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Edviro,Edviro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Coasty,Coasty,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Yao,Yao,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Caution,Caution,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Atomarine,Atomarine,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Cursor Talk To Figma Mcp,Cursor Talk To Figma Mcp,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Billow AI Labs,Billow Ai Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+hardware intelligence,Hardware Intelligence,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Glm 5,Glm 5,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Osseus,Osseus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Salem Robotics Inc,Salem Robotics Inc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Harness Sdk,Harness Sdk,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.912600Z
+Robocurve,Robocurve,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+hiloop,Hiloop,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Open Multi Agent,Open Multi Agent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Dawn Industries,Dawn Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Nex,Nex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Osmedeus,Osmedeus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+OneCLI,Onecli,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Wondering,Wondering,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Backlog.Md,Backlog.Md,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Tracer,Tracer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Amulet,Amulet,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Mini Swe Agent,Mini Swe Agent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Avoca Systems,Avoca Systems,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+SubVysion,Subvysion,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Chinese Llm Benchmark,Chinese Llm Benchmark,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+"SpaceFlow Technologies, Inc.","Spaceflow Technologies, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Petrarch,Petrarch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+App Store Screenshots,App Store Screenshots,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Locke,Locke,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Florin,Florin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Earendil Robotics,Earendil Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Hebbian Robotics,Hebbian Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Vibe Vibe,Vibe Vibe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.913599Z
+Hop Aero,Hop Aero,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Agent FM,Agent Fm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Typia,Typia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+OpenRelay,Openrelay,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Dock,Dock,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Nexent,Nexent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Verdict Machine,Verdict Machine,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+HyperProbe,Hyperprobe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Openagent,Openagent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Grip,Grip,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Skymerse,Skymerse,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Ouroboros,Ouroboros,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Hubble,Hubble,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+83 Sciences,83 Sciences,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Olares,Olares,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.914600Z
+Chromie,Chromie,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Lamb Labs,Lamb Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Sparrow,Sparrow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Mireye,Mireye,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Derya,Derya,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Awesome Agentic Ai Zh,Awesome Agentic Ai Zh,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Decawork,Decawork,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+CarSignal,Carsignal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Gaianet Node,Gaianet Node,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Axelrod,Axelrod,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Levocred AI,Levocred Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Agentscope Java,Agentscope Java,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Praxis AI,Praxis Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Care GP,Care Gp,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Solace Agent Mesh,Solace Agent Mesh,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.915599Z
+Radley,Radley,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Agnost AI,Agnost Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Agentcard,Agentcard,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+ProvenMetal,Provenmetal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Pptagent,Pptagent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Gamgee,Gamgee,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Inkbox,Inkbox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Operon,Operon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Cosmic Robotics,Cosmic Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Ag2,Ag2,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Markov,Markov,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Lumeria,Lumeria,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Koog,Koog,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Marengo,Marengo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+RonanRx Inc.,Ronanrx Inc.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Deepanalyze,Deepanalyze,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Executor,Executor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.916599Z
+Last Accounting Company,Last Accounting Company,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Rlinf,Rlinf,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Pacific,Pacific,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Luca IQ,Luca Iq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+M Flow,M Flow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Financial Datasets,Financial Datasets,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Computable,Computable,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Agenta,Agenta,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Denta,Denta,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Isengard Industries Inc,Isengard Industries Inc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Ekho Labs,Ekho Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Vestris,Vestris,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Ultrasonium,Ultrasonium,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Arbital,Arbital,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Embabel Agent,Embabel Agent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+PokerClubHub,Pokerclubhub,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Neuron Industries,Neuron Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+All Agentic Architectures,All Agentic Architectures,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Neuromorphic,Neuromorphic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+LATO,Lato,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Agent Device,Agent Device,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Risklytics,Risklytics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Daqstra,Daqstra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.917598Z
+Nixtla,Nixtla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Qlo,Qlo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Fabraix,Fabraix,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Omanta,Omanta,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Rational,Rational,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Aktoria Robotics,Aktoria Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Vendo,Vendo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Click,Click,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Whitespace,Whitespace,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Orvixo,Orvixo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Blue Frog Gaming,Blue Frog Gaming,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Atmosphere,Atmosphere,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Almanac,Almanac,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+TareBio,Tarebio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Ai Agents From Zero,Ai Agents From Zero,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.919102Z
+Greypoint Industries,Greypoint Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Graphify Labs,Graphify Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Ooak Data,Ooak Data,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Nori,Nori,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Flyde,Flyde,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+6thSense,6Thsense,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Bloomy,Bloomy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Ii Agent,Ii Agent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+machine0,Machine0,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Pluto,Pluto,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Memmachine,Memmachine,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+FlowManual,Flowmanual,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Stratum Industries,Stratum Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Metorial,Metorial,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Peer,Peer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Molagri,Molagri,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.920108Z
+Sidekick,Sidekick,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Cerenovus,Cerenovus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Agency Tool Company,Agency Tool Company,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Ipollowork,Ipollowork,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Standard Machines,Standard Machines,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Traceforce,Traceforce,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Definite,Definite,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Alkera AI,Alkera Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Rasyn,Rasyn,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Manifold,Manifold,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+screenpipe,Screenpipe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Zaplar,Zaplar,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Pytorch,Pytorch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Prodigy Research,Prodigy Research,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.921108Z
+Touchmark,Touchmark,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Exosat,Exosat,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Codag,Codag,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Context.dev,Context.Dev,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Glen,Glean,88.88888888888889,FuzzyMatch,STARTUP,2026-08-11T09:10:34.922109Z
+Llm Course,Llm Course,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Stoa,Stoa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Marble,Marble,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Netdata,Netdata,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Audun,Audun,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+COACH,Coach,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+D2L Zh,D2L Zh,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Alloovium,Alloovium,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Dialogus,Dialogus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Tesseract,Tesseract,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Mosaic,Mosaic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Bizmark,Bizmark,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Riften,Riften,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Buildbox,Buildbox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Openbb,Openbb,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+RealPact,Realpact,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+GUILD,Guild,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.922109Z
+Annotated Deep Learning Paper Implementations,Annotated Deep Learning Paper Implementations,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Floracene,Floracene,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Rise Reforming,Rise Reforming,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Scikit Learn,Scikit Learn,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Instaplay,Instaplay,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Verdant,Verdant,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Keras,Keras,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+IMPACT Drones,Impact Drones,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Insurf,Insurf,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Ultralytics,Ultralytics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Jcode,Jcode,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+LemonLime,Lemonlime,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Llm App,Llm App,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Gutgutgoose,Gutgutgoose,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Speko,Speko,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Synapse Semiconductor,Synapse Semiconductor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Understudy Labs,Understudy Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Rote,Rote,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.923112Z
+Prized,Prized,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Maingen,Maingen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Enact,Enact,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Supervision,Supervision,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Rex,Rex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Zomma,Zomma,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Made With Ml,Made With Ml,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Nebula Security,Nebula Security,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Kara,Kara,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Julia,Julia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Trope,Trope,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Parasma,Parasma,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Qlib,Qlib,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Belvedir,Belvedir,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Ai Engineering From Scratch,Ai Engineering From Scratch,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Olam Labs,Olam Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Egoist Machines,Egoist Machines,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Airflow,Airflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Perceptron ML,Perceptron Ml,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Erinys,Erinys,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.924110Z
+Streamlit,Streamlit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+HERA,Hera,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Donkey,Donkey,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+OpenTrade,Opentrade,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Hoplite,Hoplite,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+CleverDeck,Cleverdeck,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Pango,Pango,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Ray,Ray,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+tash,Tash,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Torus,Torus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Kebra,Kebra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+GitCafe,Gitcafe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Deepspeed,Deepspeed,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+RightNow,Rightnow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Akkari,Akkari,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Photoprism,Photoprism,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+HeyClicky,Heyclicky,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Rindler,Rindler,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Google Research,Google Research,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Proprio Robotics,Proprio Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.925108Z
+Huscarl,Huscarl,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Thomas,Thomas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Cohesion,Cohesion,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Maquoketa Research,Maquoketa Research,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Intelligence Factory,Intelligence Factory,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Ai Engineering Hub,Ai Engineering Hub,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Amorphic Labs,Amorphic Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+rekursiv.ai,Rekursiv.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Clawvisor,Clawvisor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Framewise Health,Framewise Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Caffe,Caffe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Arctic Health,Arctic Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Playabl.ai,Playabl.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+C Plus Plus,C Plus Plus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Enjamb Labs,Enjamb Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Hyper,Hyper,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+Openpose,Openpose,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+InsForge,Insforge,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.926109Z
+ReasonBlocks,Reasonblocks,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Modern,Modern,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Panacea,Panacea,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Qdrant,Qdrant,100.0,DirectMatch,STARTUP,2026-08-11T09:10:34.927108Z
+CentralComs,Centralcoms,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+KugelAudio,Kugelaudio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Netron,Netron,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Klaimee,Klaimee,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+flowscope,Flowscope,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Trident,Trident,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Gigacatalyst,Gigacatalyst,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Arlo Industries,Arlo Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Astraea,Astraea,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Finceptterminal,Finceptterminal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Lattice Health,Lattice Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Atlas Discovery,Atlas Discovery,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Avea Robotics,Avea Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Asendia AI,Asendia Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Easyocr,Easyocr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Arden,Arden,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+AgentPhone,Agentphone,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.927108Z
+Arzana,Arzana,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Auxos,Auxos,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+D2L En,D2L En,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+"Apollo Atomics, Inc.","Apollo Atomics, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Aster,Aster,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Amboras,Amboras,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+AquaShield,Aquashield,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+ANORIA,Anoria,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+AbInitio Bio,Abinitio Bio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Xgboost,Xgboost,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Ardent,Ardent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Aseon Labs,Aseon Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Fastai,Fastai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Armature,Armature,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Ara,Ara,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Resume Matcher,Resume Matcher,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Archer,Archer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Allowance,Allowance,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+Mlflow,Mlflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.928108Z
+AICE,Aice,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Adialante,Adialante,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Arga Labs,Arga Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Modular,Modular,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Atrisa,Atrisa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Andustry,Andustry,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+afterfive,Afterfive,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+"Applied Electrodynamics, Inc.","Applied Electrodynamics, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Aurorin CAD,Aurorin Cad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Atlia,Atlia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Shap,Shap,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Archal,Archal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+AxionOrbital Space,Axionorbital Space,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Approxima,Approxima,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Assemble,Assemble,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Ashr,Ashr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Aemon,Aemon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+AutoSitu,Autositu,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Avoice,Avoice,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.929108Z
+Asimov,Asimov,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Axis,Axis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+ARC Prize Foundation,Arc Prize Foundation,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Best Of Ml Python,Best Of Ml Python,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Advanced Metal Research,Advanced Metal Research,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Amika,Amika,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Deepface,Deepface,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Antigen,Antigen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Axial,Axial,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Amera,Amera,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Absurd,Absurd,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Automax.ai,Automax.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Aside,Aside,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Nlp Progress,Nlp Progress,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Anto Biosciences,Anto Biosciences,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Aleph Lab,Aleph Lab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Agentic Fabriq,Agentic Fabriq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Allus AI,Allus Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+AnswerThis,Answerthis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+AtlasGrid,Atlasgrid,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Alt-X,Alt-X,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Aspect,Aspect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Serve,Serve,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+AirCaps,Aircaps,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Avent,Avent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Altur,Altur,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Avelis Health,Avelis Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Alara,Alara,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.930112Z
+Autosana,Autosana,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Onnxruntime,Onnxruntime,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Autumn AI,Autumn Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Albacore Inc.,Albacore Inc.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Rasa,Rasa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Async,Async,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Alter,Alter,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Fingpt,Fingpt,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+args,Args,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Astor,Astor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+AgentMail,Agentmail,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Acrely,Acrely,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Video2X,Video2X,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Adaptional,Adaptional,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Autonomous Technologies Group,Autonomous Technologies Group,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Awesome Production Machine Learning,Awesome Production Machine Learning,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Aegis,Aegis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Airweave,Airweave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Adentris,Adentris,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Alkali,Alkali,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Anana,Anana,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Attune,Attune,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Alpha Research,Alpha Research,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Almond,Almond,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Acolite,Acolite,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Auctor,Auctor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Avallon AI,Avallon Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Autostep,Autostep,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Aravolta,Aravolta,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.931110Z
+Ambral,Ambral,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+assistant-ui,Assistant-Ui,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Artifact,Artifact,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Axal,Axal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Atlog,Atlog,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Archon,Archon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+AfterQuery,Afterquery,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Artificial Societies,Artificial Societies,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Agentin AI,Agentin Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+AthenaHQ,Athenahq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Asteroid,Asteroid,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Amby Health,Amby Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Adam,Adam,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+a0.dev,A0.Dev,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+A1Zap by A1Base,A1Zap By A1Base,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Astro,Astro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+awen,Awen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Alice.tech,Alice.Tech,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Aviro,Aviro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Asha Health,Asha Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Apolink,Apolink,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+ArchiLabs,Archilabs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Alex,Alex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Autumn,Autumn,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Abundant,Abundant,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+AutoComputer,Autocomputer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+attimet,Attimet,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Archil,Archil,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Afternoon.co,Afternoon.Co,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.932110Z
+Avora,Avora,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Arva AI,Arva Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Affil.ai,Affil.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Anglera,Anglera,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Assembly HOA,Assembly Hoa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+autarc,Autarc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Argil,Argil,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+&AI,&Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Autumn Labs,Autumn Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Anara,Anara,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Aluna,Aluna,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Anthrogen,Anthrogen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+AutoPallet Robotics,Autopallet Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+AminoAnalytica,Aminoanalytica,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Ares Industries,Ares Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.933110Z
+Atum Works,Atum Works,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Azalea Robotics Corporation,Azalea Robotics Corporation,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Apten,Apten,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Abel Police,Abel Police,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Ångström AI,Ångström Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Aqua Voice,Aqua Voice,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Adapted,Adapted,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Alai,Alai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Artos,Artos,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+ACX,Acx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Andy AI,Andy Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Aftercare,Aftercare,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Astro Mechanica,Astro Mechanica,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Attunement,Attunement,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+atopile,Atopile,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.934110Z
+Artisan,Artisan,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Arini,Arini,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+AveryIQ,Averyiq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Agentic Labs,Agentic Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Aidy,Aidy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+"Argon AI, Inc.","Argon Ai, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Alex,Alex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Andon Labs,Andon Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+AiSDR,Aisdr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Affinity,Affinity,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Andromeda Surgical,Andromeda Surgical,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Automorphic,Automorphic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Apoxy,Apoxy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Aglide,Aglide,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+AgentCollect,Agentcollect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.935108Z
+Arcimus,Arcimus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Alguna,Alguna,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Airgoods,Airgoods,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+AIVideo.com,Aivideo.Com,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Accend,Accend,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Artie,Artie,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Automat,Automat,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Adri AI,Adri Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Atmeto,Atmeto,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Alaan,Alaan,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Ariglad,Ariglad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Alloy,Alloy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Avoca,Avoca,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+AccessOwl,Accessowl,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+Axle,Axle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.936107Z
+AlgoTest,Algotest,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+autone,Autone,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Avina,Avina,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+AiPrise,Aiprise,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Anchor,Anchor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Atlas,Atlas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Artemis Search,Artemis Search,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Aurelian,Aurelian,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+AviaryAI,Aviaryai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Alphawatch AI,Alphawatch Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Airhart Aeronautics,Airhart Aeronautics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Aragorn AI,Aragorn Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.937108Z
+Apply Design,Apply Design,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Activepieces,Activepieces,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+ALT TEX,Alt Tex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Array Labs,Array Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Albiware Inc.,Albiware Inc.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+AYC Fund,Ayc Fund,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Avocademy,Avocademy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Arpari,Arpari,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+amiloz,Amiloz,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Argument Computer Corporation,Argument Computer Corporation,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Amal Invest,Amal Invest,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Attain,Attain,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.938109Z
+Airwork,Airwork,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Arintra,Arintra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Argo,Argo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Alga Biosciences,Alga Biosciences,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Agency,Agency,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Anfin,Anfin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Axis,Axis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Armilla AI,Armilla Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Agentnoon,Agentnoon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Atlas,Atlas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Aspora,Aspora,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Axross Pte Ltd,Axross Pte Ltd,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Actipulse Neuroscience,Actipulse Neuroscience,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Agave,Agave,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+AstroForge,Astroforge,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Apollo,Apollo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Attack Capital,Attack Capital,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Andi,Andi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Amenli,Amenli,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Ahazou,Ahazou,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Aviator,Aviator,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Adravision,Adravision,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Atlas,Atlas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Abatable,Abatable,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Abhi,Abhi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Adni,Adni,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.939218Z
+Ancana,Ancana,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Akute Health,Akute Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Adaptyv,Adaptyv,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+aSim,Asim,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Astek Diagnostics,Astek Diagnostics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Aleph,Aleph,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Aleph Solutions (Alephee),Aleph Solutions (Alephee),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+AI Tech Packs,Ai Tech Packs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+AlgoViral,Algoviral,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Aqua,Aqua,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Awesomic,Awesomic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Anakin,Anakin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+AppX,Appx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+AlgoUniversity,Algouniversity,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Advantage Club,Advantage Club,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Affogato AI,Affogato Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Ananya Health,Ananya Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+ARQ,Arq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.940228Z
+Archbee,Archbee,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Abstra,Abstra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Artillery,Artillery,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+AOA Dx,Aoa Dx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Agapé,Agapé,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Arpio,Arpio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Authologic,Authologic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Axolo,Axolo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Alpas,Alpas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+AgendaPro,Agendapro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Alokai,Alokai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Aurabeat,Aurabeat,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Auricle,Auricle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Anima,Anima,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Alinea,Alinea,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Aviron Interactive,Aviron Interactive,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.941227Z
+Axle Health,Axle Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Axiom.ai,Axiom.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Avocado,Avocado,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+arnata,Arnata,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Albedo,Albedo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+authzed,Authzed,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Alba Orbital,Alba Orbital,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Atomic Industries,Atomic Industries,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Atrato,Atrato,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Abacum,Abacum,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Afriex,Afriex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Arketa,Arketa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Awtomic,Awtomic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Akiflow,Akiflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Atomic,Atomic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Arist,Arist,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+AtoB,Atob,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Aesthetic,Aesthetic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Alpha Vantage,Alpha Vantage,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Anima App,Anima App,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+"AskMyClass, now Soundkins","Askmyclass, Now Soundkins",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Apprentice Health,Apprentice Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Activeloop,Activeloop,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+AnyList,Anylist,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Aerones,Aerones,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+Anjuna,Anjuna,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+ArchForm,Archform,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.942225Z
+AlgoSurg Inc,Algosurg Inc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Aspire,Aspire,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Acely,Acely,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Avro Life Science,Avro Life Science,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Assembly,AssemblyAI,88.88888888888889,FuzzyMatch,STARTUP,2026-08-11T09:10:34.943224Z
+AssemblyAI,AssemblyAI,100.0,DirectMatch,STARTUP,2026-08-11T09:10:34.943224Z
+Airthium,Airthium,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Advano,Advano,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Aecore,Aecore,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+ACLU,Aclu,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+AON3D,Aon3D,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Apozy,Apozy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+AlemHealth,Alemhealth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Aella,Aella,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Ambient.ai,Ambient.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943224Z
+Acunote,Acunote,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Algen Biotechnologies,Algen Biotechnologies,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Airbyte,Airbyte,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Atmo,Atmo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Avion,Avion,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Angle Health,Angle Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+adyn,Adyn,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+AIOS,Aios,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Altay Therapeutics,Altay Therapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Aden,Aden,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Alude,Alude,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Abalone Bio,Abalone Bio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Accord,Accord,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+ApolloShield,Apolloshield,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Apurata,Apurata,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Asher Bio,Asher Bio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Aspect,Aspect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Airfordable,Airfordable,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Athelas,Athelas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Apero Health,Apero Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Atlas,Atlas,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+AccioJob,Acciojob,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+AmberBox Gunshot Detection,Amberbox Gunshot Detection,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+AmpUp,Ampup,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Alpaca,Alpaca,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Aura Vision,Aura Vision,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Axel Travel,Axel Travel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Autodial prev Qwest,Autodial Prev Qwest,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.943727Z
+Ashby,Ashby,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+AI Insurance,Ai Insurance,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Avo,Avo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+AllSome Fulfillment,Allsome Fulfillment,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Astranis,Astranis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Apollo.io,Apollo.Io,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Auro Robotics,Auro Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Appcanary,Appcanary,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Apto Payments,Apto Payments,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Aptible,Aptible,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Axoni,Axoni,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Arcus,Arcus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Apptimize,Apptimize,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Authy,Authy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Anywhere.FM,Anywhere.Fm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+A Thinking Ape,A Thinking Ape,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Arcane,Arcane,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Autotab,Autotab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Arroyo,Arroyo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Anja Health,Anja Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Arc,Arc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Aer,Aer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Awari,Awari,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Avenue,Avenue,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Aquarium Learning,Aquarium Learning,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Altro,Altro,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Audm,Audm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+AutoHub,Autohub,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.944732Z
+Armory,Armory,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Able,Able,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Automatic,Automatic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Ascen,Ascen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Apollo Health,Apollo Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Audobox,Audobox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Amulyte,Amulyte,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Appcubator,Appcubator,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Altrina,Altrina,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Abel,Abel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Airtrain AI,Airtrain Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+AiSupervision,Aisupervision,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Alima,Alima,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+AvairSense,Avairsense,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+AntWalk,Antwalk,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Avion School,Avion School,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Aerotime,Aerotime,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Artifact,Artifact,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Avo,Avo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Aalo,Aalo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+AppHarbor,Appharbor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Adla,Adla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Airo Health,Airo Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+AuroraQ,Auroraq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Expanse,Expanse,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Eden Robotics,Eden Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+ED1TH,Ed1Th,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Elyra,Elyra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.945732Z
+Ekpa,Ekpa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Emdash,Emdash,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+End Close,End Close,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+EigenPal,Eigenpal,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Envariant,Envariant,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Eos AI,Eos Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Exonic,Exonic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Everest,Everest,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Expected Parrot,Expected Parrot,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Efference,Efference,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Epicenter,Epicenter,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Embedder,Embedder,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+EffiGov,Effigov,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Eloquent AI,Eloquent Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.946739Z
+Ergo,Ergo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Exla,Exla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Elip AI,Elip Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Excellence Learning,Excellence Learning,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Enhanced Radar,Enhanced Radar,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Edexia,Edexia,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Ember,Ember,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Endstack,Endstack,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Exin Therapeutics,Exin Therapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+et al.,Et Al.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Elayne,Elayne,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Entropy,Entropy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Ember Robotics,Ember Robotics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Emergent,Emergent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+expand.ai,Expand.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Elevate,Elevate,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Entangl,Entangl,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Educato,Educato,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.947737Z
+Evolvere BioSciences,Evolvere Biosciences,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Eris Biotech,Eris Biotech,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+EdgeTrace,Edgetrace,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Elodin,Elodin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Ellipsis,Ellipsis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Ecliptor,Ecliptor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Eggnog,Eggnog,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+ego,Ego,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Event Horizon Labs,Event Horizon Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Eden Care,Eden Care,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Elythea,Elythea,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Envelope,Envelope,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Energent AI,Energent Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Empirical Health,Empirical Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Epsilla,Epsilla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Electric Air,Electric Air,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Every,Every,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.948737Z
+Elyos AI,Elyos Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Escape,Escape,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Epsilon,Epsilon,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Extend,Extend,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Express Building,Express Building,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Entvin,Entvin,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Ekho,Ekho,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+EthosX,Ethosx,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+erad,Erad,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Elessar,Elessar,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Eugit Therapeutics,Eugit Therapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Eventual,Eventual,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+"Elphinstone, Inc.","Elphinstone, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Enlightra,Enlightra,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Eazipay Inc.,Eazipay Inc.,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Emobi,Emobi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Elementary,Elementary,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Elevate (formerly Bloom),Elevate (Formerly Bloom),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Emerge Career,Emerge Career,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Exa,Exa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Evidence,Evidence,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Examedi,Examedi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Endla,Endla,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.949737Z
+Evidently AI,Evidently Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Encuadrado,Encuadrado,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Enso,Enso,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Enerjazz,Enerjazz,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Epinoma,Epinoma,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Epsilon3,Epsilon3,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Estoca,Estoca,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Entelexo Biotherapeutics,Entelexo Biotherapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Enode,Enode,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Expent Inc,Expent Inc,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Encord,Encord,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Explorex,Explorex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Eden,Eden,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Easol,Easol,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Embeddables,Embeddables,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+ErudiFi,Erudifi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Evolve (makers of Podcast App & Rest),Evolve (Makers Of Podcast App & Rest),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Entocycle,Entocycle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Extern,Extern,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Equator Therapeutics,Equator Therapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+ElectroNeek,Electroneek,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Expo,Expo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Elemeno Health,Elemeno Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+EduRev,Edurev,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.950743Z
+Ello,Ello,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Eze,Eze,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Explo,Explo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+EPIC AEROSPACE,Epic Aerospace,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Emote,Emote,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+EARTH AI,Arthur AI,82.35294117647058,FuzzyMatch,STARTUP,2026-08-11T09:10:34.952118Z
+Embrace,Embrace,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Eclipse Foods,Eclipse Foods,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Emi Labs,Emi Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Exly,Exly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Excepgen,Excepgen,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Eden,Eden,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Easel,Easel,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Exec,Exec,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+EdgeBit,Edgebit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Echodio,Echodio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.952118Z
+Engage Bio,Engage Bio,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Etacts,Etacts,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Enable Us,Enable Us,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Emerge Tools,Emerge Tools,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Embedly,Embedly,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Evry Health,Evry Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Escher Reality,Escher Reality,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Enzyme,Enzyme,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Elucd,Elucd,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Elph,Elph,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Emburse,Emburse,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Engines,Engines,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Emigre,Emigre,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+ExceptionALLY,Exceptionally,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Elpha,Elpha,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Easyplan,Easyplan,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+"Exosonic, Inc.","Exosonic, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Encepheal Therapeutics,Encepheal Therapeutics,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Endpoint Health,Endpoint Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Evo.Do,Evo.Do,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Envyl,Envyl,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Elucify,Elucify,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Condor Energy,Condor Energy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Voxel Energy,Voxel Energy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Orbio Earth,Orbio Earth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Poll Everywhere,Poll Everywhere,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.953127Z
+Directed Edge,Directed Edge,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Nira Energy,Nira Energy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+"DreamCraft Entertainment, Inc.","Dreamcraft Entertainment, Inc.",50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Mind Emulation Foundation,Mind Emulation Foundation,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Releaf Earth,Releaf Earth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Dost Education,Dost Education,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Wright Electric,Wright Electric,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+The Essential,The Essential,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Ready Education,Ready Education,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Science Exchange,Science Exchange,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Pina Earth,Pina Earth,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Shelf Engine,Shelf Engine,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.954126Z
+Jasmine Energy,Jasmine Energy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Marathon Education,Marathon Education,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Tailor-ED,Tailor-Ed,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Portal Entryways,Portal Entryways,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Green Energy Exchange,Green Energy Exchange,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Canopy (was Encarte),Canopy (Was Encarte),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Kenota (formerly ExVivo Labs),Kenota (Formerly Exvivo Labs),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Long Term Stock Exchange,Long Term Stock Exchange,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+The Centre for Effective Altruism,The Centre For Effective Altruism,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Superlog,Superlog,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Talking Computers,Talking Computers,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+21st,21St,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+shortkit,Shortkit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+TrustAI,Trustai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+SF Tensor,Sf Tensor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Quotain,Quotain,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.955126Z
+Lucis,Lucis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Kashikoi,Kashikoi,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+QFEX,Qfex,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Tergle,Tergle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Maive,Maive,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Dartboard,Dartboard,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Melder,Melder,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Struct,Struct,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Candle,Candle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+XTraffic,Xtraffic,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Zettascale,Zettascale,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+CodeViz,Codeviz,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+ideate.xyz,Ideate.Xyz,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Mem0,Mem0,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Feldy,Feldy,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Vibrant Labs,Vibrant Labs,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+CareOasis,Careoasis,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Mandel AI,Mandel Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.956126Z
+Y/n,Y/N,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Coldreach,Coldreach,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Tennr,Tennr,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+InVision Medical Technology,Invision Medical Technology,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+PrimeVault,Primevault,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Unthread,Unthread,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+MSPilot,Mspilot,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+SpadeWorks,Spadeworks,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+SuperSend,Supersend,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+LanceDB,Lancedb,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Kaso,Kaso,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Trébol,Trébol,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Formance,Formance,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.957125Z
+Strive Math,Strive Math,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Svix,Svix,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+CashBook,Cashbook,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Tupelo,Tupelo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+DreamWorld,Dreamworld,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Daybreak Health,Daybreak Health,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Swif.ai,Swif.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+PowerUs,Powerus,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Zip,Zip,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Nestor,Nestor,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+OpenWrench,Openwrench,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Psylaris,Psylaris,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.958125Z
+Close,Close,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Legionfarm,Legionfarm,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Circa,Circa,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Traces,Traces,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+PayMongo,Paymongo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Canix,Canix,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Green Canopy NODE,Green Canopy Node,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+RocketLit,Rocketlit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Dagger,Dagger,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Traceloop,Traceloop,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Unsaddl,Unsaddl,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+SkyLink,Skylink,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Vogent,Vogent,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+KeyDB,Keydb,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Dialect,Dialect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Presto,Presto,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.959128Z
+Owners Circle,Owners Circle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Thorntale,Thorntale,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+GreenTally,Greentally,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+CodeParrot AI,Codeparrot Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Pursuit,Pursuit,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Squire.ai,Squire.Ai,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Perfekto,Perfekto,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Point API,Point Api,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Teevox,Teevox,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Ovipost,Ovipost,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.960636Z
+Peg (formerly Paymobil),Peg (Formerly Paymobil),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Capture,Capture,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Nino Foods,Nino Foods,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Flow,Flow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Castle,Castle,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Squid,Squid,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Codyco,Codyco,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Beglaubigt.de,Beglaubigt.De,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Sorcerer,Sorcerer,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Sirdab,Sirdab,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+GIMO,Gimo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.961644Z
+Upflow,Upflow,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Pools (fka Withfriends),Pools (Fka Withfriends),50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Globe,Globe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Choppy!,Choppy!,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Bemlo,Bemlo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Sekilo,Sekilo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Orderli,Orderli,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Pideaky,Pideaky,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+PaletteHQ,Palettehq,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+QuotaBook,Quotabook,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+Membo,Membo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.962643Z
+HENRY,Henry,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.963643Z
+Joe,Joe,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.963643Z
+Kinect,Kinect,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.963643Z
+Shoptiques,Shoptiques,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.963643Z
+Golpo,Golpo,50.0,PassthroughTitleCase,STARTUP,2026-08-11T09:10:34.963643Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964114Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.964618Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.965627Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.966629Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.967627Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.968626Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.969754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.970753Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.971756Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.972757Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.973754Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.974755Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.975754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.976754Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.978276Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.979283Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.980538Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.981545Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.982544Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.983543Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Harvey,Harvey,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+DeepL,DeepL,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.984542Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Google DeepMind,Google DeepMind,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cleanlab,Cleanlab,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Anthropic,Anthropic,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+OpenAI,OpenAI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Weaviate,Weaviate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Stability AI,Stability AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Pinecone,Pinecone,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+LlamaIndex,LlamaIndex,100.0,AliasDict,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Glean,Glean,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Replicate,Replicate,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Groq,Groq,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Mistral AI,Mistral AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Scale AI,Scale AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Qdrant,Qdrant,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Writer,Writer,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Cursor,Cursor,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Together AI,Together AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Hugging Face,Hugging Face,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+LangChain,LangChain,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arize AI,Arize AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Shield AI,Shield AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+Arthur AI,Arthur AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.985543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Runway,Runway,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Codeium,Codeium,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Synthesia,Synthesia,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+ElevenLabs,ElevenLabs,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Midjourney,Midjourney,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Cohere,Cohere,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Perplexity AI,Perplexity AI,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+Modal,Modal,100.0,DirectMatch,PRODUCT_COMPANY,2026-08-11T09:10:34.986543Z
+"Credit Wellness, LLC","Credit Wellness, Llc",50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Unio Digital,Unio Digital,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Creative Force,Creative Force,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Creative Force,Creative Force,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+IAPWE,Iapwe,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Coalition Technologies,Coalition Technologies,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Lemon.io,Lemon.Io,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Workada,Workada,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Outsite,Outsite,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+TELUS Digital,Telus Digital,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Tribe Wellness,Tribe Wellness,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+STATLINX,Statlinx,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+A.Team,A.Team,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+A.Team,A.Team,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+garden3d,Garden3D,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Mitre Media,Mitre Media,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Lemon.io,Lemon.Io,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Clipster,Clipster,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+The Obesity Society,The Obesity Society,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Coalition Technologies,Coalition Technologies,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+AI Startup,Ai Startup,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.986543Z
+Hunt Remotely,Hunt Remotely,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Whiterose Janitorial Services,Whiterose Janitorial Services,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+American Academy of Achievement,American Academy Of Achievement,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Bapcor Retail,Bapcor Retail,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+tClara,Tclara,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Captain PQ chemical industries Pvt. Limited,Captain Pq Chemical Industries Pvt. Limited,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Corrtech Energy Limited,Corrtech Energy Limited,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Quintessence Films Limited,Quintessence Films Limited,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Compucorp Inc,Compucorp Inc,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Get a Job,Get A Job,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+PlayToMax,Playtomax,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+PlayToMax,Playtomax,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Skinventory,Skinventory,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Beltrami County,Beltrami County,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Mercanti,Mercanti,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+CHINADebate,Chinadebate,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+CHINADebate,Chinadebate,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Casna Group,Casna Group,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.987543Z
+Ulta 3 Cosmetics &amp; Salon,Ulta 3 Cosmetics &Amp; Salon,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Ulta 3 Cosmetics &amp; Salon,Ulta 3 Cosmetics &Amp; Salon,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+ProductionBeast,Productionbeast,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+ProductionBeast,Productionbeast,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Uniparts India Ltd.,Uniparts India Ltd.,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Precision Safe Sidewalks,Precision Safe Sidewalks,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Belfast Area Chamber of Commerce,Belfast Area Chamber Of Commerce,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Giant Leap Consulting,Giant Leap Consulting,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Twittaer,Twittaer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.988545Z
+Manunor Inc.,Manunor Inc.,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+PAXIO,Paxio,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Yooli: FULL TIME: Software Engineer Position,Yooli: Full Time: Software Engineer Position,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Azumo: Technical Leader,Azumo: Technical Leader,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Azumo: Data Engineer,Azumo: Data Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Azumo: Java Engineer,Azumo: Java Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Azumo: Data Engineer,Azumo: Data Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.989050Z
+Faire: Senior Staff Data Engineer,Faire: Senior Staff Data Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+ClickHouse: AI Product Engineer,Clickhouse: Ai Product Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+ClickHouse: AI Product Engineer,Clickhouse: Ai Product Engineer,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+Hygraph: Senior Fullstack Engineer (f/m/d),Hygraph: Senior Fullstack Engineer (F/M/D),50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.990056Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.991055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z
+AI Technology Company,Ai Technology Company,50.0,PassthroughTitleCase,JOB_COMPANY,2026-08-11T09:10:34.992055Z

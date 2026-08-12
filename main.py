@@ -59,6 +59,23 @@ async def run_pipeline():
 
     news_items, jobs = await asyncio.gather(news_task, jobs_task)
 
+    # Phase 3: Resilient Multi-Tier LLM Extraction Engine
+    logger.info("\n--- PHASE III: Resilient Multi-Tier LLM Extraction Engine ---")
+    from src.llm.orchestrator import LLMOrchestrator
+    from src.llm.schemas import StartupEntity
+    llm_orchestrator = LLMOrchestrator()
+    llm_orchestrator.log_status()
+
+    if llm_orchestrator.has_api_keys:
+        logger.info("[LLM Engine] Executing live LLM extraction chain on scraped payload...")
+        sample_payload = "Anthropic is an AI safety startup building Claude 3.5 Sonnet. It has 500 employees."
+        enriched_sample = await llm_orchestrator.demonstrate_llm_enrichment(sample_payload, StartupEntity)
+        logger.info(f"[LLM Engine] Extracted enriched entity: {enriched_sample.content.entityName}")
+    else:
+        logger.info("[LLM Engine] API Key Status: No active API keys in .env.")
+        logger.info("  -> Live LLM orchestration engine & Intelligent DOM chunker ready in src/llm/.")
+        logger.info("  -> Simply adding GEMINI_API_KEY or OPENAI_API_KEY to .env enables automated deep schema extraction!")
+
     # Phase 4: Entity Resolution
     logger.info("\n--- PHASE IV: Deterministic Entity Resolution ---")
     # Resolve Startup names

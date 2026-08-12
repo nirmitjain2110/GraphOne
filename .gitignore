@@ -33,13 +33,11 @@ scratch/
 *.tmp
 *.temp
 
-# =====================================================================
-# Generated Deliverable Outputs & PDF Artifacts
-# (Uncomment if you do NOT want generated CSVs/PDFs committed to git)
-# =====================================================================
-# output/
-# output/*.csv
-# architecture.pdf
+# Intermediate CSV Export Timestamp Files & System PDFs
+output/*_export_*.csv
+output/*_latest.csv
+AI Engineer_*.pdf
+
 
 # =====================================================================
 # IDEs & System Files

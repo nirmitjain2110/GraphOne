@@ -57,6 +57,34 @@ class LLMOrchestrator:
             except Exception as e:
                 logger.warning(f"Failed to init OpenAI client: {e}")
 
+    @property
+    def has_api_keys(self) -> bool:
+        """Returns True if at least one LLM API key is present in environment variables."""
+        return bool(self.gemini_key or self.groq_key or self.openai_key or self.deepseek_key)
+
+    def log_status(self):
+        """Logs current LLM provider readiness and API key presence."""
+        if self.has_api_keys:
+            active = []
+            if self.gemini_key: active.append("Gemini Flash")
+            if self.groq_key: active.append("Groq Llama 3")
+            if self.openai_key: active.append("OpenAI GPT-4o-mini")
+            if self.deepseek_key: active.append("DeepSeek")
+            logger.info(f"[LLM Engine] Active LLM API keys detected: {', '.join(active)}. Ready for multi-tier LLM extraction.")
+        else:
+            logger.info("[LLM Engine] No LLM API key configured in .env. System operating in High-Speed Deterministic & Heuristic Fallback Mode.")
+            logger.info("  -> Demo Note: Adding GEMINI_API_KEY or OPENAI_API_KEY to .env directly triggers live LLM extraction without any code changes.")
+
+    async def demonstrate_llm_enrichment(self, text_payload: str, schema_cls: Type[T]) -> T:
+        """
+        Executes LLM extraction engine on input payload.
+        Uses multi-tier fallback (Gemini -> Groq -> OpenAI -> Rule Fallback), Intelligent DOM Chunking,
+        and Exponential Backoff rate-limit handling.
+        """
+        self.log_status()
+        prompt = f"Extract structured information matching schema {schema_cls.__name__} from raw content."
+        return await self.extract_structured(prompt, text_payload, schema_cls)
+
     async def extract_structured(self, prompt: str, text_payload: str, schema_cls: Type[T]) -> T:
         """Runs prompt across LLM fallback chain until structured schema is returned."""
         full_prompt = (

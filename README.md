@@ -4,7 +4,7 @@ Production-grade asynchronous data pipeline built for **GraphOne / FrontierAtlas
 
 ---
 
-## 🌟 Key Capabilities
+##  Key Capabilities
 
 1. **Massive Bulk Data Acquisition (Phase I)**:
    - **1,000+ AI Startups**: Ingested with metadata (employee count, domain, description).
@@ -25,7 +25,7 @@ Production-grade asynchronous data pipeline built for **GraphOne / FrontierAtlas
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── main.py                         # Main execution pipeline entrypoint
@@ -62,7 +62,7 @@ Production-grade asynchronous data pipeline built for **GraphOne / FrontierAtlas
 
 ---
 
-## ⚡ Quickstart Setup & Execution
+##  Quickstart Setup & Execution
 
 ### 1. Install Dependencies
 ```bash
@@ -94,7 +94,7 @@ pytest tests/
 
 ---
 
-## 📊 Deliverables Checklist
+##  Deliverables Checklist
 
 - [x] **Tab 1: Startups** ($\ge 1,000$ rows) -> `output/startups.csv`
 - [x] **Tab 2: Products** ($\ge 1,000$ rows) -> `output/products.csv`

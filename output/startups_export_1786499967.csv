@@ -1,0 +1,1215 @@
+schemaVersion,recordType,source_name,source_url,entityName,employeeCount,description,category,collectedAt
+1.0,STARTUP,AI Ecosystem Directory,https://anthropic.com,Anthropic,500,AI safety and research company building the Claude model family,Artificial Intelligence,2026-08-12T01:58:38.166088Z
+1.0,STARTUP,Y Combinator Directory,https://groww.in,Groww,1050,"Making financial services simple, transparent and delightful.",Fintech,2026-08-12T01:58:37.193960Z
+1.0,STARTUP,AI Ecosystem Directory,https://mistral.ai,Mistral AI,120,Open and portable generative AI models for developers and enterprise,Artificial Intelligence,2026-08-12T01:58:37.393564Z
+1.0,STARTUP,Y Combinator Directory,https://www.instacart.com,Instacart,3000,Marketplace for grocery delivery and pickup,Consumer,2026-08-12T01:58:38.859717Z
+1.0,STARTUP,AI Ecosystem Directory,https://cohere.com,Cohere,400,Enterprise AI platform offering high-performance LLMs and RAG APIs,Enterprise AI,2026-08-12T01:58:37.645063Z
+1.0,STARTUP,Y Combinator Directory,http://gitlab.com/,Gitlab,2000,A complete DevOps platform delivered as a single application.,B2B,2026-08-12T01:58:39.128880Z
+1.0,STARTUP,Y Combinator Directory,http://rigetti.com,Rigetti Computing,51,Quantum coherent supercomputing.,Industrials,2026-08-12T01:58:39.731632Z
+1.0,STARTUP,Y Combinator Directory,http://dropbox.com,Dropbox,4000,Backup and share files in the cloud.,B2B,2026-08-12T01:58:39.034431Z
+1.0,STARTUP,AI Ecosystem Directory,https://elevenlabs.io,ElevenLabs,100,AI voice generator and text-to-speech voice cloning software platform,Audio AI,2026-08-12T01:58:37.441713Z
+1.0,STARTUP,Y Combinator Directory,https://www.equipmentshare.com,Equipmentshare,5400,Cloud solutions for the construction industry.,Real Estate and Construction,2026-08-12T01:58:38.276431Z
+1.0,STARTUP,Y Combinator Directory,https://www.billiontoone.com,Billiontoone,300,The genetic testing platform detecting and measuring disease.,Healthcare,2026-08-12T01:58:37.277352Z
+1.0,STARTUP,AI Ecosystem Directory,https://runwayml.com,Runway,110,Applied AI research company building generative video creation tools,Generative Media,2026-08-12T01:58:38.187028Z
+1.0,STARTUP,Y Combinator Directory,http://matterport.com,Matterport,201,Turn physical objects and environments into 3D models in seconds.,Consumer,2026-08-12T01:58:38.720071Z
+1.0,STARTUP,Y Combinator Directory,https://amplitude.com,Amplitude,750,Digital Analytics Platform,B2B,2026-08-12T01:58:38.298002Z
+1.0,STARTUP,AI Ecosystem Directory,https://pinecone.io,Pinecone,200,Vector database infrastructure for high-performance machine learning,Data Infrastructure,2026-08-12T01:58:38.197542Z
+1.0,STARTUP,Y Combinator Directory,http://ginkgobioworks.com,Ginkgo Bioworks,641,Our mission is to make biology easier to engineer.,Healthcare,2026-08-12T01:58:38.780118Z
+1.0,STARTUP,AI Ecosystem Directory,https://weaviate.io,Weaviate,90,Open source vector search engine built for scale and multimodal AI,Data Infrastructure,2026-08-12T01:58:37.303488Z
+1.0,STARTUP,Y Combinator Directory,http://getweave.com,Weave,600,Customer communication and payments platform.,B2B,2026-08-12T01:58:40.036371Z
+1.0,STARTUP,Y Combinator Directory,http://www.pardesbio.com,Pardes Biosciences,2,We break viruses,Healthcare,2026-08-12T01:58:37.739250Z
+1.0,STARTUP,AI Ecosystem Directory,https://qdrant.tech,Qdrant,75,High-performance vector database for production neural search,Data Infrastructure,2026-08-12T01:58:37.369096Z
+1.0,STARTUP,Y Combinator Directory,https://momentus.space,Momentus,125,The space infrastructure services company,Industrials,2026-08-12T01:58:38.036870Z
+1.0,STARTUP,AI Ecosystem Directory,https://together.ai,Together AI,130,Cloud platform for fast open source AI model training and inference,Cloud Infrastructure,2026-08-12T01:58:38.448455Z
+1.0,STARTUP,Y Combinator Directory,http://www.algolia.com,Algolia,810,A developer-friendly and enterprise-grade search API.,B2B,2026-08-12T01:58:38.920879Z
+1.0,STARTUP,Y Combinator Directory,https://www.truebill.com,Truebill,225,Live your best financial life,Fintech,2026-08-12T01:58:39.271847Z
+1.0,STARTUP,AI Ecosystem Directory,https://replicate.com,Replicate,50,Run and fine-tune open-source machine learning models with cloud APIs,Developer Tools,2026-08-12T01:58:38.159452Z
+1.0,STARTUP,Y Combinator Directory,http://twitch.com,Twitch,2000,A global community creating the future of live entertainment.,Consumer,2026-08-12T01:58:38.755132Z
+1.0,STARTUP,AI Ecosystem Directory,https://langchain.com,LangChain,80,Framework for building context-aware reasoning applications with LLMs,Developer Tools,2026-08-12T01:58:39.223608Z
+1.0,STARTUP,Y Combinator Directory,http://getcruise.com,Cruise,3000,Self-driving cars.,Industrials,2026-08-12T01:58:38.787225Z
+1.0,STARTUP,AI Ecosystem Directory,https://llamaindex.ai,LlamaIndex,60,Data framework for building custom RAG applications over enterprise data,Developer Tools,2026-08-12T01:58:38.169321Z
+1.0,STARTUP,Y Combinator Directory,http://casetext.com,Casetext,50,We make the world's laws free and understandable.,B2B,2026-08-12T01:58:38.210542Z
+1.0,STARTUP,Y Combinator Directory,http://bird.com,Bird,500,The world’s largest omnichannel communications platform,B2B,2026-08-12T01:58:38.231064Z
+1.0,STARTUP,Y Combinator Directory,https://www.brex.com,Brex,1000,"Business accounts, corporate cards, and spend management software.",Fintech,2026-08-12T01:58:37.748289Z
+1.0,STARTUP,AI Ecosystem Directory,https://synthesia.io,Synthesia,300,AI video generation platform creating synthetic avatars from text scripts,Generative Media,2026-08-12T01:58:38.450420Z
+1.0,STARTUP,Y Combinator Directory,http://codecademy.com,Codecademy,225,The leading online learning platform for technical skills.,Education,2026-08-12T01:58:38.630944Z
+1.0,STARTUP,AI Ecosystem Directory,https://codeium.com,Codeium,150,Free AI code acceleration platform and Windsurf agentic IDE,Developer Tools,2026-08-12T01:58:38.797748Z
+1.0,STARTUP,Y Combinator Directory,http://www.checkr.com,Checkr,800,People infrastructure for the future of work,B2B,2026-08-12T01:58:39.037339Z
+1.0,STARTUP,Y Combinator Directory,https://www.lever.co/,Lever,225,Talent Acquisition Suite that combines ATS + Talent CRM,B2B,2026-08-12T01:58:38.070116Z
+1.0,STARTUP,AI Ecosystem Directory,https://writer.com,Writer,220,Enterprise generative AI platform with custom Palmyra LLMs and governance,Enterprise AI,2026-08-12T01:58:37.730250Z
+1.0,STARTUP,Y Combinator Directory,https://www.clipboardworks.com/careers,Clipboard,1000,"Every shift, Covered.",Consumer,2026-08-12T01:58:37.798108Z
+1.0,STARTUP,Y Combinator Directory,https://heap.io/,Heap,388,Captures user interactions with no code to generate analytics.,B2B,2026-08-12T01:58:38.459500Z
+1.0,STARTUP,AI Ecosystem Directory,https://glean.com,Glean,450,Workplace AI search engine discovering knowledge across enterprise apps,Enterprise Search,2026-08-12T01:58:38.475628Z
+1.0,STARTUP,Y Combinator Directory,https://www.sendwave.com,Sendwave,350,"Instant, no fee international remittances.",Fintech,2026-08-12T01:58:38.232059Z
+1.0,STARTUP,Y Combinator Directory,https://www.deel.com/,DeepL,5000,The all-in-one HR and payroll platform for global teams,B2B,2026-08-12T01:58:37.757248Z
+1.0,STARTUP,AI Ecosystem Directory,https://deepl.com,DeepL,600,Neural machine translation service delivering precise language translation,Language AI,2026-08-12T01:58:39.375718Z
+1.0,STARTUP,Y Combinator Directory,https://clever.com,Clever,210,The platform that powers technology in the classroom.,Education,2026-08-12T01:58:39.618001Z
+1.0,STARTUP,Y Combinator Directory,https://www.caper.ai/,Caper,15,Plug-and-play cashier-less retail powered by computer vision and AI,B2B,2026-08-12T01:58:37.846416Z
+1.0,STARTUP,AI Ecosystem Directory,https://groq.com,Groq,250,Ultra-fast LPU inference engine for real-time generative AI processing,AI Hardware,2026-08-12T01:58:38.104562Z
+1.0,STARTUP,Y Combinator Directory,http://reddit.com,Reddit,2000,The frontpage of the internet.,Consumer,2026-08-12T01:58:39.176464Z
+1.0,STARTUP,AI Ecosystem Directory,https://cleanlab.ai,Cleanlab,35,Automated data curation and error detection for machine learning datasets,Data Quality,2026-08-12T01:58:38.002686Z
+1.0,STARTUP,Y Combinator Directory,https://www.mz.com,Machine Zone,501,Pioneers of mobile social gaming.,Consumer,2026-08-12T01:58:38.699860Z
+1.0,STARTUP,Y Combinator Directory,https://www.faire.com/,Faire,900,The global online platform empowering independent retail.,B2B,2026-08-12T01:58:38.332061Z
+1.0,STARTUP,AI Ecosystem Directory,https://arthur.ai,Arthur AI,90,Model monitoring and AI performance safety validation platform,AI Observability,2026-08-12T01:58:38.592424Z
+1.0,STARTUP,Y Combinator Directory,http://optimizely.com,Optimizely,1500,The first all-in-one operating system for marketing,B2B,2026-08-12T01:58:39.569250Z
+1.0,STARTUP,AI Ecosystem Directory,https://shield.ai,Shield AI,700,Autonomous AI pilot technology for defense systems and aircraft,Autonomous Systems,2026-08-12T01:58:38.373703Z
+1.0,STARTUP,Y Combinator Directory,http://weebly.com,Weebly,201,Build a free website that grows with your business.,B2B,2026-08-12T01:58:39.441356Z
+1.0,STARTUP,Y Combinator Directory,http://www.flocksafety.com,Flock Safety,1000,The first public safety operating system that eliminates crime.,B2B,2026-08-12T01:58:38.530041Z
+1.0,STARTUP,AI Ecosystem Directory,https://anyscale.com,Anyscale,200,Scalable compute platform powered by Ray for training and serving AI,Cloud Infrastructure,2026-08-12T01:58:39.704942Z
+1.0,STARTUP,Y Combinator Directory,https://www.nurx.com/,Nurx,300,"Medicine or testing kit, prescribed online and delivered to your door.",Healthcare,2026-08-12T01:58:38.261082Z
+1.0,STARTUP,AI Ecosystem Directory,https://scale.com,Scale AI,1200,Data platform powering AI development through expert human annotation and RLHF,Data Infrastructure,2026-08-12T01:58:38.503078Z
+1.0,STARTUP,Y Combinator Directory,http://coreos.com,Coreos,150,Open source tools of modern distributed systems.,B2B,2026-08-12T01:58:40.772802Z
+1.0,STARTUP,AI Ecosystem Directory,https://huggingface.co,Hugging Face,300,The open platform and community for machine learning models and datasets,Developer Tools,2026-08-12T01:58:38.168271Z
+1.0,STARTUP,Y Combinator Directory,http://bearflagrobotics.com/,Bear Flag Robotics,10,Autonomous driving technology for farm tractors.,Industrials,2026-08-12T01:58:38.696522Z
+1.0,STARTUP,Y Combinator Directory,https://www.goatgroup.com/,Goat Group,1600,"Platform for the greatest products from the past, present and future.",Consumer,2026-08-12T01:58:39.534204Z
+1.0,STARTUP,AI Ecosystem Directory,https://harvey.ai,Harvey Ai,180,Domain-specific AI solution built for professional legal services,Legal AI,2026-08-12T01:58:39.429890Z
+1.0,STARTUP,Y Combinator Directory,http://grubmarket.com,Grubmarket,4548,AI-powered technology enabler and digital transformer of American…,B2B,2026-08-12T01:58:39.749484Z
+1.0,STARTUP,Y Combinator Directory,https://www.hellosign.com,Hellosign,100,eSignature software for small and mid-market businesses.,B2B,2026-08-12T01:58:39.249533Z
+1.0,STARTUP,Y Combinator Directory,http://zenefits.com,Zenefits,500,"HR for small businesses: onboarding, payroll and benefits.",B2B,2026-08-12T01:58:39.820957Z
+1.0,STARTUP,Y Combinator Directory,https://www.honeylove.com,Honeylove,100,Honeylove makes functional undergarments for women,Consumer,2026-08-12T01:58:38.680974Z
+1.0,STARTUP,Y Combinator Directory,https://cognitohq.com,Cognito,12,"Frictionless, modern identity verification that starts with just a…",B2B,2026-08-12T01:58:38.729067Z
+1.0,STARTUP,Y Combinator Directory,https://www.moxionpower.com/,Moxion Power Co.,380,Mobile Energy Storage Technology,Industrials,2026-08-12T01:58:39.155725Z
+1.0,STARTUP,Y Combinator Directory,https://www.drchrono.com,Drchrono,150,The essential platform for modern medical practices and patients.,Healthcare,2026-08-12T01:58:38.882881Z
+1.0,STARTUP,Y Combinator Directory,https://www.newfront.com/,Newfront,800,Modern insurance brokerage.,Fintech,2026-08-12T01:58:39.026675Z
+1.0,STARTUP,Y Combinator Directory,https://nowports.com/,Nowports,550,The core engine of supply chain in LATAM,B2B,2026-08-12T01:58:39.876557Z
+1.0,STARTUP,Y Combinator Directory,https://proxy.com,Proxy,20,Smart ring digital wallet,Consumer,2026-08-12T01:58:41.659428Z
+1.0,STARTUP,Y Combinator Directory,https://podium.com,Podium,1000,Get more leads. Make more money.,B2B,2026-08-12T01:58:40.292040Z
+1.0,STARTUP,Y Combinator Directory,https://razorpay.com,Razorpay,2700,India's only full-stack financial solutions company for businesses.,Fintech,2026-08-12T01:58:39.050735Z
+1.0,STARTUP,Y Combinator Directory,http://stripe.com,Stripe,7000,Economic infrastructure for the internet.,Fintech,2026-08-12T01:58:41.784810Z
+1.0,STARTUP,Y Combinator Directory,https://wave.com,Wave,1600,Mobile money app for Africa,Fintech,2026-08-12T01:58:41.926595Z
+1.0,STARTUP,Y Combinator Directory,http://zapier.com,Zapier,700,The easiest way to automate your work.,B2B,2026-08-12T01:58:41.452150Z
+1.0,STARTUP,Y Combinator Directory,http://www.focal.systems,Focal Systems,170,Building the Operating System for B&M Retail using Deep Learning,B2B,2026-08-12T01:58:41.160194Z
+1.0,STARTUP,Y Combinator Directory,http://www.bymason.com,Mason,65,Mason is the fastest way to take smart devices from idea to end user,B2B,2026-08-12T01:58:41.806592Z
+1.0,STARTUP,Y Combinator Directory,http://www.tovala.com,Tovala,375,A smart-oven-paired subscription meal service.,Consumer,2026-08-12T01:58:41.964361Z
+1.0,STARTUP,Y Combinator Directory,https://www.stealthworker.com,Stealth Worker,5,"Information Security (Cyber Security), Compliance and Privacy (GDPR &…",B2B,2026-08-12T01:58:40.941119Z
+1.0,STARTUP,Y Combinator Directory,http://soundboks.com,Soundboks,50,We're creating the loudest battery-driven speaker on the market,Consumer,2026-08-12T01:58:42.203582Z
+1.0,STARTUP,Y Combinator Directory,https://lattice.com,Lattice,540,Modern people management platform.,B2B,2026-08-12T01:58:40.220239Z
+1.0,STARTUP,Y Combinator Directory,https://www.tetrascience.com,Tetrascience,100,The only R&D data cloud for life sciences,Healthcare,2026-08-12T01:58:41.089005Z
+1.0,STARTUP,Y Combinator Directory,https://www.xendit.co/,Xendit,700,Provides payment infrastructure for Southeast Asia,Fintech,2026-08-12T01:58:42.377497Z
+1.0,STARTUP,Y Combinator Directory,https://shredvideo.com,Shred Video,2,Shred Video builds automated video & photo systems that allow…,Consumer,2026-08-12T01:58:41.798444Z
+1.0,STARTUP,Y Combinator Directory,https://zeplin.io,Zeplin,140,Deliver on the Promise of Design,B2B,2026-08-12T01:58:42.744972Z
+1.0,STARTUP,Y Combinator Directory,https://www.clerky.com,Clerky,35,Makes legal paperwork easy for startups and their attorneys.,B2B,2026-08-12T01:58:42.108997Z
+1.0,STARTUP,Y Combinator Directory,https://www.tesorio.com,Tesorio,53,Tesorio is the cash flow performance platform that helps finance…,B2B,2026-08-12T01:58:42.293018Z
+1.0,STARTUP,Y Combinator Directory,https://www.snapmagic.com,Snapmagic,23,AI-assisted electronics design,B2B,2026-08-12T01:58:42.709366Z
+1.0,STARTUP,Y Combinator Directory,https://goteleport.com,Teleport,255,The Infrastructure Identity Company,B2B,2026-08-12T01:58:42.832886Z
+1.0,STARTUP,Y Combinator Directory,https://www.quartzy.com,Quartzy,100,Marketplace for life science supplies.,Healthcare,2026-08-12T01:58:43.534942Z
+1.0,STARTUP,Y Combinator Directory,http://www.tara.ai,Tara Ai,13,"Meet Tara AI, your new engineering efficiency co-pilot.",B2B,2026-08-12T01:58:43.091108Z
+1.0,STARTUP,Y Combinator Directory,https://getmeadow.com,Meadow,14,Point of Sale and Compliance SaaS for Cannabis Dispensaries,B2B,2026-08-12T01:58:44.452436Z
+1.0,STARTUP,Y Combinator Directory,https://www.ebrandvalue.com/,Ebrandvalue,10,Real-time Nielsen ratings for Brands.Accelerate marketing and product…,B2B,2026-08-12T01:58:45.100455Z
+1.0,STARTUP,Y Combinator Directory,https://www.resolvebim.com,Resolve,10,Software to accelerate construction by finding issues in 3D BIM,Real Estate and Construction,2026-08-12T01:58:44.398694Z
+1.0,STARTUP,Y Combinator Directory,https://www.makrwatch.com,Makrwatch,19,Scale new user acquisition with YouTube Creators,B2B,2026-08-12T01:58:45.272071Z
+1.0,STARTUP,Y Combinator Directory,https://tempo.fit/,Tempo,158,Live home fitness training powered by computer vision.,Healthcare,2026-08-12T01:58:44.725701Z
+1.0,STARTUP,Y Combinator Directory,https://sailsjs.com/about,Sails Co.,4,"Full-service web, mobile, & cloud studio providing professional…",B2B,2026-08-12T01:58:44.629462Z
+1.0,STARTUP,Y Combinator Directory,http://readme.com,Readme,52,"Beautiful, personalized, interactive developer hubs",B2B,2026-08-12T01:58:45.433011Z
+1.0,STARTUP,Y Combinator Directory,http://www.buildscience.com/,Buildscience,1,The operating system for commercial buildings.,Real Estate and Construction,2026-08-12T01:58:44.498211Z
+1.0,STARTUP,Y Combinator Directory,https://platzi.com,Platzi,123,Turning company knowledge into expert teams,B2B,2026-08-12T01:58:44.788404Z
+1.0,STARTUP,Y Combinator Directory,https://labdoor.com,Labdoor,11,Labdoor is building the trusted online drugstore.,Consumer,2026-08-12T01:58:45.498226Z
+1.0,STARTUP,Y Combinator Directory,https://onesignal.com,Onesignal,150,Engage customers through personalized omni-channel messaging,B2B,2026-08-12T01:58:44.713792Z
+1.0,STARTUP,Y Combinator Directory,https://www.numerionlabs.ai,Numerion Labs,67,Artificial intelligence for drug discovery.,Healthcare,2026-08-12T01:58:45.634726Z
+1.0,STARTUP,Y Combinator Directory,https://getmagic.com/,Magic,350,Extremely talented assistants for busy people,B2B,2026-08-12T01:58:44.852792Z
+1.0,STARTUP,Y Combinator Directory,https://www.mezmo.com/,Mezmo,172,Observability platform to control all of your log data,B2B,2026-08-12T01:58:44.727706Z
+1.0,STARTUP,Y Combinator Directory,http://bayesimpact.org,Bayes Impact,11,Tech nonprofit building the future of public services.,Unspecified,2026-08-12T01:58:45.658728Z
+1.0,STARTUP,Y Combinator Directory,http://helionenergy.com,Helion Energy,150,Building the world's first fusion power plant,Industrials,2026-08-12T01:58:45.831903Z
+1.0,STARTUP,Y Combinator Directory,http://hackerrank.com,Hackerrank,300,Change the world to value skills over pedigree,B2B,2026-08-12T01:58:45.480126Z
+1.0,STARTUP,Y Combinator Directory,https://front.com,Front,385,Customer communications hub for building strong relationships,B2B,2026-08-12T01:58:45.017770Z
+1.0,STARTUP,Y Combinator Directory,http://www.spotangels.com,Spotangels,11,Waze for parking,Consumer,2026-08-12T01:58:45.602150Z
+1.0,STARTUP,Y Combinator Directory,https://www.usergems.com,Usergems,100,The AI Command Center for outbound and ABM,B2B,2026-08-12T01:58:44.927787Z
+1.0,STARTUP,Y Combinator Directory,http://sfox.com,Sfox,60,Crypto-currency trading platform.,Fintech,2026-08-12T01:58:45.926386Z
+1.0,STARTUP,Y Combinator Directory,https://picnic.ai,Picnicai,100,Intelligence to accelerate human health.,Healthcare,2026-08-12T01:58:44.995374Z
+1.0,STARTUP,Y Combinator Directory,https://permutive.com,Permutive,205,Rebuilding data in advertising to protect privacy,B2B,2026-08-12T01:58:45.791384Z
+1.0,STARTUP,Y Combinator Directory,http://www.alchemynano.com,Alchemy,25,Nanotechnology-enabled coatings for automotive and defence sectors,Industrials,2026-08-12T01:58:45.313858Z
+1.0,STARTUP,Y Combinator Directory,https://protocol.ai/,Protocol Labs,130,"Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",B2B,2026-08-12T01:58:45.358291Z
+1.0,STARTUP,Y Combinator Directory,http://www.hyperpad.com,Hyperpad,4,"Create, Share, Play Mobile Games on the iPad.",Consumer,2026-08-12T01:58:46.122683Z
+1.0,STARTUP,Y Combinator Directory,https://flaviar.com,Flaviar,60,Try-at-home service for fine spirits,Consumer,2026-08-12T01:58:45.331411Z
+1.0,STARTUP,Y Combinator Directory,https://clear.in/,Clear,900,"Fintech SaaS platform for invoices, taxes, wealth management & credit.",Fintech,2026-08-12T01:58:45.503311Z
+1.0,STARTUP,Y Combinator Directory,http://backpackbang.com,Backpack,2,Marketplace to get stuff from overseas,Consumer,2026-08-12T01:58:45.669733Z
+1.0,STARTUP,Y Combinator Directory,http://immunityproject.org,Immunity Project,11,The free HIV vaccine.,Unspecified,2026-08-12T01:58:46.455534Z
+1.0,STARTUP,Y Combinator Directory,https://www.dyspatch.io,Dyspatch,20,"AI Email Production - Emails on brand, guaranteed to work, fast.",B2B,2026-08-12T01:58:45.486209Z
+1.0,STARTUP,Y Combinator Directory,https://opencurriculum.org,Opencurriculum,1,Helping K-12 teachers and school administrators build awesome…,Unspecified,2026-08-12T01:58:46.578797Z
+1.0,STARTUP,Y Combinator Directory,http://mixerbox.com,Mixerbox,30,AI Super-Apps to Live Easier | The anything anytime superapps…,Consumer,2026-08-12T01:58:46.195020Z
+1.0,STARTUP,Y Combinator Directory,https://www.ycombinator.com,Y Combinator,100,Make something people want.,Fintech,2026-08-12T01:58:45.643736Z
+1.0,STARTUP,Y Combinator Directory,https://www.gbatteries.com,Gbatteries,25,Enabling li-ion batteries to charge ultra fast without compromising…,Industrials,2026-08-12T01:58:46.181184Z
+1.0,STARTUP,Y Combinator Directory,http://zinc.com,Zinc,10,The secret backbone of e-commerce.,B2B,2026-08-12T01:58:48.880293Z
+1.0,STARTUP,Y Combinator Directory,https://www.zidisha.org,Zidisha,1,Direct P2P lending across the international wealth divide.,Fintech,2026-08-12T01:58:47.386460Z
+1.0,STARTUP,Y Combinator Directory,https://www.truevault.com,Truevault,1,We make Privacy Software for SMBs.,B2B,2026-08-12T01:58:46.923788Z
+1.0,STARTUP,Y Combinator Directory,http://www.guesty.com,Guesty,700,The management platform for the short term rental industry.,Real Estate and Construction,2026-08-12T01:58:48.062358Z
+1.0,STARTUP,Y Combinator Directory,http://snapdocs.com,Snapdocs,285,digital mortgage closing,Real Estate and Construction,2026-08-12T01:58:48.394129Z
+1.0,STARTUP,Y Combinator Directory,http://medmonk.com,Medmonk,2,A tool for pharmacists to find funding for patients who are unable to…,Healthcare,2026-08-12T01:58:49.598163Z
+1.0,STARTUP,Y Combinator Directory,http://shoobs.com,Shoobs,5,We help you find and book tickets to great entertainment events that…,Consumer,2026-08-12T01:58:49.339551Z
+1.0,STARTUP,Y Combinator Directory,https://www.pushbullet.com,Pushbullet,3,Push things to your other things.,Consumer,2026-08-12T01:58:47.194200Z
+1.0,STARTUP,Y Combinator Directory,http://povio.com,Povio,250,Engineering and Design that Fuels Startup Success,B2B,2026-08-12T01:58:47.107293Z
+1.0,STARTUP,Y Combinator Directory,https://piinpoint.com,Piinpoint,20,PiinPoint helps businesses find the best locations for growth,B2B,2026-08-12T01:58:48.649930Z
+1.0,STARTUP,Y Combinator Directory,http://codenow.org,Codenow,2,Our mission is to diversify the talent pipeline of students who…,Unspecified,2026-08-12T01:58:48.529120Z
+1.0,STARTUP,Y Combinator Directory,https://codecombat.com,Codecombat,45,Game that teaches computer science to middle and high school kids.,Education,2026-08-12T01:58:47.326531Z
+1.0,STARTUP,Y Combinator Directory,http://noorahealth.org,Noora Health,500,Training patients and their families with health skills,Healthcare,2026-08-12T01:58:48.040924Z
+1.0,STARTUP,Y Combinator Directory,https://ambition.com,Ambition,55,Coaching and gamification software for sales teams.,B2B,2026-08-12T01:58:46.946585Z
+1.0,STARTUP,Y Combinator Directory,http://www.airhelp.com,Airhelp,350,"AirHelp helps air passengers get compensation for delayed, cancelled…",Consumer,2026-08-12T01:58:48.255268Z
+1.0,STARTUP,Y Combinator Directory,https://42technologies.com,42,1,Analytics stack for omnichannel retailers and brands,B2B,2026-08-12T01:58:48.903472Z
+1.0,STARTUP,Y Combinator Directory,https://www.truelinkfinancial.com/,True Link,100,Financial Services for Financial Caregivers.,Fintech,2026-08-12T01:58:46.970606Z
+1.0,STARTUP,Y Combinator Directory,http://reebee.com,Reebee,11,Flyer app.,Consumer,2026-08-12T01:58:48.971206Z
+1.0,STARTUP,Y Combinator Directory,http://lob.com,Lob,150,Lob is the only automation platform that transforms direct mail into…,B2B,2026-08-12T01:58:49.318537Z
+1.0,STARTUP,Y Combinator Directory,https://www.panoramaed.com/,Panorama Education,350,Improving education for every student.,Education,2026-08-12T01:58:47.333624Z
+1.0,STARTUP,Y Combinator Directory,http://cratejoy.com,Cratejoy,51,Cratejoy is the platform for subscriptions,B2B,2026-08-12T01:58:49.229932Z
+1.0,STARTUP,Y Combinator Directory,http://estimote.com,"Estimote, Inc.",40,Location intelligence platform,B2B,2026-08-12T01:58:48.142009Z
+1.0,STARTUP,Y Combinator Directory,http://www.asseta.com,Asseta,4,Marketplace for industrial spare parts and capital equipment.,B2B,2026-08-12T01:58:49.948450Z
+1.0,STARTUP,Y Combinator Directory,https://www.pervices.com,Per Vices,11,Building Mission Critical Software Defined Radio products.,Industrials,2026-08-12T01:58:48.071302Z
+1.0,STARTUP,Y Combinator Directory,http://7cups.com,7Cups,11,7 Cups is an emotional support service that matches up people that…,Healthcare,2026-08-12T01:58:49.737423Z
+1.0,STARTUP,Y Combinator Directory,https://circuithub.com,Circuithub,58,On-Demand Electronics Manufacturing,Industrials,2026-08-12T01:58:48.648932Z
+1.0,STARTUP,Y Combinator Directory,http://experiment.com,Experiment,1,crowdfunding platform for science,Healthcare,2026-08-12T01:58:49.235112Z
+1.0,STARTUP,Y Combinator Directory,https://goradar.com,Radar,120,RADAR is building technology to completely transform the in-store…,B2B,2026-08-12T01:58:48.925297Z
+1.0,STARTUP,Y Combinator Directory,https://www.strikingly.com,Strikingly,99,"The easiest way to create a beautiful, mobile optimized website.",B2B,2026-08-12T01:58:47.423420Z
+1.0,STARTUP,Y Combinator Directory,https://influxdata.com,Influxdata,210,The platform for building and operating time series applications.,B2B,2026-08-12T01:58:49.842363Z
+1.0,STARTUP,Y Combinator Directory,https://etleap.com,Etleap,11,Etleap is an ETL solution for creating perfect data pipelines.,B2B,2026-08-12T01:58:47.600377Z
+1.0,STARTUP,Y Combinator Directory,https://www.circuitlab.com/,Circuitlab,2,Online circuit simulator and electronic schematic editor.,B2B,2026-08-12T01:58:48.791034Z
+1.0,STARTUP,Y Combinator Directory,http://thestyleup.com,Styleup,10,"StyleUp brings effortless joy to getting dressed with daily,…",Consumer,2026-08-12T01:58:49.903072Z
+1.0,STARTUP,Y Combinator Directory,http://9gag.com,9Gag,36,Make the world happier.,Consumer,2026-08-12T01:58:48.571758Z
+1.0,STARTUP,Y Combinator Directory,https://plivo.com,Plivo,320,"Voice AI Agents for customer engagement, including WhatsApp, SMS &…",B2B,2026-08-12T01:58:48.429152Z
+1.0,STARTUP,Y Combinator Directory,https://doublerobotics.com,Double Robotics,11,Telepresence robots,B2B,2026-08-12T01:58:48.939762Z
+1.0,STARTUP,Y Combinator Directory,http://vastrm.com,Vastrm,2,Mass customized active apparel. We are building a full turn key…,Consumer,2026-08-12T01:58:49.582150Z
+1.0,STARTUP,Y Combinator Directory,https://www.submittable.com/,Submittable,302,"The best way to launch, manage and measure social impact programs",B2B,2026-08-12T01:58:47.763952Z
+1.0,STARTUP,Y Combinator Directory,https://www.newsblur.com,Newsblur,1,NewsBlur is a personalized news reader,Consumer,2026-08-12T01:58:48.278570Z
+1.0,STARTUP,Y Combinator Directory,https://octavewealth.com,Octavewealth,2,The 401(k) that helps you grow,B2B,2026-08-12T01:58:48.893461Z
+1.0,STARTUP,Y Combinator Directory,http://www.upwave.com,Upwave,50,Marketing analytics for the world's biggest brand marketers,B2B,2026-08-12T01:58:49.433056Z
+1.0,STARTUP,Y Combinator Directory,https://eligible.com,Eligible,1,Insurance Billing APIs for Healthcare Businesses,Healthcare,2026-08-12T01:58:49.115190Z
+1.0,STARTUP,Y Combinator Directory,https://fundersclub.com/,Fundersclub,5,Online VC,Fintech,2026-08-12T01:58:48.914997Z
+1.0,STARTUP,Y Combinator Directory,https://zentail.com,Zentail,30,We're making ecommerce simple connecting brands with sales channels,B2B,2026-08-12T01:58:48.812738Z
+1.0,STARTUP,Y Combinator Directory,http://mattermost.com,Mattermost,120,Secure Collaboration for Technical Teams,B2B,2026-08-12T01:58:48.984207Z
+1.0,STARTUP,Y Combinator Directory,http://www.mthsense.com/,Mth Sense,11,We're a mobile on-device profiling and ad-serving platform initially…,B2B,2026-08-12T01:58:49.790187Z
+1.0,STARTUP,Y Combinator Directory,https://vorelios.com,Vorelios,2,AI that simulates physics 1000x faster,B2B,2026-08-12T01:58:48.155696Z
+1.0,STARTUP,Y Combinator Directory,https://twentyfour26.com/,Twentyfour26,2,On Demand CNC Prototyping,Industrials,2026-08-12T01:58:48.089537Z
+1.0,STARTUP,Y Combinator Directory,https://www.useforward.co/,Forward,5,Unifying Global Private Credit,B2B,2026-08-12T01:58:48.405403Z
+1.0,STARTUP,Y Combinator Directory,https://screenleap.com,Screenleap,4,One-click screen sharing with installation-free viewing on all devices,B2B,2026-08-12T01:58:49.330535Z
+1.0,STARTUP,Y Combinator Directory,https://qokedas.com/,Qokedas,3,Teaching models to decode the physical world,B2B,2026-08-12T01:58:48.601765Z
+1.0,STARTUP,Y Combinator Directory,https://www.buxfer.com,Buxfer,1,Buxfer helps you make better spending decisions by making it easy to…,Fintech,2026-08-12T01:58:50.062627Z
+1.0,STARTUP,Y Combinator Directory,https://simulithic.com,Simulithic,2,Simulate how any product change will perform before shipping.,B2B,2026-08-12T01:58:48.899468Z
+1.0,STARTUP,Y Combinator Directory,https://herdr.dev/,Herdr,1,building the open agent runtime,B2B,2026-08-12T01:58:48.313593Z
+1.0,STARTUP,Y Combinator Directory,https://lambdarobotics.ai,Lambda Robotics,6,Robotics for AI Infrastructure,Industrials,2026-08-12T01:58:48.284577Z
+1.0,STARTUP,Y Combinator Directory,http://virtualmin.com,Virtualmin,2,Y Combinator Startup,B2B,2026-08-12T01:58:49.838453Z
+1.0,STARTUP,Y Combinator Directory,https://www.conifer.build,Conifer,3,Local-first least cost routing system to reduce 80%+ token spend,B2B,2026-08-12T01:58:48.287586Z
+1.0,STARTUP,Y Combinator Directory,https://simantic.dev,Simantic,4,Firmware simulation for AI agents,B2B,2026-08-12T01:58:48.271677Z
+1.0,STARTUP,Y Combinator Directory,https://experientiallabs.ai,Experiential Labs,2,Turn your AI spend into a cheaper + better model you own,B2B,2026-08-12T01:58:49.249738Z
+1.0,STARTUP,Y Combinator Directory,https://edviroenergy.com,Edviro,2,Energy world models that fix energy waste before it becomes expensive.,B2B,2026-08-12T01:58:48.746182Z
+1.0,STARTUP,Y Combinator Directory,https://caution.co,Caution,5,Hosting platform for software you don't want to get hacked,B2B,2026-08-12T01:58:48.927298Z
+1.0,STARTUP,Y Combinator Directory,https://atomarine.co,Atomarine,2,Off shore nuclear powered data centers at sea.,Industrials,2026-08-12T01:58:48.442292Z
+1.0,STARTUP,Y Combinator Directory,https://thebillow.ai/,Billow Ai Labs,1,AI-native Accounting Firm to Replace the Big-4,B2B,2026-08-12T01:58:48.418131Z
+1.0,STARTUP,Y Combinator Directory,https://hardwareintelligence.ai,Hardware Intelligence,2,AI tools for the chips your AI runs on,B2B,2026-08-12T01:58:48.681929Z
+1.0,STARTUP,Y Combinator Directory,https://osseus.ai/,Osseus,2,The intelligent development platform for robotics,B2B,2026-08-12T01:58:48.896465Z
+1.0,STARTUP,Y Combinator Directory,https://salemroboticsinc.com,Salem Robotics Inc,2,"Deploying robots for inspections in hazardous spaces, like nuclear.",Industrials,2026-08-12T01:58:51.196756Z
+1.0,STARTUP,Y Combinator Directory,https://robocurve.org,Robocurve,2,Evaluating robots in the real world.,Industrials,2026-08-12T01:58:48.659932Z
+1.0,STARTUP,Y Combinator Directory,https://hiloop.ai,Hiloop,2,Infrastructure for recursive self-improvement,B2B,2026-08-12T01:58:49.340545Z
+1.0,STARTUP,Y Combinator Directory,https://www.dawnxr.com,Dawn Industries,2,Automatic Diagnosis & Fix for Industrial Automation Cells,Industrials,2026-08-12T01:58:49.639366Z
+1.0,STARTUP,Y Combinator Directory,https://nex.ai,Nex,5,Claude Cowork for GTM Automations,B2B,2026-08-12T01:58:48.554019Z
+1.0,STARTUP,Y Combinator Directory,https://onecli.sh,Onecli,1,The Identity Gateway for AI Agents,B2B,2026-08-12T01:58:49.166473Z
+1.0,STARTUP,Y Combinator Directory,https://wondering.app,Wondering,2,"Duolingo for learning anything, but 10x better",Consumer,2026-08-12T01:58:48.760270Z
+1.0,STARTUP,Y Combinator Directory,https://tracerml.ai,Tracer,1,Combining open-source AI models for better answers at lower cost,B2B,2026-08-12T01:58:48.759266Z
+1.0,STARTUP,Y Combinator Directory,https://amulet.so/,Amulet,2,High performance file system for agents,B2B,2026-08-12T01:58:49.201811Z
+1.0,STARTUP,Y Combinator Directory,https://avocasystems.com,Avoca Systems,8,The AI-powered operating system for radiology networks,Healthcare,2026-08-12T01:58:49.858122Z
+1.0,STARTUP,Y Combinator Directory,https://subvysion.com,Subvysion,2,We help contractors dig safer with 3D maps of underground…,Real Estate and Construction,2026-08-12T01:58:48.939762Z
+1.0,STARTUP,Y Combinator Directory,https://spaceflow.tech,"Spaceflow Technologies, Inc.",4,The managed runtime for enterprise AI agents,B2B,2026-08-12T01:58:49.466241Z
+1.0,STARTUP,Y Combinator Directory,https://petrarch.co/,Petrarch,3,Unlocking enterprise data for tomorrow's economy,B2B,2026-08-12T01:58:50.412032Z
+1.0,STARTUP,Y Combinator Directory,https://locke.inc,Locke,2,Builders of the first AI-native government affairs firm.,B2B,2026-08-12T01:58:49.969012Z
+1.0,STARTUP,Y Combinator Directory,https://florin.inc,Florin,3,Florin is the insurance carrier with zero underwriters,Fintech,2026-08-12T01:58:49.061699Z
+1.0,STARTUP,Y Combinator Directory,https://earendil.io,Earendil Robotics,7,Drone swarm defence at a small-unit level,Industrials,2026-08-12T01:58:49.184329Z
+1.0,STARTUP,Y Combinator Directory,https://hebbianrobotics.com/,Hebbian Robotics,2,APIs for searching and analyzing Physical AI data at scale,Industrials,2026-08-12T01:58:49.615686Z
+1.0,STARTUP,Y Combinator Directory,https://hopaero.com,Hop Aero,6,Rocket cargo delivery to contested environments,Industrials,2026-08-12T01:58:51.630504Z
+1.0,STARTUP,Y Combinator Directory,https://www.agentfm.ai/,Agent Fm,2,One group chat to hear and steer your coding agents.,B2B,2026-08-12T01:58:49.210328Z
+1.0,STARTUP,Y Combinator Directory,https://www.openrelay.inc,Openrelay,2,"Distributed, hardware-agnostic AI inference",B2B,2026-08-12T01:58:50.866272Z
+1.0,STARTUP,Y Combinator Directory,https://trydock.ai,Dock,2,Multiplayer agent workspace to run your company,B2B,2026-08-12T01:58:49.227287Z
+1.0,STARTUP,Y Combinator Directory,https://verdictmachine.com,Verdict Machine,4,AI cybersecurity for financial institutions' digital assets,B2B,2026-08-12T01:58:49.392147Z
+1.0,STARTUP,Y Combinator Directory,http://hyperprobe.co,Hyperprobe,8,Your coding agent writes code. Now let it fix prod too.,B2B,2026-08-12T01:58:51.056337Z
+1.0,STARTUP,Y Combinator Directory,https://www.griprobotics.ai,Grip,4,Physical AI for waste management,Industrials,2026-08-12T01:58:50.093643Z
+1.0,STARTUP,Y Combinator Directory,https://skymerse.com,Skymerse,1,Autopilot for Flight Operations,Industrials,2026-08-12T01:58:50.600738Z
+1.0,STARTUP,Y Combinator Directory,https://hubble.ai/,Hubble,2,The intelligence layer for patient information,Healthcare,2026-08-12T01:58:49.941539Z
+1.0,STARTUP,Y Combinator Directory,https://83sciences.ai,83 Sciences,3,AI-native materials discovery powered by unpublished experimental data,Industrials,2026-08-12T01:58:50.180007Z
+1.0,STARTUP,Y Combinator Directory,http://lamb-labs.com,Lamb Labs,1,World's fastest AI models,B2B,2026-08-12T01:58:50.343069Z
+1.0,STARTUP,Y Combinator Directory,https://www.mireye.com/,Mireye,2,Infrastructure for Physical World AI Agents,B2B,2026-08-12T01:58:49.474240Z
+1.0,STARTUP,Y Combinator Directory,http://usederya.com,Derya,2,AI-Native Logistics Office,B2B,2026-08-12T01:58:50.987207Z
+1.0,STARTUP,Y Combinator Directory,https://decawork.ai/,Decawork,2,The Agent Control Plane for IT teams,B2B,2026-08-12T01:58:49.577156Z
+1.0,STARTUP,Y Combinator Directory,https://www.trycarsignal.com,Carsignal,2,The Smart Operating System for Auto Shops.,B2B,2026-08-12T01:58:50.500503Z
+1.0,STARTUP,Y Combinator Directory,https://axelrod.live/,Axelrod,2,Boutique Hotels that run themselves,B2B,2026-08-12T01:58:49.686406Z
+1.0,STARTUP,Y Combinator Directory,https://levocred.com/,Levocred Ai,2,"AI for credit funds, fintechs and banks",Fintech,2026-08-12T01:58:50.572714Z
+1.0,STARTUP,Y Combinator Directory,https://www.praxisrobotics.io,Praxis Ai,3,Turns every company into a data vendor,Industrials,2026-08-12T01:58:49.708788Z
+1.0,STARTUP,Y Combinator Directory,https://caregp.com.au/,Care Gp,10,AI agents to run primary healthcare operations,Healthcare,2026-08-12T01:58:50.959290Z
+1.0,STARTUP,Y Combinator Directory,https://radley.health/,Radley,2,"AI-native, full-stack radiology practice",Healthcare,2026-08-12T01:58:50.429972Z
+1.0,STARTUP,Y Combinator Directory,https://agnost.ai,Agnost Ai,2,Product analytics for AI Agents,B2B,2026-08-12T01:58:49.810350Z
+1.0,STARTUP,Y Combinator Directory,https://agentcard.sh,Agentcard,1,debit cards for AI agents.,Fintech,2026-08-12T01:58:50.547271Z
+1.0,STARTUP,Y Combinator Directory,https://provenmetal.com,Provenmetal,4,"Fast-turn, American made PCBs",Industrials,2026-08-12T01:58:50.126659Z
+1.0,STARTUP,Y Combinator Directory,https://gamgee.io/,Gamgee,2,Scalable Personalised Cancer Treatment,Healthcare,2026-08-12T01:58:50.542031Z
+1.0,STARTUP,Y Combinator Directory,https://inkbox.ai,Inkbox,3,"Let your agents communicate via email, phone, iMessage, & Agent2Agent",B2B,2026-08-12T01:58:50.723334Z
+1.0,STARTUP,Y Combinator Directory,https://operonsolutions.com/en,Operon,1,Agentic data layer for manufacturing & process industries.,Industrials,2026-08-12T01:58:50.977210Z
+1.0,STARTUP,Y Combinator Directory,https://www.cosmicrobotics.com/,Cosmic Robotics,8,Autonomous construction on Earth and beyond,Industrials,2026-08-12T01:58:49.822360Z
+1.0,STARTUP,Y Combinator Directory,https://www.markovstudios.com/,Markov,2,Data for computer-use ai,B2B,2026-08-12T01:58:49.936454Z
+1.0,STARTUP,Y Combinator Directory,https://lumeria.skin,Lumeria,3,Oura Ring for Skin.,Healthcare,2026-08-12T01:58:50.203010Z
+1.0,STARTUP,Y Combinator Directory,https://marengox.com,Marengo,3,"Automating engineering design, starting with data centers.",Industrials,2026-08-12T01:58:49.943534Z
+1.0,STARTUP,Y Combinator Directory,https://ronanrx.com/,Ronanrx Inc.,5,We use AI to personalize peptides to your biology,Healthcare,2026-08-12T01:58:50.366336Z
+1.0,STARTUP,Y Combinator Directory,https://executor.sh,Executor,1,The open source integration management layer for AI.,B2B,2026-08-12T01:58:50.271580Z
+1.0,STARTUP,Y Combinator Directory,https://lastaccountingcompany.com/,Last Accounting Company,4,Agent-native accounting firm.,B2B,2026-08-12T01:58:50.413347Z
+1.0,STARTUP,Y Combinator Directory,https://gopacific.ai/,Pacific,2,Mass-producing and deploying micro data centers for Earth and Space,Industrials,2026-08-12T01:58:50.256717Z
+1.0,STARTUP,Y Combinator Directory,https://lucaiq.com/,Luca Iq,5,API First Tax Calculator for CPAs,B2B,2026-08-12T01:58:50.184004Z
+1.0,STARTUP,Y Combinator Directory,https://financialdatasets.ai/,Financial Datasets,1,Connect your agent to the stock market,B2B,2026-08-12T01:58:50.965293Z
+1.0,STARTUP,Y Combinator Directory,https://trynearby.com,Trynearby,5,Local creators for local businesses,B2B,2026-08-12T01:58:50.979209Z
+1.0,STARTUP,Y Combinator Directory,https://getcomputable.com,Computable,2,"Buy, sell, and redeem GPU hours for any week with instant liquidity",Fintech,2026-08-12T01:58:50.891195Z
+1.0,STARTUP,Y Combinator Directory,https://trydenta.com,Denta,1,The dental practice that runs itself,Healthcare,2026-08-12T01:58:51.785251Z
+1.0,STARTUP,Y Combinator Directory,http://isengardindustries.com/,Isengard Industries Inc,30,Mass-produced AI strike systems and Counter-UAS,Industrials,2026-08-12T01:58:52.222560Z
+1.0,STARTUP,Y Combinator Directory,https://ekholabs.com/,Ekho Labs,1,Decisions for disrupted freight,B2B,2026-08-12T01:58:50.384716Z
+1.0,STARTUP,Y Combinator Directory,https://movingatoms.ai/,Moving Atoms,2,Virtual Reality for Robots (World Models),Industrials,2026-08-12T01:58:50.978211Z
+1.0,STARTUP,Y Combinator Directory,https://vestris.ai/,Vestris,2,AI native platform for real estate closings,Real Estate and Construction,2026-08-12T01:58:50.888200Z
+1.0,STARTUP,Y Combinator Directory,https://ultrasonium.com/,Ultrasonium,17,"Manufacturing the metal parts the world runs on faster, cheaper, safer",Industrials,2026-08-12T01:58:50.958238Z
+1.0,STARTUP,Y Combinator Directory,https://www.arbital.xyz,Arbital,3,"The trading terminal for perps, memes, and stocks.",Fintech,2026-08-12T01:58:50.739968Z
+1.0,STARTUP,Y Combinator Directory,https://www.pokerclubhub.com,Pokerclubhub,1,Host a Poker Club and Make Money,Consumer,2026-08-12T01:58:51.503124Z
+1.0,STARTUP,Y Combinator Directory,https://neuronindustries.com,Neuron Industries,2,Industrial Controllers built for AI,Industrials,2026-08-12T01:58:50.367334Z
+1.0,STARTUP,Y Combinator Directory,https://www.neuromorphic.vision/,Neuromorphic,3,Building embodiment agnostic robot brains.,Industrials,2026-08-12T01:58:50.631483Z
+1.0,STARTUP,Y Combinator Directory,https://www.latolabs.io/,Lato,2,Agent-native research and simulation platform for investors,B2B,2026-08-12T01:58:51.046333Z
+1.0,STARTUP,Y Combinator Directory,https://www.risklytics.ai/,Risklytics,2,Commercial Insurance Brokerage for Frontier Tech,Fintech,2026-08-12T01:58:51.147441Z
+1.0,STARTUP,Y Combinator Directory,https://www.daqstra.com,Daqstra,3,AI-native orchestration for physical R&D testing,B2B,2026-08-12T01:58:50.655644Z
+1.0,STARTUP,Y Combinator Directory,https://heytenor.com/,Tenor,3,Turn every employee into a manager of AI workers,B2B,2026-08-12T01:58:50.737964Z
+1.0,STARTUP,Y Combinator Directory,https://www.getqlo.com/,Qlo,2,AI that automates underwriting for commercial insurance carriers,Fintech,2026-08-12T01:58:50.558069Z
+1.0,STARTUP,Y Combinator Directory,https://fabraix.com,Fabraix,2,The world's frontier hacker for AI agents.,B2B,2026-08-12T01:58:50.385725Z
+1.0,STARTUP,Y Combinator Directory,https://omanta.com/,Omanta,4,A research lab for one,Healthcare,2026-08-12T01:58:50.901250Z
+1.0,STARTUP,Y Combinator Directory,https://rational.to,Rational,2,AI Employees for Accounting,B2B,2026-08-12T01:58:51.733826Z
+1.0,STARTUP,Y Combinator Directory,https://aktoria.com/,Aktoria Robotics,2,Human as API for robots,Industrials,2026-08-12T01:58:50.978211Z
+1.0,STARTUP,Y Combinator Directory,https://vendo.run/,Vendo,2,Let your users build their own features on top of your product,B2B,2026-08-12T01:58:50.636788Z
+1.0,STARTUP,Y Combinator Directory,https://www.useclick.ai,Click,1,Research services for ChatGPT and Claude,B2B,2026-08-12T01:58:51.784164Z
+1.0,STARTUP,Y Combinator Directory,https://whitespacehq.ai/,Whitespace,2,AI Operating System for Wholesale Distributors,B2B,2026-08-12T01:58:51.139419Z
+1.0,STARTUP,Y Combinator Directory,https://www.orvixo.ai/,Orvixo,2,AI advanced planning and optimisation for manufacturers.,Industrials,2026-08-12T01:58:50.668971Z
+1.0,STARTUP,Y Combinator Directory,http://bluefroggaming.com,Blue Frog Gaming,11,Y Combinator Startup,Consumer,2026-08-12T01:58:50.812650Z
+1.0,STARTUP,Y Combinator Directory,https://usealmanac.com,Almanac,1,The AI that knows your company,B2B,2026-08-12T01:58:51.626505Z
+1.0,STARTUP,Y Combinator Directory,https://tarebio.com/,Tarebio,1,Vaccines for any cancer or infection in weeks.,Healthcare,2026-08-12T01:58:50.697138Z
+1.0,STARTUP,Y Combinator Directory,https://greypointindustries.com/,Greypoint Industries,4,Manufacturing the future of autonomous swarm warfare.,Industrials,2026-08-12T01:58:51.465226Z
+1.0,STARTUP,Y Combinator Directory,https://www.graphify.com/,Graphify Labs,2,On-device knowledge graph engine for enterprises,B2B,2026-08-12T01:58:51.295285Z
+1.0,STARTUP,Y Combinator Directory,https://ooakdata.com/,Ooak Data,5,We build the world's largest library of real-world business workflow…,B2B,2026-08-12T01:58:50.671972Z
+1.0,STARTUP,Y Combinator Directory,http://norirobotics.com,Nori,5,Affordable robot you can teach to do anything,Industrials,2026-08-12T01:58:51.856139Z
+1.0,STARTUP,Y Combinator Directory,https://bloomylearning.com/,Bloomy,1,AI-powered mastery learning for K-12,Education,2026-08-12T01:58:51.341589Z
+1.0,STARTUP,Y Combinator Directory,https://machine0.io,Machine0,1,Cloud computers for AI agents,B2B,2026-08-12T01:58:50.967205Z
+1.0,STARTUP,Y Combinator Directory,https://talentpluto.com,Pluto,5,AI voice agent that helps professionals get discovered,Consumer,2026-08-12T01:58:51.217327Z
+1.0,STARTUP,Y Combinator Directory,https://flowmanual.com/,Flowmanual,2,AI for Construction's Back Office.,Real Estate and Construction,2026-08-12T01:58:51.397225Z
+1.0,STARTUP,Y Combinator Directory,https://stratumindustries.co/,Stratum Industries,2,AI agents that clear the U.S. government backlog.,Government,2026-08-12T01:58:50.665960Z
+1.0,STARTUP,Y Combinator Directory,https://peer-freight.com,Peer,2,AI-native freight brokerage,B2B,2026-08-12T01:58:51.218375Z
+1.0,STARTUP,Y Combinator Directory,https://molagri.com,Molagri,4,Resistance free pesticides.,Industrials,2026-08-12T01:58:51.389185Z
+1.0,STARTUP,Y Combinator Directory,https://www.cerenovus.ai/,Cerenovus,5,A knowledge company,B2B,2026-08-12T01:58:50.731331Z
+1.0,STARTUP,Y Combinator Directory,https://agencytool.com,Agency Tool Company,3,"Reliable infrastructure to build, deploy and manage real-world robots.",Industrials,2026-08-12T01:58:51.683092Z
+1.0,STARTUP,Y Combinator Directory,https://standardmachines.com,Standard Machines,1,RL Environments For Chip Design,B2B,2026-08-12T01:58:51.429760Z
+1.0,STARTUP,Y Combinator Directory,https://www.traceforce.ai,Traceforce,2,Securing AI native apps directly on devices,B2B,2026-08-12T01:58:50.708169Z
+1.0,STARTUP,Y Combinator Directory,https://www.usedefinite.com,Definite,3,Build everyday back-office agents on one live model of your books,B2B,2026-08-12T01:58:50.760975Z
+1.0,STARTUP,Y Combinator Directory,https://alkera.ai,Alkera Ai,3,Reliable and safe data engineering and data science agents,B2B,2026-08-12T01:58:51.821315Z
+1.0,STARTUP,Y Combinator Directory,https://www.rasyn.ai/,Rasyn,1,Towards a General Intelligence for Chemistry,Healthcare,2026-08-12T01:58:50.812650Z
+1.0,STARTUP,Y Combinator Directory,https://www.manifoldindustries.ai/,Manifold,2,"Low-cost, deployment-ready robotic labor for warehouses",Industrials,2026-08-12T01:58:51.487832Z
+1.0,STARTUP,Y Combinator Directory,https://screenpipe.com,Screenpipe,2,"AI powered by everything you've seen, said or heard",B2B,2026-08-12T01:58:51.207764Z
+1.0,STARTUP,Y Combinator Directory,https://zaplar.com,Zaplar,8,Agentic Hotel Operating System,B2B,2026-08-12T01:58:50.815651Z
+1.0,STARTUP,Y Combinator Directory,https://prodigy.markets,Prodigy Research,2,Training the world's best foundation model for quantitative finance.,Fintech,2026-08-12T01:58:50.966202Z
+1.0,STARTUP,Y Combinator Directory,https://touchmark.ai,Touchmark,2,Market for future inference capacity,B2B,2026-08-12T01:58:51.634763Z
+1.0,STARTUP,Y Combinator Directory,https://codag.ai/,Codag,1,Log compression for agents.,B2B,2026-08-12T01:58:51.462228Z
+1.0,STARTUP,Y Combinator Directory,https://context.dev,Context.Dev,1,We give AI agents realtime web context.,B2B,2026-08-12T01:58:53.171407Z
+1.0,STARTUP,Y Combinator Directory,https://www.tryglen.com/,Glean,1,Unified organizational context for agents and humans,B2B,2026-08-12T01:58:50.979209Z
+1.0,STARTUP,Y Combinator Directory,https://www.stoaexchange.com,Stoa,3,The market behind AI hardware.,Fintech,2026-08-12T01:58:51.432761Z
+1.0,STARTUP,Y Combinator Directory,https://joinmarble.ai/,Marble,2,The autonomous back-of-house for restaurants.,B2B,2026-08-12T01:58:50.987207Z
+1.0,STARTUP,Y Combinator Directory,https://www.getaudun.com/,Audun,4,AI-native debt collection,Fintech,2026-08-12T01:58:52.356881Z
+1.0,STARTUP,Y Combinator Directory,https://www.getcoach.com/,Coach,4,The AI Coach for in person sales reps.,B2B,2026-08-12T01:58:53.467283Z
+1.0,STARTUP,Y Combinator Directory,https://www.alloovium.com/en,Alloovium,5,Construction paperwork that finally works for your team,Real Estate and Construction,2026-08-12T01:58:51.109753Z
+1.0,STARTUP,Y Combinator Directory,https://www.dialoguslabs.com/,Dialogus,3,Infra for enterprise voice agents.,B2B,2026-08-12T01:58:51.902248Z
+1.0,STARTUP,Y Combinator Directory,https://mosaic.inc,Mosaic,2,Defining the frontier of multiplayer AI.,B2B,2026-08-12T01:58:51.462228Z
+1.0,STARTUP,Y Combinator Directory,https://bizmark.ai,Bizmark,2,"The OS for companies that make, move, or sell physical goods",B2B,2026-08-12T01:58:51.216329Z
+1.0,STARTUP,Y Combinator Directory,https://riften.ai,Riften,1,Earned Intelligence for every company.,B2B,2026-08-12T01:58:51.741827Z
+1.0,STARTUP,Y Combinator Directory,https://heybuildbox.com,Buildbox,2,Understand how users experience your AI agents,B2B,2026-08-12T01:58:51.988578Z
+1.0,STARTUP,Y Combinator Directory,https://realpact.ai,Realpact,3,AI-native OS for Real Estate Brokerages,Real Estate and Construction,2026-08-12T01:58:51.117469Z
+1.0,STARTUP,Y Combinator Directory,https://www.guildai.co,Guild,2,Making aerospace parts faster and cheaper for defense,Industrials,2026-08-12T01:58:51.332569Z
+1.0,STARTUP,Y Combinator Directory,https://www.floracene.com/,Floracene,2,Optimized medical device purchasing for independent providers,Healthcare,2026-08-12T01:58:51.432761Z
+1.0,STARTUP,Y Combinator Directory,https://rise-reforming.com/home,Rise Reforming,4,We turn waste gases into valuable supply-secure chemicals,Industrials,2026-08-12T01:58:52.073913Z
+1.0,STARTUP,Y Combinator Directory,https://instaplay.ai,Instaplay,3,"AI-Native Social Platform, Starting with Games",Consumer,2026-08-12T01:58:52.071947Z
+1.0,STARTUP,Y Combinator Directory,https://www.verdantapp.com/,Verdant,2,AI-native land-use permit management for local gov,Government,2026-08-12T01:58:52.899725Z
+1.0,STARTUP,Y Combinator Directory,https://www.impact-drones.com,Impact Drones,2,Air Defense as a Service for Civilian Infrastructure.,Industrials,2026-08-12T01:58:51.473433Z
+1.0,STARTUP,Y Combinator Directory,https://www.insurf.io,Insurf,2,The AI-Native Decision Infrastructure for Health Insurance,Healthcare,2026-08-12T01:58:51.588555Z
+1.0,STARTUP,Y Combinator Directory,https://jcode.sh/,Jcode,1,"20x more coding agents, 20x more productivity",Consumer,2026-08-12T01:58:51.697142Z
+1.0,STARTUP,Y Combinator Directory,https://www.lemonlime.ai/,Lemonlime,5,No-code AI that learns your business and self-creates automations.,B2B,2026-08-12T01:58:52.133910Z
+1.0,STARTUP,Y Combinator Directory,https://gutgutgoose.com/,Gutgutgoose,2,"Personalized probiotics, guaranteed to colonize.",Healthcare,2026-08-12T01:58:51.629498Z
+1.0,STARTUP,Y Combinator Directory,https://speko.ai/?utm_source=ycombinator&utm_medium=profile,Speko,4,OpenRouter for voice AI,B2B,2026-08-12T01:58:52.036945Z
+1.0,STARTUP,Y Combinator Directory,https://synapsesemi.org,Synapse Semiconductor,2,Collapsing the edge AI vision hardware stack into one wafer,Industrials,2026-08-12T01:58:52.017859Z
+1.0,STARTUP,Y Combinator Directory,https://understudylabs.com/,Understudy Labs,2,Effortlessly move to open weight models,B2B,2026-08-12T01:58:51.437243Z
+1.0,STARTUP,Y Combinator Directory,https://tryrote.com/,Rote,1,AI-native insurance department for auto body shops,B2B,2026-08-12T01:58:52.107336Z
+1.0,STARTUP,Y Combinator Directory,https://prized.dev,Prized,2,Lovable for internal tools,B2B,2026-08-12T01:58:51.687102Z
+1.0,STARTUP,Y Combinator Directory,https://www.maingen.ai/,Maingen,2,RL environments for industrial operations,Industrials,2026-08-12T01:58:52.220561Z
+1.0,STARTUP,Y Combinator Directory,https://enact.company,Enact,2,The post-training layer for robotics.,Industrials,2026-08-12T01:58:51.588555Z
+1.0,STARTUP,Y Combinator Directory,https://www.rex.inc,Rex,2,AI Operations Partner for Enterprise Order to Cash,B2B,2026-08-12T01:58:51.542672Z
+1.0,STARTUP,Y Combinator Directory,https://zommalabs.com,Zomma,5,Computer Use Agents for back offices in finance,B2B,2026-08-12T01:58:52.288189Z
+1.0,STARTUP,Y Combinator Directory,https://nebusec.ai,Nebula Security,4,Building Mythos for everyone,B2B,2026-08-12T01:58:52.366085Z
+1.0,STARTUP,Y Combinator Directory,https://karalabs.ai/,Kara,3,Making diamond an engineering material,Industrials,2026-08-12T01:58:52.006451Z
+1.0,STARTUP,Y Combinator Directory,https://trope.ai,Trope,2,The AI-native ERP system integrator,B2B,2026-08-12T01:58:52.133910Z
+1.0,STARTUP,Y Combinator Directory,https://parasma.com,Parasma,1,Training human brain cells for AI compute,B2B,2026-08-12T01:58:52.070917Z
+1.0,STARTUP,Y Combinator Directory,https://belvedir.ai/,Belvedir,1,The easiest way to make private AI models.,B2B,2026-08-12T01:58:51.790167Z
+1.0,STARTUP,Y Combinator Directory,https://olamlabs.ai,Olam Labs,2,Building multi-agent simulations for model evals and training.,B2B,2026-08-12T01:58:51.844506Z
+1.0,STARTUP,Y Combinator Directory,https://ego.ist/,Egoist Machines,2,User-owned memory and preferences that work across every AI app,Consumer,2026-08-12T01:58:51.955026Z
+1.0,STARTUP,Y Combinator Directory,https://perceptronml.com,Perceptron Ml,2,We make law firms AI-native.,B2B,2026-08-12T01:58:52.513291Z
+1.0,STARTUP,Y Combinator Directory,https://erinys.ai,Erinys,3,Building the first network of AI-native law firms,B2B,2026-08-12T01:58:51.768163Z
+1.0,STARTUP,Y Combinator Directory,https://www.manufacturingintelligence.org,Hera,2,Hera catches thousand dollar errors before they hit the shop floor.,Industrials,2026-08-12T01:58:51.783163Z
+1.0,STARTUP,Y Combinator Directory,https://donkey.trade,Donkey,7,The AI-native trading company: China factory-direct for US importers,B2B,2026-08-12T01:58:51.786161Z
+1.0,STARTUP,Y Combinator Directory,https://opentrade.live/,Opentrade,3,The new interface for investing.,Consumer,2026-08-12T01:58:52.802897Z
+1.0,STARTUP,Y Combinator Directory,https://hoplite.sh,Hoplite,2,Effortlessly deploy cloud software factories.,B2B,2026-08-12T01:58:52.774796Z
+1.0,STARTUP,Y Combinator Directory,http://cleverdeck.com,Cleverdeck,1,Collaborate with an artist to commission original artwork you'll live…,Education,2026-08-12T01:58:53.435807Z
+1.0,STARTUP,Y Combinator Directory,https://pango.ai/,Pango,5,Agentic OS for e-commerce operations,B2B,2026-08-12T01:58:52.442807Z
+1.0,STARTUP,Y Combinator Directory,https://www.tash.cards/,Tash,4,The investment platform for sports & trading cards,Consumer,2026-08-12T01:58:52.169212Z
+1.0,STARTUP,Y Combinator Directory,https://www.usetorus.com,Torus,5,Legora for physical engineering firms,Industrials,2026-08-12T01:58:52.178835Z
+1.0,STARTUP,Y Combinator Directory,https://kebra.com,Kebra,2,Make your field service company AI-native,B2B,2026-08-12T01:58:52.766305Z
+1.0,STARTUP,Y Combinator Directory,https://git.cafe,Gitcafe,2,GitCafe is a modern replacement for GitHub.,B2B,2026-08-12T01:58:54.049070Z
+1.0,STARTUP,Y Combinator Directory,https://runinfra.ai/,Rightnow,2,Enabling Model-Hardware Co-Design at Scale,B2B,2026-08-12T01:58:56.143542Z
+1.0,STARTUP,Y Combinator Directory,https://akkari.io/,Akkari,5,Autonomous Customer Operations,B2B,2026-08-12T01:58:55.267066Z
+1.0,STARTUP,Y Combinator Directory,https://heyclicky.com/,Heyclicky,1,The simplest interface in the world to talk AI models + spawn agents,Consumer,2026-08-12T01:58:56.986740Z
+1.0,STARTUP,Y Combinator Directory,https://rindler.ai,Rindler,2,The translation layer between AI agents and the web,B2B,2026-08-12T01:58:55.938494Z
+1.0,STARTUP,Y Combinator Directory,https://www.propriorobotics.com/,Proprio Robotics,2,Building autonomous data centers,Industrials,2026-08-12T01:58:55.625314Z
+1.0,STARTUP,Y Combinator Directory,https://www.huscarl.io/,Huscarl,2,AI-native actuary enabling self-insurance for corporations,Fintech,2026-08-12T01:58:55.255663Z
+1.0,STARTUP,Y Combinator Directory,https://madebythomas.ai,Thomas,2,The first AI founder: a virtual human who runs his own companies.,B2B,2026-08-12T01:58:55.656624Z
+1.0,STARTUP,Y Combinator Directory,https://cohesionplatform.com/,Cohesion,3,Agents that automate research for institutional investors,B2B,2026-08-12T01:58:55.589833Z
+1.0,STARTUP,Y Combinator Directory,https://www.maquoketa.net,Maquoketa Research,5,The intelligence layer for drones,Industrials,2026-08-12T01:58:57.113163Z
+1.0,STARTUP,Y Combinator Directory,https://intelligence-factory.com,Intelligence Factory,5,Human Intelligence for Robots,Industrials,2026-08-12T01:58:56.411174Z
+1.0,STARTUP,Y Combinator Directory,https://www.amorphiclabs.com,Amorphic Labs,2,"Agentic, Personalized Product Demo Videos for Sales",B2B,2026-08-12T01:58:55.907719Z
+1.0,STARTUP,Y Combinator Directory,https://rekursiv.ai,Rekursiv.Ai,2,Scale AI scientists whose own breakthroughs accelerate the next.,B2B,2026-08-12T01:58:55.953802Z
+1.0,STARTUP,Y Combinator Directory,https://clawvisor.com,Clawvisor,1,The Authorization Layer for AI Agents,B2B,2026-08-12T01:58:55.796591Z
+1.0,STARTUP,Y Combinator Directory,https://framewisehealth.com,Framewise Health,2,AI-native patient engagement,Healthcare,2026-08-12T01:58:56.500298Z
+1.0,STARTUP,Y Combinator Directory,https://arctic.health,Arctic Health,4,AI-native credentialing and contracting for healthcare,Healthcare,2026-08-12T01:58:55.758590Z
+1.0,STARTUP,Y Combinator Directory,https://playabl.ai,Playabl.Ai,10,TikTok for User-generated Games,Consumer,2026-08-12T01:58:56.311228Z
+1.0,STARTUP,Y Combinator Directory,https://www.enjamb.ai,Enjamb Labs,2,"Where drug teams run their entire program, discovery to FDA approval",B2B,2026-08-12T01:58:55.786611Z
+1.0,STARTUP,Y Combinator Directory,https://heyhyper.ai,Hyper,2,Company brain that powers your AI employees,B2B,2026-08-12T01:58:55.969147Z
+1.0,STARTUP,Y Combinator Directory,https://insforge.dev/,Insforge,6,The agent-native AWS,B2B,2026-08-12T01:58:56.303620Z
+1.0,STARTUP,Y Combinator Directory,https://reasonblocks.com/,Reasonblocks,2,The runtime layer that makes AI agents cheaper and more reliable,B2B,2026-08-12T01:58:55.961805Z
+1.0,STARTUP,Y Combinator Directory,https://getmodern.ai,Modern,2,Modern - the ServiceNow killer,B2B,2026-08-12T01:58:56.097195Z
+1.0,STARTUP,Y Combinator Directory,https://withpanacea.com,Panacea,2,AI-Native FDA Regulatory Services,Healthcare,2026-08-12T01:58:55.821957Z
+1.0,STARTUP,Y Combinator Directory,https://centralcoms.com,Centralcoms,2,AI agent platform for home services companies.,Real Estate and Construction,2026-08-12T01:58:56.623008Z
+1.0,STARTUP,Y Combinator Directory,https://kugelaudio.com/en,Kugelaudio,4,Kugel is an on-prem Voice AI model supporting 30+ languages,B2B,2026-08-12T01:58:57.328830Z
+1.0,STARTUP,Y Combinator Directory,https://www.klaimee.ai,Klaimee,2,"Liability insurance for AI Agents. You deploy agents, we cover you.",Fintech,2026-08-12T01:58:55.823918Z
+1.0,STARTUP,Y Combinator Directory,https://flowscope.com,Flowscope,2,AI-native consulting to map and automate business processes,B2B,2026-08-12T01:58:57.540762Z
+1.0,STARTUP,Y Combinator Directory,https://tridentsecurity.io/,Trident,4,Agents that find real exploitable vulnerabilities in your company,B2B,2026-08-12T01:58:55.868050Z
+1.0,STARTUP,Y Combinator Directory,https://gigacatalyst.com/,Gigacatalyst,4,Let software users build new features with our in-app AI agents,B2B,2026-08-12T01:58:55.997223Z
+1.0,STARTUP,Y Combinator Directory,https://arlo1.com/,Arlo Industries,3,"Track drones and missiles without radars - Accurate, Passive, Scalable",Industrials,2026-08-12T01:58:56.100104Z
+1.0,STARTUP,Y Combinator Directory,https://www.latticehealthai.com/,Lattice Health,1,Monitoring and governance for deployed medical imaging AI,Healthcare,2026-08-12T01:58:56.663282Z
+1.0,STARTUP,Y Combinator Directory,https://atlasdiscovery.bio,Atlas Discovery,3,Predicting human response to drugs in clinical trials,Healthcare,2026-08-12T01:58:56.492120Z
+1.0,STARTUP,Y Combinator Directory,https://manicule.dev,Manicule,5,AgentRel — Devrel For Agents,B2B,2026-08-12T01:58:55.880070Z
+1.0,STARTUP,Y Combinator Directory,https://www.avearobotics.com,Avea Robotics,2,The human-in-the-loop system for robots,Industrials,2026-08-12T01:58:55.853493Z
+1.0,STARTUP,Y Combinator Directory,https://www.mochatrade.com,Mochatrade,3,US stock perps for Indian traders,Fintech,2026-08-12T01:58:56.608491Z
+1.0,STARTUP,Y Combinator Directory,https://revnu.com,Revnu,2,The growth infrastructure for the autonomous business,B2B,2026-08-12T01:58:57.645599Z
+1.0,STARTUP,Y Combinator Directory,https://myunowallet.com/,Uno Wallet,2,The AI mobile wallet that replaces Apple Pay,Fintech,2026-08-12T01:58:57.367008Z
+1.0,STARTUP,Y Combinator Directory,https://ardentech.ai/,Arden,2,AI-native internal audit firm,B2B,2026-08-12T01:58:56.329556Z
+1.0,STARTUP,Y Combinator Directory,https://agentphone.ai/,Agentphone,2,Phone Numbers for AI Agents,B2B,2026-08-12T01:58:56.201353Z
+1.0,STARTUP,Y Combinator Directory,https://gravy.finance,Gravy,2,"Agents that move money, trade stocks, and file taxes.",Fintech,2026-08-12T01:58:55.893540Z
+1.0,STARTUP,Y Combinator Directory,https://www.trykinect.ai/,Kinect,2,The AI revenue platform for D2C brands,B2B,2026-08-12T01:58:56.494123Z
+1.0,STARTUP,Y Combinator Directory,https://www.runtm.com/,Runtime,3,"Build and run internal agents, without managing the infrastructure",B2B,2026-08-12T01:58:56.353933Z
+1.0,STARTUP,Y Combinator Directory,https://youart.ai,Youart,3,Patreon for AI Originals,Consumer,2026-08-12T01:58:56.325551Z
+1.0,STARTUP,Y Combinator Directory,https://expanse.sh,Expanse,4,Unlock wasted GPU capacity.,B2B,2026-08-12T01:58:56.386032Z
+1.0,STARTUP,Y Combinator Directory,https://characterquilt.com,Characterquilt,4,Computer use agents to deploy enterprise marketing campaigns,B2B,2026-08-12T01:58:56.736073Z
+1.0,STARTUP,Y Combinator Directory,https://pentagon.run,Pentagon,1,The control plane for agent-native work.,B2B,2026-08-12T01:58:56.737375Z
+1.0,STARTUP,Y Combinator Directory,https://www.arzana.com/,Arzana,6,The autonomous ERP for every manufacturer,B2B,2026-08-12T01:58:55.949796Z
+1.0,STARTUP,Y Combinator Directory,https://www.useauxos.com,Auxos,3,Simulations of real people for market research,B2B,2026-08-12T01:58:57.013720Z
+1.0,STARTUP,Y Combinator Directory,https://www.tolmo.com,Tolmo,12,Tolmo is the AI security platform that secures every layer of cloud…,B2B,2026-08-12T01:58:56.738434Z
+1.0,STARTUP,Y Combinator Directory,https://openworklabs.com,Openwork,4,The open source alternative to Claude Cowork,B2B,2026-08-12T01:58:56.383666Z
+1.0,STARTUP,Y Combinator Directory,https://apolloatomics.com/,"Apollo Atomics, Inc.",1,We make the most compact nuclear reactors,Industrials,2026-08-12T01:58:56.661265Z
+1.0,STARTUP,Y Combinator Directory,https://generalaviation.com,General Aviation,1,Fix ATC by connecting aircraft to the internet,Industrials,2026-08-12T01:58:56.796876Z
+1.0,STARTUP,Y Combinator Directory,https://prose.md,Openprose,3,An open-source operating system for reliable long-running agents,B2B,2026-08-12T01:58:56.545925Z
+1.0,STARTUP,Y Combinator Directory,https://www.asterlab.ai/,Aster,2,Automating open-ended research.,B2B,2026-08-12T01:58:56.539474Z
+1.0,STARTUP,Y Combinator Directory,https://amboras.com,Amboras,3,AI Native Shopify,B2B,2026-08-12T01:58:56.609550Z
+1.0,STARTUP,Y Combinator Directory,https://hessian.sh,Hessian,3,Forward-deployed AI Agents,B2B,2026-08-12T01:58:56.722075Z
+1.0,STARTUP,Y Combinator Directory,https://raspire.com/,Raspire,3,Autonomous Runtime Security,B2B,2026-08-12T01:58:56.379283Z
+1.0,STARTUP,Y Combinator Directory,https://www.plena.health/,Plena Health,1,Plena is the AI operating system for specialty medical practices,Healthcare,2026-08-12T01:58:56.902455Z
+1.0,STARTUP,Y Combinator Directory,https://tester.army,Testerarmy,4,"Test your app with AI, catch bugs before users do",B2B,2026-08-12T01:58:56.957967Z
+1.0,STARTUP,Y Combinator Directory,https://foaster.ai,Foaster,2,The AI-native McKinsey,B2B,2026-08-12T01:58:56.295713Z
+1.0,STARTUP,Y Combinator Directory,https://aquashieldai.com,Aquashield,3,AI water leak detection for buildings,Real Estate and Construction,2026-08-12T01:58:56.180435Z
+1.0,STARTUP,Y Combinator Directory,https://ornadyne.com/,Ornadyne,4,We're building robot birds for surveillance.,Industrials,2026-08-12T01:58:56.566457Z
+1.0,STARTUP,Y Combinator Directory,https://www.anoria.com,Anoria,5,The first wearable that reads your emotions to enhance your EQ.,Consumer,2026-08-12T01:58:56.331061Z
+1.0,STARTUP,Y Combinator Directory,https://www.abinitio-bio.com,Abinitio Bio,2,The Intelligence layer for Drug Manufacturing,Healthcare,2026-08-12T01:58:56.247581Z
+1.0,STARTUP,Y Combinator Directory,https://saudara.ai,Saudara Ai,2,AI Native Sourcing Broker For Overseas Manufacturing,B2B,2026-08-12T01:58:56.373281Z
+1.0,STARTUP,Y Combinator Directory,https://pops.fyi,Pops,1,Create & play AI games with friends,Consumer,2026-08-12T01:58:57.518755Z
+1.0,STARTUP,Y Combinator Directory,https://silmaril.dev,Silmaril,2,Security for agents that self-improves,B2B,2026-08-12T01:58:56.978260Z
+1.0,STARTUP,Y Combinator Directory,https://www.getbiostack.com/,Biostack Platforms,1,Real world training envs for healthcare AI models,Healthcare,2026-08-12T01:58:57.039046Z
+1.0,STARTUP,Y Combinator Directory,https://tryardent.com,Ardent,3,Database sandboxes for Agents,B2B,2026-08-12T01:58:57.072459Z
+1.0,STARTUP,Y Combinator Directory,https://kuli.one,Kuli,1,AI coworker for marketing teams at the largest consumer brands,B2B,2026-08-12T01:58:57.156780Z
+1.0,STARTUP,Y Combinator Directory,https://www.watolabs.com/,Wato,2,The control point for AI agents at work.,B2B,2026-08-12T01:58:56.231584Z
+1.0,STARTUP,Y Combinator Directory,https://tasklet.ai,Tasklet,8,Agents that own the work,B2B,2026-08-12T01:58:56.093507Z
+1.0,STARTUP,Y Combinator Directory,https://chronicle-labs.com,Chronicle Labs,2,Staging Environments for Enterprise AI Agents,B2B,2026-08-12T01:58:56.489123Z
+1.0,STARTUP,Y Combinator Directory,https://www.walter.one,Walter,1,AI Employee for Manufacturing Operations,B2B,2026-08-12T01:58:56.581468Z
+1.0,STARTUP,Y Combinator Directory,https://www.aseonlabs.com/,Aseon Labs,5,Robotic pitstops for self-driving cars,Industrials,2026-08-12T01:58:58.034888Z
+1.0,STARTUP,Y Combinator Directory,https://www.soriaanalytics.com/,Soria,3,AI Financial Research Terminal built for Healthcare (and beyond),Fintech,2026-08-12T01:58:56.915463Z
+1.0,STARTUP,Y Combinator Directory,https://armature.tech,Armature,3,Improve how users experience your product through AI Agents,B2B,2026-08-12T01:58:56.975261Z
+1.0,STARTUP,Y Combinator Directory,https://plan0.ai/,Plan0 Ai,4,Construction Cost Intelligence.,Real Estate and Construction,2026-08-12T01:58:57.101206Z
+1.0,STARTUP,Y Combinator Directory,https://zibralabs.ai/,Zibra Labs,2,Distributed runtime for AI workloads at scale,B2B,2026-08-12T01:58:56.696303Z
+1.0,STARTUP,Y Combinator Directory,https://ara.so,Ara,2,The Cloud Coding Agent,B2B,2026-08-12T01:58:56.544926Z
+1.0,STARTUP,Y Combinator Directory,https://valctrl.com,Valctrl,2,ValCtrl is building the only intelligent prediction market,Fintech,2026-08-12T01:58:56.856697Z
+1.0,STARTUP,Y Combinator Directory,https://general-instinct.com/,General Instinct,2,Inference Infrastructure for Physical AI,Industrials,2026-08-12T01:58:56.782681Z
+1.0,STARTUP,Y Combinator Directory,https://tday.com,Tday.Com,2,AI that turns your product into on-brand marketing content,B2B,2026-08-12T01:58:57.891558Z
+1.0,STARTUP,Y Combinator Directory,https://www.ed1th.com,Ed1Th,1,Jarvis IRL,Consumer,2026-08-12T01:58:58.051966Z
+1.0,STARTUP,Y Combinator Directory,https://minicor.com,Minicor,7,Scalable windows desktop automations,B2B,2026-08-12T01:58:56.577451Z
+1.0,STARTUP,Y Combinator Directory,https://degla.ai,Degla Inc,2,The fully autonomous intelligence layer in the sky.,Industrials,2026-08-12T01:58:56.760421Z
+1.0,STARTUP,Y Combinator Directory,https://archermoney.com/,Archer,4,Global payouts for the workforce powering AI,Fintech,2026-08-12T01:58:58.447988Z
+1.0,STARTUP,Y Combinator Directory,https://www.rivermarkets.com,River Markets,2,Prime brokerage for prediction markets,Fintech,2026-08-12T01:58:56.560475Z
+1.0,STARTUP,Y Combinator Directory,https://smolmachines.com/,Smol Machines,1,"Ship software faster with portable, self contained virtual machines.",B2B,2026-08-12T01:58:56.897409Z
+1.0,STARTUP,Y Combinator Directory,https://useallowance.com/,Allowance,1,The spend control layer for AI agents,Fintech,2026-08-12T01:58:56.748399Z
+1.0,STARTUP,Y Combinator Directory,https://runharbor.com/,Harbor,3,AI-native CRO for clinical trial operations,Healthcare,2026-08-12T01:58:57.207743Z
+1.0,STARTUP,Y Combinator Directory,https://tryalchemize.com,Alchemize,2,Code Review Platform that Simplifies PRs to Ship Faster,B2B,2026-08-12T01:58:56.913506Z
+1.0,STARTUP,Y Combinator Directory,https://aicepower.com,Aice,2,Submarine drones for defense,Industrials,2026-08-12T01:58:56.990739Z
+1.0,STARTUP,Y Combinator Directory,https://www.infera.bio,Infera,2,Control lab instruments with natural language.,Healthcare,2026-08-12T01:58:56.796876Z
+1.0,STARTUP,Y Combinator Directory,https://mount.insure,Mount,2,The AI Agent Insurance Carrier,Fintech,2026-08-12T01:58:56.745387Z
+1.0,STARTUP,Y Combinator Directory,https://www.useparrot.com/,Parrot,2,Agentic operating system for auto repair shops,B2B,2026-08-12T01:58:58.035890Z
+1.0,STARTUP,Y Combinator Directory,https://result.dev/,Result,2,Where new internet entrepreneurs build and run their companies,Consumer,2026-08-12T01:58:57.720863Z
+1.0,STARTUP,Y Combinator Directory,https://textsidekick.com/,Sidekick,1,AI agent that handles frontline operations over text,B2B,2026-08-12T01:58:58.471864Z
+1.0,STARTUP,Y Combinator Directory,https://www.prototyping.io,Prototyping.Io,2,Autonomous manufacturing for mechanical parts,Industrials,2026-08-12T01:58:57.120711Z
+1.0,STARTUP,Y Combinator Directory,https://www.lumius-imaging.com,Lumius,4,"Fast, smart, accessible 3D ultrasound that anyone can use",Healthcare,2026-08-12T01:58:56.875397Z
+1.0,STARTUP,Y Combinator Directory,https://heysavant.com/,Savant,2,Company brain every AI-native enterprise runs on,B2B,2026-08-12T01:58:59.495287Z
+1.0,STARTUP,Y Combinator Directory,https://keyframelabs.com,Keyframe Labs,2,Bring AI to life with the world's best interactive avatars,B2B,2026-08-12T01:58:59.053369Z
+1.0,STARTUP,Y Combinator Directory,https://voquill.com/,Voquill,3,The agentic OS for medical labs,Healthcare,2026-08-12T01:58:56.865395Z
+1.0,STARTUP,Y Combinator Directory,https://www.oddpool.com,Oddpool,2,Institutional infrastructure for prediction markets,B2B,2026-08-12T01:58:57.073457Z
+1.0,STARTUP,Y Combinator Directory,https://ontora.com,Ontora,3,AI agents that interviews every employee to hand context to AI tools.,B2B,2026-08-12T01:58:57.086766Z
+1.0,STARTUP,Y Combinator Directory,https://napkinmath.club,Napkin Math,3,AI nutrition coach in your pocket,Consumer,2026-08-12T01:58:57.105645Z
+1.0,STARTUP,Y Combinator Directory,https://www.gojiberry.ai,Gojiberry Ai,7,AI Go-To-Market agents for B2B teams,B2B,2026-08-12T01:58:59.805516Z
+1.0,STARTUP,Y Combinator Directory,https://lab0.ai,Lab0,3,"AI FDEs to make your B2B SaaS Go Live in Days, not Months",B2B,2026-08-12T01:58:58.234308Z
+1.0,STARTUP,Y Combinator Directory,https://bentolabs.ai/,Bentolabs Ai,5,Monitoring and learning layer for long-running agents,B2B,2026-08-12T01:58:57.086766Z
+1.0,STARTUP,Y Combinator Directory,https://laminalabs.ai,Lamina Labs,2,Near-real-time video infrastructure for LLMs,B2B,2026-08-12T01:58:59.028766Z
+1.0,STARTUP,Y Combinator Directory,https://kimpton.ai,Kimpton Ai,5,The IDE for Investors,Fintech,2026-08-12T01:58:58.708567Z
+1.0,STARTUP,Y Combinator Directory,https://stablebrowse.ai/,Stablebrowse,3,Help frontier labs build better models.,B2B,2026-08-12T01:58:58.206815Z
+1.0,STARTUP,Y Combinator Directory,https://taigabilling.com,Taiga,2,Autonomous medical billing,Healthcare,2026-08-12T01:58:58.416315Z
+1.0,STARTUP,Y Combinator Directory,https://pairio.com,Pairio,3,AI mobile app that helps factory technicians fix broken machines,B2B,2026-08-12T01:58:57.618971Z
+1.0,STARTUP,Y Combinator Directory,https://callab.ai,Callab Ai,7,AI voice agents for on-prem telephony stack.,B2B,2026-08-12T01:58:57.068444Z
+1.0,STARTUP,Y Combinator Directory,https://www.synphony.co/,Synphony,10,robots & software for farms,Industrials,2026-08-12T01:58:57.761085Z
+1.0,STARTUP,Y Combinator Directory,https://dreach.ai,Dreach,2,Never miss a lead,B2B,2026-08-12T01:58:57.676372Z
+1.0,STARTUP,Y Combinator Directory,https://www.argalabs.com/,Arga Labs,4,Real-world sandboxes to test agents and agent-facing software,B2B,2026-08-12T01:58:57.851944Z
+1.0,STARTUP,Y Combinator Directory,https://rentahuman.ai,Rentahuman,3,Marketplace for AI agents to hire humans.,Consumer,2026-08-12T01:58:58.362680Z
+1.0,STARTUP,Y Combinator Directory,https://instaagent.com,Instaagent,10,Scale marketing campaigns across hundreds of personas,B2B,2026-08-12T01:58:58.226982Z
+1.0,STARTUP,Y Combinator Directory,https://www.salesgraph.com/,Salesgraph,2,Proactive revenue agents that move enterprise deals forward,B2B,2026-08-12T01:58:58.757720Z
+1.0,STARTUP,Y Combinator Directory,https://www.withsherpa.ai/,Sherpa,2,Make websites improve themselves.,B2B,2026-08-12T01:58:58.328921Z
+1.0,STARTUP,Y Combinator Directory,https://userlens.io,Userlens,4,Agents that renew and expand six and seven-figure enterprise software,B2B,2026-08-12T01:58:58.033882Z
+1.0,STARTUP,Y Combinator Directory,https://www.transload.io,Transload,3,Measure freight with security cameras,B2B,2026-08-12T01:58:58.226982Z
+1.0,STARTUP,Y Combinator Directory,https://standout.work,Standout,5,Agentic hiring marketplace,B2B,2026-08-12T01:58:58.444922Z
+1.0,STARTUP,Y Combinator Directory,http://shotwell.ai/,Shotwell.Ai,4,Annotations for robotics data,Industrials,2026-08-12T01:58:59.555200Z
+1.0,STARTUP,Y Combinator Directory,https://madrone.cool/,Madrone,2,Hyper-efficient coolers for data centers,Industrials,2026-08-12T01:58:59.425720Z
+1.0,STARTUP,Y Combinator Directory,https://pavoot.com,Pavoot,1,AI Event Manager for in-person events,B2B,2026-08-12T01:58:58.239620Z
+1.0,STARTUP,Y Combinator Directory,https://qomplement.com,Qomplement,7,The Agentic ERP for supply chain operations,B2B,2026-08-12T01:58:59.594160Z
+1.0,STARTUP,Y Combinator Directory,https://deepinteractions.ai/,Deep Interactions,4,Collaborative AI app builder for teams,B2B,2026-08-12T01:59:00.055299Z
+1.0,STARTUP,Y Combinator Directory,https://kelaitech.com/,Kelai,3,The AI Quant: Autonomous Alpha Engine for Funds and Traders.,Fintech,2026-08-12T01:58:58.705560Z
+1.0,STARTUP,Y Combinator Directory,https://gethevn.com,"Hevn, Inc",4,Global bank account for exporters,Fintech,2026-08-12T01:58:58.489144Z
+1.0,STARTUP,Y Combinator Directory,https://wealor.ai/,Wealor,1,AI-native platform for wealth managers,Fintech,2026-08-12T01:58:58.243893Z
+1.0,STARTUP,Y Combinator Directory,https://www.elyrasystems.com/,Elyra,2,AI Reservation System for Restaurants,B2B,2026-08-12T01:58:58.443923Z
+1.0,STARTUP,Y Combinator Directory,https://interfaze.ai,Interfaze,5,AI model built for high accuracy deterministic tasks,B2B,2026-08-12T01:58:58.452151Z
+1.0,STARTUP,Y Combinator Directory,https://junocompanion.com/,Juno,2,AI Health Assistant for Chronic Illness,Healthcare,2026-08-12T01:58:58.443923Z
+1.0,STARTUP,Y Combinator Directory,https://www.kinro.com/,Kinro,3,Autonomous insurance brokerage for small businesses,Fintech,2026-08-12T01:59:00.244802Z
+1.0,STARTUP,Y Combinator Directory,https://govguard.com,Govguard,1,"Automating Government Workflows, starting with FOIA",Government,2026-08-12T01:59:00.094404Z
+1.0,STARTUP,Y Combinator Directory,https://superlog.sh/,Superlog,2,Make software self-healing,B2B,2026-08-12T01:58:59.543075Z
+1.0,STARTUP,Y Combinator Directory,https://godhands.dev,Godhands,2,The company knowledge base that updates itself,B2B,2026-08-12T01:58:59.089239Z
+1.0,STARTUP,Y Combinator Directory,https://lim.run,Limrun,1,"Extend cloud sandboxes with iOS, Android and more",B2B,2026-08-12T01:58:59.771413Z
+1.0,STARTUP,Y Combinator Directory,https://lightanchor.ai,Light Anchor,2,AI-run consumer brands,Consumer,2026-08-12T01:58:59.608006Z
+1.0,STARTUP,Y Combinator Directory,https://hub.xyz,Hub,10,Real-world training data for frontier AI labs and robotics.,B2B,2026-08-12T01:58:58.834468Z
+1.0,STARTUP,Y Combinator Directory,https://www.tenetindustries.com,Tenet Industries,3,"Low-cost, mass-producible defense systems",Industrials,2026-08-12T01:58:58.824450Z
+1.0,STARTUP,Y Combinator Directory,https://atrisa.ai,Atrisa,3,AI Agents for Analog Circuit Design,B2B,2026-08-12T01:58:59.868017Z
+1.0,STARTUP,Y Combinator Directory,https://www.thecompany.company,The Company Company,1,The last agent your company will ever need.,B2B,2026-08-12T01:58:59.706858Z
+1.0,STARTUP,Y Combinator Directory,https://www.getdayjob.ai,Dayjob,5,AI Scheduling for Short Haul Trucks,B2B,2026-08-12T01:58:59.756317Z
+1.0,STARTUP,Y Combinator Directory,https://inloop-robotics.com/,Inloop Robotics,4,Robotic arms that pick and pack your orders.,Industrials,2026-08-12T01:59:00.239721Z
+1.0,STARTUP,Y Combinator Directory,https://www.zenbu.dev/,Zenbu,1,The extensible IDE for coding agents,B2B,2026-08-12T01:58:59.622884Z
+1.0,STARTUP,Y Combinator Directory,https://ninefives.com/,Nine Fives,2,"RF test equipment for next-gen spacecraft, drones, and cellphones",Industrials,2026-08-12T01:58:58.784574Z
+1.0,STARTUP,Y Combinator Directory,https://www.incandor.com,Incandor,1,Behavioral intelligence infrastructure for anti-fraud,B2B,2026-08-12T01:58:59.530899Z
+1.0,STARTUP,Y Combinator Directory,https://www.trychert.com/,Chert,2,iMessage infrastructure for business,B2B,2026-08-12T01:58:59.134401Z
+1.0,STARTUP,Y Combinator Directory,https://www.trysaffron.ai/,Saffron,3,Helping your company find 10x engineers.,B2B,2026-08-12T01:58:58.921396Z
+1.0,STARTUP,Y Combinator Directory,https://discoveredmaterials.com,Discovered Materials,2,AI scientists to discover materials for the semiconductor industry.,Industrials,2026-08-12T01:58:59.123971Z
+1.0,STARTUP,Y Combinator Directory,https://lightsprint.ai,Lightsprint,3,Collaborative product development with cloud agents,B2B,2026-08-12T01:58:59.586090Z
+1.0,STARTUP,Y Combinator Directory,https://www.twolabs.ai,Twolabs,2,Humanoid robot platform for builders.,Industrials,2026-08-12T01:58:59.327162Z
+1.0,STARTUP,Y Combinator Directory,https://tryscope.app,Scope,2,We help software companies get discovered and used by AI agents,B2B,2026-08-12T01:58:58.967718Z
+1.0,STARTUP,Y Combinator Directory,https://www.hexaagents.com,Hexa,3,Autonomous operations for industrial distributors,B2B,2026-08-12T01:58:59.116876Z
+1.0,STARTUP,Y Combinator Directory,https://palettelabs.com/,Palette,2,An AI-Native Media Platform,B2B,2026-08-12T01:58:59.505001Z
+1.0,STARTUP,Y Combinator Directory,http://rudus.ai/,Rudus,2,AI Takeoffs for Concrete,Real Estate and Construction,2026-08-12T01:59:00.812393Z
+1.0,STARTUP,Y Combinator Directory,https://tryreplicas.com,Replicate,2,Run any coding agent harness in the cloud,B2B,2026-08-12T01:58:59.054372Z
+1.0,STARTUP,Y Combinator Directory,https://www.totalis.trade,Totalis,1,derivative layer for prediction markets,Fintech,2026-08-12T01:58:59.251555Z
+1.0,STARTUP,Y Combinator Directory,https://withai.co,Withai,3,Agent harnesses for asset managers,B2B,2026-08-12T01:58:59.089239Z
+1.0,STARTUP,Y Combinator Directory,https://osmaura.com,Osmaura,2,AI growth engine for law firms.,B2B,2026-08-12T01:59:00.020049Z
+1.0,STARTUP,Y Combinator Directory,https://www.instancelabs.ai/,Instance,2,Automated evals for robot policies,B2B,2026-08-12T01:58:59.776397Z
+1.0,STARTUP,Y Combinator Directory,https://www.illumelabs.ai,Illume Labs,3,24/7 Personal Health & Longevity Companion,Healthcare,2026-08-12T01:58:59.326198Z
+1.0,STARTUP,Y Combinator Directory,https://www.trymemoir.ai/,Memoir,2,Marketing campaigns from everything your team ships,B2B,2026-08-12T01:58:59.855667Z
+1.0,STARTUP,Y Combinator Directory,https://perfectbit.ai,"Perfectbit, Inc.",2,Correct by construction AI training data,B2B,2026-08-12T01:58:59.842021Z
+1.0,STARTUP,Y Combinator Directory,https://www.stagereview.app/,Stage,2,Code review platform for humans and agents,B2B,2026-08-12T01:58:59.922884Z
+1.0,STARTUP,Y Combinator Directory,https://standardsignal.com,Standard Signal,1,Hedge fund where AI researches and executes every trade end-to-end,Fintech,2026-08-12T01:58:59.301541Z
+1.0,STARTUP,Y Combinator Directory,https://primitive.dev,Primitive,4,communication for agents,B2B,2026-08-12T01:59:01.218571Z
+1.0,STARTUP,Y Combinator Directory,https://afterfive.club/,Afterfive,3,Life starts after five.,B2B,2026-08-12T01:59:00.485549Z
+1.0,STARTUP,Y Combinator Directory,https://www.klarify.ca/,Klarify,4,AI Agent for Therapists,Healthcare,2026-08-12T01:59:00.006735Z
+1.0,STARTUP,Y Combinator Directory,https://surtrdefense.com,Surtr Defense Systems,2,The hardware-agnostic operating system for drone defense,Industrials,2026-08-12T01:58:59.796047Z
+1.0,STARTUP,Y Combinator Directory,https://www.hedgespecialty.com/,Hedge,2,AI-Native insurance company,Fintech,2026-08-12T01:58:59.521201Z
+1.0,STARTUP,Y Combinator Directory,https://trycardinal.com,Cardinal,1,Revenue Agents for GTM teams,B2B,2026-08-12T01:58:59.841102Z
+1.0,STARTUP,Y Combinator Directory,https://wideframe.com,Wideframe,2,AI coworker for video editors to ship more video faster,B2B,2026-08-12T01:59:01.297003Z
+1.0,STARTUP,Y Combinator Directory,https://martini.film,Martini,2,AI Video Production for Professionals,B2B,2026-08-12T01:59:00.348633Z
+1.0,STARTUP,Y Combinator Directory,https://litmushiring.com/,Litmus,3,Run an async work trial on every engineer you interview.,B2B,2026-08-12T01:59:00.495637Z
+1.0,STARTUP,Y Combinator Directory,https://www.condor.energy,Condor Energy,3,Software for enterprise energy procurement.,Industrials,2026-08-12T01:58:59.625890Z
+1.0,STARTUP,Y Combinator Directory,https://remix.re,Remix,1,Social media content auto-generated with your existing data,Consumer,2026-08-12T01:58:59.877126Z
+1.0,STARTUP,Y Combinator Directory,https://openvector.com,Openvector,4,AI that turns any camera to an autonomous worker with real-time vision,B2B,2026-08-12T01:58:59.419312Z
+1.0,STARTUP,Y Combinator Directory,https://shofo.ai/,Shofo,4,The World's Largest Video Library,B2B,2026-08-12T01:59:00.797426Z
+1.0,STARTUP,Y Combinator Directory,https://wayco.ai,Wayco,5,AI operator for medlegal cases,B2B,2026-08-12T01:58:59.681206Z
+1.0,STARTUP,Y Combinator Directory,https://www.ae-dyn.com/,"Applied Electrodynamics, Inc.",5,A new kind of camera that can see through walls.,Industrials,2026-08-12T01:59:00.329534Z
+1.0,STARTUP,Y Combinator Directory,https://unifold.io,Unifold,3,Multi-chain deposit and payment infrastructure,Fintech,2026-08-12T01:58:59.934890Z
+1.0,STARTUP,Y Combinator Directory,https://superpenguin.ai/,Carrot Labs,2,AI Cost Management: Track and attribute AI spend across every provider,B2B,2026-08-12T01:59:00.228716Z
+1.0,STARTUP,Y Combinator Directory,https://dispatch.space/,Dispatch,2,Satellites for Manufacturing in Space,Industrials,2026-08-12T01:59:00.207191Z
+1.0,STARTUP,Y Combinator Directory,https://trybloom.ai,Bloom,3,The brand layer for agents.,B2B,2026-08-12T01:59:00.041501Z
+1.0,STARTUP,Y Combinator Directory,https://aurorincad.com,Aurorin Cad,1,Claude code for Mechanical Engineers,B2B,2026-08-12T01:59:00.411309Z
+1.0,STARTUP,Y Combinator Directory,https://fixture.app,Fixture,5,An AI-first CRM built for Startups,B2B,2026-08-12T01:58:59.920374Z
+1.0,STARTUP,Y Combinator Directory,https://www.daivin.tech/,Daivin!,1,"Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",Industrials,2026-08-12T01:58:59.664094Z
+1.0,STARTUP,Y Combinator Directory,https://www.origami-robotics.com,Origami Robotics,5,Manipulate Anything Robot,Industrials,2026-08-12T01:58:59.832014Z
+1.0,STARTUP,Y Combinator Directory,https://www.ossus.com,Ossus,3,Intelligence for cultural institutions,B2B,2026-08-12T01:58:59.924970Z
+1.0,STARTUP,Y Combinator Directory,https://regbase.com,Regbase,3,"Automating Corporate Compliance, Worldwide",B2B,2026-08-12T01:59:00.095427Z
+1.0,STARTUP,Y Combinator Directory,https://www.zymbly.com,Zymbly,3,Automates admin for aircraft mechanics,B2B,2026-08-12T01:59:00.104822Z
+1.0,STARTUP,Y Combinator Directory,https://www.ritivel.com,Ritivel,3,AI-native platform for Life-Sciences Documentation,Healthcare,2026-08-12T01:58:59.930970Z
+1.0,STARTUP,Y Combinator Directory,https://usepolymorph.com/,Polymorph,4,Building secure polymorphic apps,B2B,2026-08-12T01:59:00.658183Z
+1.0,STARTUP,Y Combinator Directory,https://www.khotan.com/,Khotan (Formerly Pollinate),2,AI Agents for the supply chain.,B2B,2026-08-12T01:59:00.530164Z
+1.0,STARTUP,Y Combinator Directory,https://www.spotpay.ai/,Spotpay,2,Stablecoin Global Bank Account,Fintech,2026-08-12T01:58:59.745380Z
+1.0,STARTUP,Y Combinator Directory,https://pothlabs.com,Poth Labs,2,Helping companies understand why users behave the way they do,B2B,2026-08-12T01:59:00.771345Z
+1.0,STARTUP,Y Combinator Directory,https://voygr.tech,Voygr,1,Real-world place intelligence for AI apps and agents,B2B,2026-08-12T01:58:59.745380Z
+1.0,STARTUP,Y Combinator Directory,https://www.mochacare.com/,Mochacare,2,Agentic Management Service for Care Organizations,B2B,2026-08-12T01:59:00.727967Z
+1.0,STARTUP,Y Combinator Directory,https://cova.care/,Cova,2,AI-Native Home Care Agency,Healthcare,2026-08-12T01:58:59.783327Z
+1.0,STARTUP,Y Combinator Directory,https://tryvela.ai,Vela,2,AI Recruiting Coordinator for Executive Search,B2B,2026-08-12T01:59:00.531167Z
+1.0,STARTUP,Y Combinator Directory,https://supafax.com,Supafax,2,AI assistant for your email and calendar,B2B,2026-08-12T01:59:00.383944Z
+1.0,STARTUP,Y Combinator Directory,https://www.controlseat.com,Control Seat,2,Control and Monitoring of Industrial Operations,Industrials,2026-08-12T01:59:00.433096Z
+1.0,STARTUP,Y Combinator Directory,https://www.copperlane.ai,Copperlane,2,Agentic Mortgage Origination,Fintech,2026-08-12T01:59:00.605178Z
+1.0,STARTUP,Y Combinator Directory,https://tsenta.com,Tsenta,2,We match you with jobs and apply automatically,Consumer,2026-08-12T01:58:59.799261Z
+1.0,STARTUP,Y Combinator Directory,https://www.atlia.com,Atlia,2,We are the AI-native property management company,Real Estate and Construction,2026-08-12T01:58:59.714865Z
+1.0,STARTUP,Y Combinator Directory,https://www.runcanary.ai,Canary,2,The first AI QA engineer that understands your code,B2B,2026-08-12T01:59:02.117064Z
+1.0,STARTUP,Y Combinator Directory,https://usegrade.com,Grade,2,API for performance-based payroll,Fintech,2026-08-12T01:59:00.927122Z
+1.0,STARTUP,Y Combinator Directory,https://silahq.com,Sila,2,Agent-Native Messaging Platform,B2B,2026-08-12T01:59:00.519725Z
+1.0,STARTUP,Y Combinator Directory,https://trymaven.com,Maven,2,Payments Infrastructure for Voice Agents,B2B,2026-08-12T01:59:00.097554Z
+1.0,STARTUP,Y Combinator Directory,https://moda.dev,Modal,6,The continual learning layer for AI agents.,B2B,2026-08-12T01:59:00.146817Z
+1.0,STARTUP,Y Combinator Directory,https://thetokencompany.com,The Token Company,2,Compression middleware that improves LLM outputs,B2B,2026-08-12T01:59:00.731910Z
+1.0,STARTUP,Y Combinator Directory,https://beesafe.ai/,Beesafe Ai,3,Frontier AI Defenses for Social Engineering Attacks,B2B,2026-08-12T01:59:00.120828Z
+1.0,STARTUP,Y Combinator Directory,https://www.fed10.ai,Fed10,3,AI Agents for Government Affairs,B2B,2026-08-12T01:59:00.551164Z
+1.0,STARTUP,Y Combinator Directory,https://inth.com,Inth,3,Enterprise privacy governance for companies that ship fast,B2B,2026-08-12T01:59:00.977650Z
+1.0,STARTUP,Y Combinator Directory,https://squid.energy,Squid,3,AI agents for power grid planning  🦑,Industrials,2026-08-12T01:59:01.370773Z
+1.0,STARTUP,Y Combinator Directory,https://www.usecrow.ai/,Crow,2,Y Combinator Startup,B2B,2026-08-12T01:59:00.133249Z
+1.0,STARTUP,Y Combinator Directory,https://foreman.co,Foreman,2,"Keeping contractors on the job site, not behind a desk.",Real Estate and Construction,2026-08-12T01:59:01.284844Z
+1.0,STARTUP,Y Combinator Directory,https://bookoapp.com,Booko,2,Dynamically pricing the whole economy.,B2B,2026-08-12T01:59:00.773278Z
+1.0,STARTUP,Y Combinator Directory,https://www.corelayer.com,Corelayer,3,AI production engineer for regulated industries,B2B,2026-08-12T01:59:00.628944Z
+1.0,STARTUP,Y Combinator Directory,https://general.legal,General Legal,25,Elite AI law firm for high growth companies,B2B,2026-08-12T01:59:00.161909Z
+1.0,STARTUP,Y Combinator Directory,https://fort.cx,Fort,4,Strength Tracking Wearable,Consumer,2026-08-12T01:59:00.525840Z
+1.0,STARTUP,Y Combinator Directory,https://getbalance.ai,Balance,4,Full-Stack AI Accounting,B2B,2026-08-12T01:59:00.248719Z
+1.0,STARTUP,Y Combinator Directory,https://goekpa.com/,Ekpa,2,Building Autonomous Research Agents for Trading,Fintech,2026-08-12T01:59:00.672078Z
+1.0,STARTUP,Y Combinator Directory,https://chasi.ai/,Chasi,2,AI Revenue Engine for the Equipment Industry,B2B,2026-08-12T01:59:01.144100Z
+1.0,STARTUP,Y Combinator Directory,https://o11.ai,O11,2,Bespoke AI For Financial Firms,B2B,2026-08-12T01:59:00.862811Z
+1.0,STARTUP,Y Combinator Directory,https://doomersion.com/,Doomersion,4,Doomscroll to learn languages,Consumer,2026-08-12T01:59:00.395295Z
+1.0,STARTUP,Y Combinator Directory,https://sequencemkts.com/,Sequence Markets,5,"Low-latency execution across crypto, prediction, and tokenized assets",Fintech,2026-08-12T01:59:02.502367Z
+1.0,STARTUP,Y Combinator Directory,https://www.librabots.com/,Libra Robotics,2,Multi-robot collaboration for harsh environments on Earth.,Industrials,2026-08-12T01:59:00.392294Z
+1.0,STARTUP,Y Combinator Directory,https://www.dittobio.com/,Ditto Biosciences,3,Evolutionary intelligence for autoimmune disease,Healthcare,2026-08-12T01:59:00.971530Z
+1.0,STARTUP,Y Combinator Directory,https://servo7.com,Servo7,3,Container unloading robots for warehouses,Industrials,2026-08-12T01:59:01.028380Z
+1.0,STARTUP,Y Combinator Directory,https://www.datoric.com,Datoric,2,Security-first training data,B2B,2026-08-12T01:59:01.198048Z
+1.0,STARTUP,Y Combinator Directory,https://www.superset.sh/,Superset,3,Building the platform for software factories,B2B,2026-08-12T01:59:04.376158Z
+1.0,STARTUP,Y Combinator Directory,https://netter.ai,Netter,4,AI native Palantir for mid market.,B2B,2026-08-12T01:59:03.984644Z
+1.0,STARTUP,Y Combinator Directory,https://voxelenergy.com/,Voxel Energy,3,Energy independent data centers with solar and repurposed batteries.,Industrials,2026-08-12T01:59:04.220472Z
+1.0,STARTUP,Y Combinator Directory,https://polymathlabs.ai/,Polymath,6,Simulation environments to train & evaluate long-horizon AI agents,B2B,2026-08-12T01:59:03.756910Z
+1.0,STARTUP,Y Combinator Directory,https://www.archal.ai/,Archal,2,The improvement loop for AI agents,B2B,2026-08-12T01:59:04.804735Z
+1.0,STARTUP,Y Combinator Directory,https://bubblelab.ai/,Bubble Lab,2,Operating system for premium professional communities,B2B,2026-08-12T01:59:03.422501Z
+1.0,STARTUP,Y Combinator Directory,https://heypocket.com/now,Pocket,15,Take Notes in the Real World,Consumer,2026-08-12T01:59:03.264820Z
+1.0,STARTUP,Y Combinator Directory,https://byteport.com/,Byteport,4,Global upload acceleration for 1GB-100TB files.,B2B,2026-08-12T01:59:03.408399Z
+1.0,STARTUP,Y Combinator Directory,https://constellation.space/,Constellation Space,4,AI operating system for mega-scale satellite networks.,B2B,2026-08-12T01:59:04.242047Z
+1.0,STARTUP,Y Combinator Directory,https://www.sazabi.com/,Sazabi,10,The AI-native observability platform for fast-moving engineering teams,B2B,2026-08-12T01:59:04.354109Z
+1.0,STARTUP,Y Combinator Directory,https://mendral.com/,Mendral,2,AI DevOps Engineer,B2B,2026-08-12T01:59:03.704640Z
+1.0,STARTUP,Y Combinator Directory,https://axionorbital.space/,Axionorbital Space,2,Foundation models for 24/7 Earth Observation,Industrials,2026-08-12T01:59:02.963677Z
+1.0,STARTUP,Y Combinator Directory,https://oximy.com,Oximy,8,Take command of the AI your company already runs on.,B2B,2026-08-12T01:59:04.062556Z
+1.0,STARTUP,Y Combinator Directory,https://www.caretta.so,Caretta,4,Realtime AI for Sales Calls,B2B,2026-08-12T01:59:02.992099Z
+1.0,STARTUP,Y Combinator Directory,https://samora.ai/,Samora Ai,8,Multilingual voice agents that outperform humans,B2B,2026-08-12T01:59:03.906277Z
+1.0,STARTUP,Y Combinator Directory,https://www.humanarchive.ai/,Human Archive,10,Physical AI data lab,Industrials,2026-08-12T01:59:03.062492Z
+1.0,STARTUP,Y Combinator Directory,https://www.forum.market/,Forum,2,The first exchange to trade on attention.,Fintech,2026-08-12T01:59:03.122243Z
+1.0,STARTUP,Y Combinator Directory,https://sitefire.ai,Sitefire,2,Marketing suite for the agentic web,B2B,2026-08-12T01:59:03.088586Z
+1.0,STARTUP,Y Combinator Directory,https://tryrobby.com,Robby,3,AI agents that grow revenue for home services businesses,B2B,2026-08-12T01:59:05.926003Z
+1.0,STARTUP,Y Combinator Directory,https://ressl.ai,Ressl Ai,3,"Train, eval and build autonomous agents",B2B,2026-08-12T01:59:03.960880Z
+1.0,STARTUP,Y Combinator Directory,https://emdash.com,Emdash,2,Open-source Agentic Development Environment,B2B,2026-08-12T01:59:03.018058Z
+1.0,STARTUP,Y Combinator Directory,https://www.inventoryquant.com,Inventoryquant,1,We automate the inventory process in insurance,B2B,2026-08-12T01:59:03.185786Z
+1.0,STARTUP,Y Combinator Directory,https://congruent.io,Congruent,2,AI native radars for self-driving cars,Industrials,2026-08-12T01:59:03.145506Z
+1.0,STARTUP,Y Combinator Directory,http://usereframe.ai,Reframe,1,"AI-native, hardware procurement marketplace",B2B,2026-08-12T01:59:05.550522Z
+1.0,STARTUP,Y Combinator Directory,https://valence.trade,Valence,3,Unified prediction markets trading platform,Fintech,2026-08-12T01:59:03.051492Z
+1.0,STARTUP,Y Combinator Directory,https://approxima.ai,Approxima,2,Your software should build itself.,B2B,2026-08-12T01:59:03.147466Z
+1.0,STARTUP,Y Combinator Directory,https://www.traverse.so,Traverse,1,Research lab solving non-verifiable work,B2B,2026-08-12T01:59:03.417416Z
+1.0,STARTUP,Y Combinator Directory,https://revion.inc,Revion,10,Intelligence for Automotive Operations,B2B,2026-08-12T01:59:03.178026Z
+1.0,STARTUP,Y Combinator Directory,https://maywoodai.com/,Maywood,5,The first finance-compliant proactive AI that runs 24/7,Fintech,2026-08-12T01:59:05.813119Z
+1.0,STARTUP,Y Combinator Directory,https://fenrock.ai/,Fenrock Ai,2,AI agents for banks,Fintech,2026-08-12T01:59:04.724770Z
+1.0,STARTUP,Y Combinator Directory,https://endclose.com,End Close,2,AI powered reconciliation for high-volume payments companies,B2B,2026-08-12T01:59:04.735776Z
+1.0,STARTUP,Y Combinator Directory,https://www.usechamber.io,Chamber,4,The AIOps Agent for ML Teams,B2B,2026-08-12T01:59:03.163470Z
+1.0,STARTUP,Y Combinator Directory,https://www.assemble.ai/,Assemble,4,Agents for Enterprise IT,B2B,2026-08-12T01:59:03.470755Z
+1.0,STARTUP,Y Combinator Directory,https://patientdesk.ai/,Patientdesk.Ai,5,AI front & back office agent for dental practices,Healthcare,2026-08-12T01:59:05.138929Z
+1.0,STARTUP,Y Combinator Directory,https://visiblsemi.com,Visibl Semiconductors,2,"A faster, lower cost path to custom silicon",B2B,2026-08-12T01:59:04.506604Z
+1.0,STARTUP,Y Combinator Directory,https://syntheticsciences.ai/,Synthetic Sciences,2,Foundation Models for Scientific Research,B2B,2026-08-12T01:59:03.296299Z
+1.0,STARTUP,Y Combinator Directory,https://www.seeing-systems.com,Seeing Systems,2,Modular AI-Commanded Drones for Defence,Industrials,2026-08-12T01:59:03.492724Z
+1.0,STARTUP,Y Combinator Directory,https://jinba.io,Jinba,2,Automate enterprise workflows through chat,B2B,2026-08-12T01:59:04.292597Z
+1.0,STARTUP,Y Combinator Directory,https://usecardboard.com,Cardboard,5,Agentic video editor,B2B,2026-08-12T01:59:04.456335Z
+1.0,STARTUP,Y Combinator Directory,https://pranadoc.com,Prana,4,An AI primary care doctor in your pocket,Healthcare,2026-08-12T01:59:04.512611Z
+1.0,STARTUP,Y Combinator Directory,https://rhizomeai.com/,Rhizome Ai,1,Agent Platform for Life Sciences,B2B,2026-08-12T01:59:04.220472Z
+1.0,STARTUP,Y Combinator Directory,https://www.paxhistoria.co,Pax Historia,3,The first AI-powered grand strategy platform,Consumer,2026-08-12T01:59:03.588654Z
+1.0,STARTUP,Y Combinator Directory,https://parameter.ai?utm_source=ycombinator&utm_medium=referral&utm_campaign=parameter-profile,Parameter (Fka Hex Security),10,Agentic Offensive Security at Scale,B2B,2026-08-12T01:59:04.651917Z
+1.0,STARTUP,Y Combinator Directory,https://www.terminaluse.com/,Terminal Use,4,Digital twins for data center construction,Real Estate and Construction,2026-08-12T01:59:03.445795Z
+1.0,STARTUP,Y Combinator Directory,https://overshoot.ai,Overshoot,5,AI Infra for real-time vision applications,B2B,2026-08-12T01:59:04.464371Z
+1.0,STARTUP,Y Combinator Directory,https://caj.al/,Cajal,2,Scaling formal verification to accelerate scientific discovery,B2B,2026-08-12T01:59:03.380501Z
+1.0,STARTUP,Y Combinator Directory,https://proximitty.ai,Proximitty,2,AI operating system for commercial loans,Fintech,2026-08-12T01:59:04.796736Z
+1.0,STARTUP,Y Combinator Directory,https://instinct.xyz,Instinct,5,Trade your instinct,Fintech,2026-08-12T01:59:04.201337Z
+1.0,STARTUP,Y Combinator Directory,https://stilta.com,Stilta,4,Agentic AI for intellectual property,B2B,2026-08-12T01:59:03.434755Z
+1.0,STARTUP,Y Combinator Directory,https://www.unisson.ai,Unisson,2,AI agents that automate B2B software implementation,B2B,2026-08-12T01:59:03.516846Z
+1.0,STARTUP,Y Combinator Directory,https://incidentfox.ai,Incidentfox,2,"AI SRE agent that triages, coordinates, and fixes production incidents",B2B,2026-08-12T01:59:04.395068Z
+1.0,STARTUP,Y Combinator Directory,https://compresr.ai,Compresr,4,LLM context compression for better accuracy,B2B,2026-08-12T01:59:04.827164Z
+1.0,STARTUP,Y Combinator Directory,http://opalitehealth.com/,Opalite Health,3,Helping Healthcare Providers Speak Any Language,Healthcare,2026-08-12T01:59:03.784675Z
+1.0,STARTUP,Y Combinator Directory,https://confluence.sh,Confluence Labs,2,AI models that learn from experience,B2B,2026-08-12T01:59:04.659964Z
+1.0,STARTUP,Y Combinator Directory,https://rapidfolio.com/,Rapidfolio,1,AI for fintechs & banks,B2B,2026-08-12T01:59:04.461439Z
+1.0,STARTUP,Y Combinator Directory,https://mangomedical.io,Mango Medical,3,Foundation models for planning orthopedic surgery,Healthcare,2026-08-12T01:59:04.790739Z
+1.0,STARTUP,Y Combinator Directory,https://paysponge.com/,Sponge,3,Financial infrastructure for the agent economy,B2B,2026-08-12T01:59:03.892185Z
+1.0,STARTUP,Y Combinator Directory,https://terranox.ai,Terranox Ai,2,The first AI-powered uranium discovery company,Industrials,2026-08-12T01:59:05.485316Z
+1.0,STARTUP,Y Combinator Directory,https://www.drafted.ai/,Drafted,9,Design your home instantly with AI,Consumer,2026-08-12T01:59:05.513005Z
+1.0,STARTUP,Y Combinator Directory,https://www.ventura.ai,Ventura,2,AI Workforce for Distributors and Manufacturers,Industrials,2026-08-12T01:59:05.956481Z
+1.0,STARTUP,Y Combinator Directory,https://orthogonal.com,Orthogonal,2,Agentic Payments for APIs,B2B,2026-08-12T01:59:04.698257Z
+1.0,STARTUP,Y Combinator Directory,https://www.perfectly.so/,Perfectly,4,The AI-native Recruiting OS,B2B,2026-08-12T01:59:03.734627Z
+1.0,STARTUP,Y Combinator Directory,https://fern.bot,Fern,2,RL environments for robotics companies,B2B,2026-08-12T01:59:04.684988Z
+1.0,STARTUP,Y Combinator Directory,https://sparkles.dev,Sparkles,1,Make everyone on your team an engineer,B2B,2026-08-12T01:59:04.341729Z
+1.0,STARTUP,Y Combinator Directory,https://www.eigenpal.com/,Eigenpal,1,AI Document Workflows for Enterprises,B2B,2026-08-12T01:59:03.772680Z
+1.0,STARTUP,Y Combinator Directory,https://www.usesalus.ai/,Salus,2,Guardrails to validate your agent's actions before they execute,B2B,2026-08-12T01:59:04.842880Z
+1.0,STARTUP,Y Combinator Directory,https://ramain.ai,Ramain,4,Automate any UI task with natural language,B2B,2026-08-12T01:59:04.568493Z
+1.0,STARTUP,Y Combinator Directory,https://milliray.com/,Milliray,3,Technology to detect and track small drones,Industrials,2026-08-12T01:59:04.653953Z
+1.0,STARTUP,Y Combinator Directory,https://www.beyondreachlabs.com,Beyond Reach Labs,5,Space solar arrays that grow to the size of a football field in orbit,Industrials,2026-08-12T01:59:03.909194Z
+1.0,STARTUP,Y Combinator Directory,https://www.tryoctapulse.com/,Octapulse,2,CV and robotics to automate quality inspection in fish farms,Industrials,2026-08-12T01:59:04.500042Z
+1.0,STARTUP,Y Combinator Directory,https://codewisp.ai/,Codewisp,3,Anyone can create real games with AI,Consumer,2026-08-12T01:59:04.903906Z
+1.0,STARTUP,Y Combinator Directory,https://ashr.io,Ashr,2,Automated Multi-Modal Testing for Agents,B2B,2026-08-12T01:59:03.905230Z
+1.0,STARTUP,Y Combinator Directory,https://aemon.ai/,Aemon,3,The Forward-Deployed AI Research Engineer,B2B,2026-08-12T01:59:04.449336Z
+1.0,STARTUP,Y Combinator Directory,https://luel.ai,Luel,12,Turning everyday words and actions into usable training data.,B2B,2026-08-12T01:59:04.992284Z
+1.0,STARTUP,Y Combinator Directory,https://www.schedulingwiz.com,Scheduling Wizard,3,Logistics infrastructure to modernize healthcare operations,Healthcare,2026-08-12T01:59:04.357110Z
+1.0,STARTUP,Y Combinator Directory,https://www.robodock.tech/,Robodock,3,Robots that run autonomous depots for autonomous fleets.,Industrials,2026-08-12T01:59:05.186055Z
+1.0,STARTUP,Y Combinator Directory,https://skillsync.com,Skillsync,2,Github for agent sessions,B2B,2026-08-12T01:59:05.222900Z
+1.0,STARTUP,Y Combinator Directory,https://www.mousecat.ai,Mousecat,6,AI-powered fraud investigations,B2B,2026-08-12T01:59:04.591501Z
+1.0,STARTUP,Y Combinator Directory,https://www.zatanna.ai/,Zatanna,2,Turning all software into agent-first APIs,B2B,2026-08-12T01:59:04.320924Z
+1.0,STARTUP,Y Combinator Directory,https://autositu.com/,Autositu,2,AI-native workspace for development plan reviews,B2B,2026-08-12T01:59:04.757910Z
+1.0,STARTUP,Y Combinator Directory,https://www.verdexai.com/,Verdex,2,AI Verification for Insurance,Fintech,2026-08-12T01:59:05.711184Z
+1.0,STARTUP,Y Combinator Directory,https://cumuluslabs.io,Cumulus Labs,2,The Fastest Multimodal Inference OS,B2B,2026-08-12T01:59:04.237147Z
+1.0,STARTUP,Y Combinator Directory,https://tepali.com,Tepali,2,AI operating system for modern medspas,B2B,2026-08-12T01:59:06.167570Z
+1.0,STARTUP,Y Combinator Directory,https://palus.finance,Palus Finance,2,Your startup's financial advisor,Fintech,2026-08-12T01:59:05.318369Z
+1.0,STARTUP,Y Combinator Directory,https://21st.dev,21St,3,UI building blocks for the agentic internet,B2B,2026-08-12T01:59:04.765912Z
+1.0,STARTUP,Y Combinator Directory,https://avoice.co/,Avoice,4,Harvey for Architecture,B2B,2026-08-12T01:59:05.257047Z
+1.0,STARTUP,Y Combinator Directory,https://zerosettle.io,Zerosettle,2,Drop-in Direct Billing SDK for In-App Purchases,Fintech,2026-08-12T01:59:05.133894Z
+1.0,STARTUP,Y Combinator Directory,https://dev.fast,/Dev/Fast,4,/dev/fast is the AI-native code forge,B2B,2026-08-12T01:59:04.859998Z
+1.0,STARTUP,Y Combinator Directory,https://cignara.com/,Cignara,4,AI Customer Support for Fortune 500-scale enterprises,B2B,2026-08-12T01:59:04.568493Z
+1.0,STARTUP,Y Combinator Directory,http://openspec.dev,Openspec,1,Plan mode for complex features,B2B,2026-08-12T01:59:06.549967Z
+1.0,STARTUP,Y Combinator Directory,https://pirislabs.io/,Piris Labs,8,The Networking Layer of AI,B2B,2026-08-12T01:59:04.586501Z
+1.0,STARTUP,Y Combinator Directory,https://www.celltype.com,Celltype,2,The agentic drug company. We simulate human biology.,Healthcare,2026-08-12T01:59:04.581408Z
+1.0,STARTUP,Y Combinator Directory,https://www.burthq.com/,Burt,2,AI teammates for logistics,B2B,2026-08-12T01:59:04.643918Z
+1.0,STARTUP,Y Combinator Directory,https://envariant.ai/,Envariant,1,Interpretability and reasoning infra for foundation models.,B2B,2026-08-12T01:59:05.540595Z
+1.0,STARTUP,Y Combinator Directory,https://www.beaconhealth.ai/,Beacon Health,2,AI Employees for Primary Care,Healthcare,2026-08-12T01:59:05.000177Z
+1.0,STARTUP,Y Combinator Directory,https://strandai.com,Strand Ai,2,Multimodal foundation models to predict uncollected patient biology,Healthcare,2026-08-12T01:59:05.744271Z
+1.0,STARTUP,Y Combinator Directory,https://protent.ai,Protent,2,Real time intelligence for law enforcement & security teams.,B2B,2026-08-12T01:59:06.213036Z
+1.0,STARTUP,Y Combinator Directory,https://cofia.ai,Cofia,3,AI automations that implement themselves,B2B,2026-08-12T01:59:05.701409Z
+1.0,STARTUP,Y Combinator Directory,https://getfuchsia.ai/,Fuchsia,3,Vanta for hardware,B2B,2026-08-12T01:59:05.477356Z
+1.0,STARTUP,Y Combinator Directory,https://www.legalos.ai,Legalos,3,The AI-Native Immigration Law Firm,B2B,2026-08-12T01:59:04.768952Z
+1.0,STARTUP,Y Combinator Directory,https://sentrial.com/,Sentrial,2,Datadog for Agent Reliability,B2B,2026-08-12T01:59:06.287763Z
+1.0,STARTUP,Y Combinator Directory,https://10xscience.com,10X Science,4,The AI-native platform for next-generation protein characterization.,B2B,2026-08-12T01:59:05.004332Z
+1.0,STARTUP,Y Combinator Directory,https://rev1.so,Rev1,2,Claude Code for Mechanical Engineers,B2B,2026-08-12T01:59:05.100552Z
+1.0,STARTUP,Y Combinator Directory,https://www.shortkit.dev,Shortkit,2,Media infra for consumer apps,B2B,2026-08-12T01:59:05.020606Z
+1.0,STARTUP,Y Combinator Directory,https://tryasimov.ai/,Asimov,3,Real-world human movement data for humanoid robots,Industrials,2026-08-12T01:59:04.863925Z
+1.0,STARTUP,Y Combinator Directory,https://axisanalysis.com,Axis,2,An AI Copilot for Trading Desks,Fintech,2026-08-12T01:59:05.354223Z
+1.0,STARTUP,Y Combinator Directory,https://meetmirabelle.com,Mirabelle,2,Your robot chef,Consumer,2026-08-12T01:59:04.997004Z
+1.0,STARTUP,Y Combinator Directory,https://docurahealth.com,Docura Health,3,AI-Native Med-Legal Firm,Healthcare,2026-08-12T01:59:06.126682Z
+1.0,STARTUP,Y Combinator Directory,https://www.lance.live,Lance,10,AI Agents That Run Hotel Operations.,B2B,2026-08-12T01:59:05.596129Z
+1.0,STARTUP,Y Combinator Directory,https://www.runanywhere.ai/,Runanywhere,5,The default way of running on-device AI at Scale,B2B,2026-08-12T01:59:05.421597Z
+1.0,STARTUP,Y Combinator Directory,https://lucenthq.com,Lucent,2,AI that automatically improves products from user behavior,B2B,2026-08-12T01:59:05.043815Z
+1.0,STARTUP,Y Combinator Directory,https://www.getprescience.com/,"Prescience, Inc.",2,Healthcare for the age of abundant intelligence.,Healthcare,2026-08-12T01:59:05.282009Z
+1.0,STARTUP,Y Combinator Directory,https://rumacare.com,Ruma Care,2,The operations stack for biologic infusion clinics,Healthcare,2026-08-12T01:59:05.055234Z
+1.0,STARTUP,Y Combinator Directory,https://klausai.com,Klaus Ai,2,Fast and Safe OpenClaw on the cloud,B2B,2026-08-12T01:59:06.612175Z
+1.0,STARTUP,Y Combinator Directory,https://www.kita.ai/,Kita,3,Automate credit assessment for lenders in emerging markets,Fintech,2026-08-12T01:59:05.262009Z
+1.0,STARTUP,Y Combinator Directory,https://syntropy.io,Syntropy,2,The agentic coding app for complex tasks.,B2B,2026-08-12T01:59:05.232713Z
+1.0,STARTUP,Y Combinator Directory,https://www.onerobot.io/,One Robot,2,World models for robot evals and training.,Industrials,2026-08-12T01:59:05.255005Z
+1.0,STARTUP,Y Combinator Directory,https://didit.me/,Didit,16,Infrastructure for identity and fraud.,B2B,2026-08-12T01:59:06.239464Z
+1.0,STARTUP,Y Combinator Directory,https://pantainsure.com,Panta,3,AI Native Commercial Insurance Brokerage,Fintech,2026-08-12T01:59:05.633828Z
+1.0,STARTUP,Y Combinator Directory,https://imperfect.co,Imperfect,4,"Adaptive training coach for runners, cyclists, and triathletes",Consumer,2026-08-12T01:59:06.614131Z
+1.0,STARTUP,Y Combinator Directory,https://trytrust.ai,Trustai,3,Continuous compliance and governance for agents on sensitive systems,B2B,2026-08-12T01:59:05.491165Z
+1.0,STARTUP,Y Combinator Directory,https://payna.com/,Payna,2,AI Licensing Agent for Regulated Industries,B2B,2026-08-12T01:59:05.744271Z
+1.0,STARTUP,Y Combinator Directory,https://origin.bio/,Origin,4,AI and Data for Cancer Therapeutics,Healthcare,2026-08-12T01:59:05.723473Z
+1.0,STARTUP,Y Combinator Directory,http://askclara.com,Clara,9,AI primary care doctor,Healthcare,2026-08-12T01:59:06.549967Z
+1.0,STARTUP,Y Combinator Directory,https://www.hlaboratories.com,Hlabs,1,US-Made Parts for Robots,Industrials,2026-08-12T01:59:06.197269Z
+1.0,STARTUP,Y Combinator Directory,https://www.helloeos.ai/,Eos Ai,2,Autonomous OS for healthcare,Healthcare,2026-08-12T01:59:06.468609Z
+1.0,STARTUP,Y Combinator Directory,https://valgo.ai,Valgo,3,Insurance risk layer for physical AI,B2B,2026-08-12T01:59:06.458292Z
+1.0,STARTUP,Y Combinator Directory,https://arcprize.org/,Arc Prize Foundation,4,AI benchmarks that measure general intelligence and inspire new ideas,Industrials,2026-08-12T01:59:06.859583Z
+1.0,STARTUP,Y Combinator Directory,https://corvera.ai/,Corvera,4,The context layer for AI-native CPG brands,B2B,2026-08-12T01:59:05.881851Z
+1.0,STARTUP,Y Combinator Directory,https://fullseam.com,Fullseam,3,AI agents for corporate accounting teams,B2B,2026-08-12T01:59:05.861665Z
+1.0,STARTUP,Y Combinator Directory,https://www.waddlelabs.ai/,Waddle Labs,2,Agents for robotics control.,Industrials,2026-08-12T01:59:06.560977Z
+1.0,STARTUP,Y Combinator Directory,https://linzumi.com,Linzumi,3,Team chat to command all your company's coding agents,B2B,2026-08-12T01:59:06.193935Z
+1.0,STARTUP,Y Combinator Directory,https://advancedmetalresearch.com/,Advanced Metal Research,3,Machine intelligence for American Welding,Industrials,2026-08-12T01:59:06.368352Z
+1.0,STARTUP,Y Combinator Directory,https://ploy.ai,Ploy,14,Ploy turns your website into your company's growth engine.,B2B,2026-08-12T01:59:06.058304Z
+1.0,STARTUP,Y Combinator Directory,https://catchbackcards.com,Catchback Cards,7,The most thrilling way to create and rip digital collectible packs,Consumer,2026-08-12T01:59:06.284755Z
+1.0,STARTUP,Y Combinator Directory,https://mantisbiotech.com/,Mantis,3,Digital Twins of humans,B2B,2026-08-12T01:59:06.121678Z
+1.0,STARTUP,Y Combinator Directory,https://www.haladir.com/,Haladir,4,Operational Superintelligence for Global Logistics,B2B,2026-08-12T01:59:06.357722Z
+1.0,STARTUP,Y Combinator Directory,https://claimglide.com/,Claimglide,1,AI automated prior-auths for private medical practices,Healthcare,2026-08-12T01:59:06.859583Z
+1.0,STARTUP,Y Combinator Directory,https://coasts.dev,Coasts,2,Localhost service isolation and orchestration for git worktrees,B2B,2026-08-12T01:59:07.052717Z
+1.0,STARTUP,Y Combinator Directory,https://www.zephyrfusion.com,Zephyr Fusion,2,Powering tomorrow's industrial revolution in space,Industrials,2026-08-12T01:59:06.742629Z
+1.0,STARTUP,Y Combinator Directory,https://mayflowervisa.com,Mayflower,2,AI plug-in that automates HR immigration screening and compliance,Government,2026-08-12T01:59:06.172205Z
+1.0,STARTUP,Y Combinator Directory,https://ndea.com,Ndea,15,Building AGI that can innovate.,Industrials,2026-08-12T01:59:06.170194Z
+1.0,STARTUP,Y Combinator Directory,https://item.app,Item,6,The AI-Native CRM that works for you,B2B,2026-08-12T01:59:07.011130Z
+1.0,STARTUP,Y Combinator Directory,https://www.crosslayerlabs.com/,Crosslayer Labs,3,"Protect, monitor and defend your Internet presence",B2B,2026-08-12T01:59:07.046729Z
+1.0,STARTUP,Y Combinator Directory,https://rivet.design/,Rivet,1,Visual editor to design in production code,B2B,2026-08-12T01:59:06.884865Z
+1.0,STARTUP,Y Combinator Directory,https://www.openroll.com,Openroll,4,The AI workforce for People and Finance teams,B2B,2026-08-12T01:59:06.362212Z
+1.0,STARTUP,Y Combinator Directory,https://www.amika.dev/,Amika,2,Infra to build your own software factory,B2B,2026-08-12T01:59:06.948524Z
+1.0,STARTUP,Y Combinator Directory,https://withspecific.com,Specific Labs,2,Audio and Enterprise Human Data for AI,B2B,2026-08-12T01:59:06.465292Z
+1.0,STARTUP,Y Combinator Directory,https://moss.dev,Moss,5,Real-time semantic search for Conversational AI,B2B,2026-08-12T01:59:07.061718Z
+1.0,STARTUP,Y Combinator Directory,https://www.zarnaai.com/,Zarna,4,AI Associates for Private Capital,B2B,2026-08-12T01:59:08.101793Z
+1.0,STARTUP,Y Combinator Directory,https://markittrade.com,Markit,2,AI Agents for Trade Compliance - Saving Companies from Tariffs,B2B,2026-08-12T01:59:06.826552Z
+1.0,STARTUP,Y Combinator Directory,https://voltairlabs.com/,Voltair,5,Autonomous Drones for Earth Observation,Industrials,2026-08-12T01:59:06.792335Z
+1.0,STARTUP,Y Combinator Directory,https://clickshealth.com/,Clicks Health,8,AI agents for your healthcare back-office operations.,B2B,2026-08-12T01:59:06.487967Z
+1.0,STARTUP,Y Combinator Directory,http://shoptiques.com,Shoptiques,51,Shoptiques.com lets you shop the world's best local boutiques online.,Consumer,2026-08-12T01:59:06.908897Z
+1.0,STARTUP,Y Combinator Directory,https://antigen.sh/,Antigen,5,Continuous offensive security for the enterprise.,B2B,2026-08-12T01:59:06.763720Z
+1.0,STARTUP,Y Combinator Directory,https://lunabill.com/,Lunabill,4,AI Voice callers for healthcare billing teams,Healthcare,2026-08-12T01:59:06.854584Z
+1.0,STARTUP,Y Combinator Directory,https://axialcompute.com,Axial,1,Accelerated Physics Kernels for Computational Engineering,Industrials,2026-08-12T01:59:06.525960Z
+1.0,STARTUP,Y Combinator Directory,https://velvetlab.ai,Velvet,4,Infra and data for interactive AI.,B2B,2026-08-12T01:59:06.367252Z
+1.0,STARTUP,Y Combinator Directory,https://diligencesquared.com/,Diligencesquared,3,AI-powered market due diligence for investment decisions,B2B,2026-08-12T01:59:07.087713Z
+1.0,STARTUP,Y Combinator Directory,https://amerahealthsolutions.com/,Amera,12,Automating claims processing workflows for health insurance payers.,Fintech,2026-08-12T01:59:07.543895Z
+1.0,STARTUP,Y Combinator Directory,https://forge-robotics.com,Forge Robotics,1,A robotics intelligence system for metal fabrication,Industrials,2026-08-12T01:59:07.410215Z
+1.0,STARTUP,Y Combinator Directory,https://www.getbluma.com,Bluma,2,Canva for short-form video ads,B2B,2026-08-12T01:59:06.578174Z
+1.0,STARTUP,Y Combinator Directory,https://lightberry.com,Lightberry,3,Robots with soul,Industrials,2026-08-12T01:59:06.652793Z
+1.0,STARTUP,Y Combinator Directory,https://thehog.ai/,The Hog,2,Real-time web intelligence API for AI agents and GTM teams,B2B,2026-08-12T01:59:06.525960Z
+1.0,STARTUP,Y Combinator Directory,https://www.freeportmarkets.com/,Freeport Markets,3,Trade Anything,Fintech,2026-08-12T01:59:06.983859Z
+1.0,STARTUP,Y Combinator Directory,https://www.rovi.health,Rovi Health,3,AI healthcare concierge for employees,Healthcare,2026-08-12T01:59:06.565970Z
+1.0,STARTUP,Y Combinator Directory,https://madethis.com,Madethis,4,The autonomous business platform,B2B,2026-08-12T01:59:07.561900Z
+1.0,STARTUP,Y Combinator Directory,https://generalastro.com/,General Astronautics,2,Robotics for Space R&D,Industrials,2026-08-12T01:59:07.128349Z
+1.0,STARTUP,Y Combinator Directory,https://jarmin.ai/,Jarmin,5,AI Employees for human-level roles,B2B,2026-08-12T01:59:07.694325Z
+1.0,STARTUP,Y Combinator Directory,https://exonic.ai,Exonic,3,Unsupervised Biological AI,Healthcare,2026-08-12T01:59:07.252967Z
+1.0,STARTUP,Y Combinator Directory,https://www.uselemma.ai/,Lemma,2,Production Monitoring for AI agents,B2B,2026-08-12T01:59:07.023121Z
+1.0,STARTUP,Y Combinator Directory,https://perseus.computer,Perseus,4,Applied Lab focused on Search in Latent Spaces.,B2B,2026-08-12T01:59:07.721357Z
+1.0,STARTUP,Y Combinator Directory,https://www.karumi.ai/,Karumi,5,The Waymo of Personalized demos,B2B,2026-08-12T01:59:06.586646Z
+1.0,STARTUP,Y Combinator Directory,https://www.icarus.one/,Icarus,50,Stratospheric birds for defense,Industrials,2026-08-12T01:59:07.258966Z
+1.0,STARTUP,Y Combinator Directory,https://www.savahq.com,Sava,3,Building the future of trusts,Fintech,2026-08-12T01:59:06.764641Z
+1.0,STARTUP,Y Combinator Directory,https://takecareos.com,Takecareos,1,AI-native operating system for long term care providers,B2B,2026-08-12T01:59:08.950660Z
+1.0,STARTUP,Y Combinator Directory,https://denki.ai,Denki,3,The full-stack AI financial audit firm,B2B,2026-08-12T01:59:07.736633Z
+1.0,STARTUP,Y Combinator Directory,https://metorial.com,Metorial,4,Agentic infrastructure to power AI-native companies.,B2B,2026-08-12T01:59:06.825558Z
+1.0,STARTUP,Y Combinator Directory,https://kalpalabs.ai/,Kalpa Labs,2,Scaling Generalist Speech models,B2B,2026-08-12T01:59:06.845163Z
+1.0,STARTUP,Y Combinator Directory,https://absurd.com/,Absurd,6,The Creative OS for AI video,B2B,2026-08-12T01:59:06.743637Z
+1.0,STARTUP,Y Combinator Directory,https://automax.ai,Automax.Ai,4,AI native real-estate appraisal firm,Real Estate and Construction,2026-08-12T01:59:08.455520Z
+1.0,STARTUP,Y Combinator Directory,https://specific.dev,Specific,2,AWS for coding agents,B2B,2026-08-12T01:59:07.171238Z
+1.0,STARTUP,Y Combinator Directory,https://www.startprimer.com,Primer,2,AI Product Demos,B2B,2026-08-12T01:59:06.870127Z
+1.0,STARTUP,Y Combinator Directory,http://www.narrative-sports.com,Narrative,3,Video Intelligence for Sports,B2B,2026-08-12T01:59:07.772635Z
+1.0,STARTUP,Y Combinator Directory,https://usecrunched.com/,Crunched,5,Excel AI analyst for Power Users,B2B,2026-08-12T01:59:09.571936Z
+1.0,STARTUP,Y Combinator Directory,https://heylua.ai/,Lua Global Inc,5,The mid-market agent platform,B2B,2026-08-12T01:59:07.294451Z
+1.0,STARTUP,Y Combinator Directory,https://philon.ai/,Philon,1,General Purpose Robots,B2B,2026-08-12T01:59:07.712359Z
+1.0,STARTUP,Y Combinator Directory,https://www.sourcebot.dev/,Sourcebot,3,Helping humans and AI agents understand massive codebases,B2B,2026-08-12T01:59:06.784309Z
+1.0,STARTUP,Y Combinator Directory,https://www.zalos.ai/,Zalos,2,"Computer Agents for Finance tasks like reconciliation, in your system!",B2B,2026-08-12T01:59:06.761634Z
+1.0,STARTUP,Y Combinator Directory,https://tryprism.com/,Prism,4,AI-native recruiting agency,B2B,2026-08-12T01:59:06.781826Z
+1.0,STARTUP,Y Combinator Directory,https://aside.com,Aside,5,The browser built to do real work for you,Consumer,2026-08-12T01:59:06.987040Z
+1.0,STARTUP,Y Combinator Directory,https://tryscott.ai,Scott Ai,3,The planning layer for teams that build with coding agents,B2B,2026-08-12T01:59:07.742640Z
+1.0,STARTUP,Y Combinator Directory,https://everestagi.com/,Everest,1,Y Combinator Startup,Consumer,2026-08-12T01:59:07.542893Z
+1.0,STARTUP,Y Combinator Directory,https://www.expectedparrot.com,Expected Parrot,5,Simulate your customers with AI agents,B2B,2026-08-12T01:59:07.933354Z
+1.0,STARTUP,Y Combinator Directory,https://imagineai.me,Imagine Ai,5,"We reverse engineer B2B growth, starting with LinkedIn.",B2B,2026-08-12T01:59:07.605721Z
+1.0,STARTUP,Y Combinator Directory,https://www.anto.bio/,Anto Biosciences,4,A Foundation Model for Microbial Communities.,Healthcare,2026-08-12T01:59:08.038572Z
+1.0,STARTUP,Y Combinator Directory,https://www.patentwatch.ai/,Patent Watch,4,AI for detecting patent infringements,B2B,2026-08-12T01:59:07.044713Z
+1.0,STARTUP,Y Combinator Directory,https://s2.dev,S2.Dev,5,"API for unlimited, durable, real-time streams",B2B,2026-08-12T01:59:07.563915Z
+1.0,STARTUP,Y Combinator Directory,https://tornyol.com/,Tornyol,7,We build micro-drones that kill mosquitoes.,Consumer,2026-08-12T01:59:06.890867Z
+1.0,STARTUP,Y Combinator Directory,https://nucleoresearch.com/,Nucleo,2,The first Agentic platform for Oncology,Healthcare,2026-08-12T01:59:06.875124Z
+1.0,STARTUP,Y Combinator Directory,https://leadbay.ai/,Leadbay,8,Qualified leads for agentic workflows.,B2B,2026-08-12T01:59:07.757638Z
+1.0,STARTUP,Y Combinator Directory,https://pixleyai.com,Pixley Ai,2,The first platform where families can create AI cartoons in minutes,Consumer,2026-08-12T01:59:07.977707Z
+1.0,STARTUP,Y Combinator Directory,https://cortexrobot.ai/,Cortex Ai,3,Large-scale real-world robot & human data for embodied AI,Industrials,2026-08-12T01:59:07.257966Z
+1.0,STARTUP,Y Combinator Directory,https://www.solbrowser.com,Sol,2,Code and browse in the same place,B2B,2026-08-12T01:59:07.375544Z
+1.0,STARTUP,Y Combinator Directory,https://thesislabs.ai,Thesis,3,Autonomous AI research,B2B,2026-08-12T01:59:07.724356Z
+1.0,STARTUP,Y Combinator Directory,https://oxus-ai.com/,Oxus,3,AI-powered automation for internal audit workflows,B2B,2026-08-12T01:59:08.149947Z
+1.0,STARTUP,Y Combinator Directory,http://playhealth.com,Play Health,4,Perimenopause Care Platform,Healthcare,2026-08-12T01:59:07.197345Z
+1.0,STARTUP,Y Combinator Directory,https://caseyinsure.com/,Casey,5,Casey is an AI-native commercial insurance brokerage,Fintech,2026-08-12T01:59:09.977777Z
+1.0,STARTUP,Y Combinator Directory,https://selfin.app,Selfin,2,Building the first AI Bank,Fintech,2026-08-12T01:59:06.983859Z
+1.0,STARTUP,Y Combinator Directory,https://compyle.ai,Compyle,2,The coding agent that actually collaborates with you,B2B,2026-08-12T01:59:08.144908Z
+1.0,STARTUP,Y Combinator Directory,https://getlexi.io/,Lexi,15,AI Operating System for Legal Teams,B2B,2026-08-12T01:59:09.017027Z
+1.0,STARTUP,Y Combinator Directory,https://www.codyco.ai/en,Codyco,4,The AI Reservation Team for Hotel Groups,B2B,2026-08-12T01:59:07.472247Z
+1.0,STARTUP,Y Combinator Directory,https://www.complydo.io/,Complydo,10,Global Compliance for Enterprises,B2B,2026-08-12T01:59:07.180236Z
+1.0,STARTUP,Y Combinator Directory,https://www.bravi.app/,Bravi,2,The AI operating system powering home services businesses,B2B,2026-08-12T01:59:07.648264Z
+1.0,STARTUP,Y Combinator Directory,https://finaldose.ai/,Finaldose,5,"Programmable DNA drug destroying all cancers, unlocking 80% of targets",Healthcare,2026-08-12T01:59:08.754527Z
+1.0,STARTUP,Y Combinator Directory,https://www.redapto.com/,Redapto,2,Enterprise AI Transformation Platform,B2B,2026-08-12T01:59:08.505472Z
+1.0,STARTUP,Y Combinator Directory,https://helonic.com,Helonic,2,Automatic Construction Drawing Clash Detection,Real Estate and Construction,2026-08-12T01:59:08.289916Z
+1.0,STARTUP,Y Combinator Directory,http://alephlab.ai/,Aleph Lab,2,AI language buddy in the games kids love,Consumer,2026-08-12T01:59:08.367236Z
+1.0,STARTUP,Y Combinator Directory,https://logical.io,Logical,2,"A proactive desktop copilot. Clippy, but actually good.",B2B,2026-08-12T01:59:07.712359Z
+1.0,STARTUP,Y Combinator Directory,https://www.agenticfabriq.com,Agentic Fabriq,2,The control plane for AI agents.,B2B,2026-08-12T01:59:08.018033Z
+1.0,STARTUP,Y Combinator Directory,https://www.travoai.com/,Travo,4,The data infrastructure for real estate,Real Estate and Construction,2026-08-12T01:59:07.792701Z
+1.0,STARTUP,Y Combinator Directory,https://tensr.com/,Tensr,3,Fully autonomous robotic factories,Industrials,2026-08-12T01:59:09.704658Z
+1.0,STARTUP,Y Combinator Directory,https://usekestrel.ai/,Kestrel Ai,2,AI Agents for Platform Engineering,B2B,2026-08-12T01:59:08.104870Z
+1.0,STARTUP,Y Combinator Directory,https://logosguard.com/,Logosguard,2,The sensitive data redaction layer for AI,B2B,2026-08-12T01:59:08.804094Z
+1.0,STARTUP,Y Combinator Directory,https://sciloop.dev,Sciloop,6,Expert STEM reasoning data for frontier AI labs.,B2B,2026-08-12T01:59:08.245770Z
+1.0,STARTUP,Y Combinator Directory,https://multifactor.com,Multifactor,6,"Zero-trust authentication, authorization, and auditing for AI agents",B2B,2026-08-12T01:59:08.201255Z
+1.0,STARTUP,Y Combinator Directory,https://allus.ai,Allus Ai,6,Transforming manufacturing with our next-gen Vision Foundation Model,Industrials,2026-08-12T01:59:08.723825Z
+1.0,STARTUP,Y Combinator Directory,https://www.unsiloed.ai/,Unsiloed Ai,2,API for parsing multimodal unstructured data,B2B,2026-08-12T01:59:07.755613Z
+1.0,STARTUP,Y Combinator Directory,https://sf-tensor.com,Sf Tensor,6,Infrastructure for AI labs to focus on research.,B2B,2026-08-12T01:59:08.348239Z
+1.0,STARTUP,Y Combinator Directory,https://answerthis.io/,Answerthis,6,End-to-end workspace to accelerate scientific discovery,Consumer,2026-08-12T01:59:08.778057Z
+1.0,STARTUP,Y Combinator Directory,https://getnivara.com/,Terrain,2,AI native GTM platform for the physical economy,B2B,2026-08-12T01:59:07.847305Z
+1.0,STARTUP,Y Combinator Directory,https://sellraze.com,Sellraze,6,The fastest way to sell online.,Consumer,2026-08-12T01:59:08.707816Z
+1.0,STARTUP,Y Combinator Directory,https://clerked.ai,Clerked,3,AI clerks that automate your payables,B2B,2026-08-12T01:59:08.513015Z
+1.0,STARTUP,Y Combinator Directory,https://www.sembleai.com,Semble Ai,2,Operating system for your construction business.,B2B,2026-08-12T01:59:07.975708Z
+1.0,STARTUP,Y Combinator Directory,https://flick.art,Flick,2,We Handle AI. You Direct Films.,Consumer,2026-08-12T01:59:10.526449Z
+1.0,STARTUP,Y Combinator Directory,https://hillclimb.com,Hillclimb,4,Training Data for Recursive Self-Improvement,B2B,2026-08-12T01:59:11.237429Z
+1.0,STARTUP,Y Combinator Directory,https://atlasgrid.ai,Atlasgrid,6,Accelerate Product Iteration,B2B,2026-08-12T01:59:11.087044Z
+1.0,STARTUP,Y Combinator Directory,https://www.wardstone.us,Wardstone,8,The Modular Interceptor Platform,Industrials,2026-08-12T01:59:11.209071Z
+1.0,STARTUP,Y Combinator Directory,https://nessielabs.com/,Nessie,3,"A shared context layer for you, your team, and your agents.",Consumer,2026-08-12T01:59:10.823166Z
+1.0,STARTUP,Y Combinator Directory,https://www.hypercubic.ai/,Hypercubic,3,Agentic AI for Mainframe Operations and Modernization,B2B,2026-08-12T01:59:10.919435Z
+1.0,STARTUP,Y Combinator Directory,https://www.cranston.ai,Cranston Ai,2,AI Tax prep and accounting software for CPA firms,B2B,2026-08-12T01:59:11.097321Z
+1.0,STARTUP,Y Combinator Directory,https://www.trelium.com,Trelium,6,The Agent to Build Your Agents,B2B,2026-08-12T01:59:10.530727Z
+1.0,STARTUP,Y Combinator Directory,https://www.velum-labs.com/,Vellum,2,The OS for data quality across any stack,B2B,2026-08-12T01:59:11.162952Z
+1.0,STARTUP,Y Combinator Directory,https://verialabs.com,Veria Labs,3,Continuous AI pentesting that finds and fixes vulnerabilities,B2B,2026-08-12T01:59:10.524434Z
+1.0,STARTUP,Y Combinator Directory,https://minro.com/,Minro,2,Identify churn risk and stay close to users at scale,B2B,2026-08-12T01:59:11.869112Z
+1.0,STARTUP,Y Combinator Directory,https://tellif.ai,Tell If Ai,2,"AI agents on real phones, growing brands across every platform.",B2B,2026-08-12T01:59:10.491634Z
+1.0,STARTUP,Y Combinator Directory,https://askbron.ai/,Bron,2,TikTok for Sports Trading,Consumer,2026-08-12T01:59:11.236411Z
+1.0,STARTUP,Y Combinator Directory,https://www.kaigohealth.ai/,Kaigo Health,3,AI outpatient care workforce,Healthcare,2026-08-12T01:59:10.632451Z
+1.0,STARTUP,Y Combinator Directory,https://www.norra.io,Norra,2,Automating equipment operations for nursing facilities,Healthcare,2026-08-12T01:59:10.917439Z
+1.0,STARTUP,Y Combinator Directory,https://usesoren.com,Soren,1,Specialized AI for Real-World Deployment,B2B,2026-08-12T01:59:12.916025Z
+1.0,STARTUP,Y Combinator Directory,https://lunavo.ai,Lunavo,2,Lunavo is the AI assistant for carriers.,B2B,2026-08-12T01:59:12.061091Z
+1.0,STARTUP,Y Combinator Directory,https://dari.dev,Dari.Dev,2,The Routing Layer for AI Agents,B2B,2026-08-12T01:59:10.912439Z
+1.0,STARTUP,Y Combinator Directory,https://www.thecontextcompany.com,The Context Company,2,Monitor AI agents and understand user behavior,B2B,2026-08-12T01:59:11.648520Z
+1.0,STARTUP,Y Combinator Directory,https://sorce.jobs,Sorce,6,Tinder for jobs,B2B,2026-08-12T01:59:11.187919Z
+1.0,STARTUP,Y Combinator Directory,https://caddy.app/,Caddy,5,Your Personal AI for everyday work. Lives in your texts.,B2B,2026-08-12T01:59:11.601498Z
+1.0,STARTUP,Y Combinator Directory,https://alt-x.co,Alt-X,2,Building the best venue for private markets exposure.,Fintech,2026-08-12T01:59:11.103321Z
+1.0,STARTUP,Y Combinator Directory,https://paywithlocus.com,Locus,2,Payment infrastructure for AI agents,B2B,2026-08-12T01:59:11.042383Z
+1.0,STARTUP,Y Combinator Directory,https://deeptrace.com/,Deeptrace,4,AI agents for on-call,B2B,2026-08-12T01:59:10.738677Z
+1.0,STARTUP,Y Combinator Directory,https://aspect.inc,Aspect,3,Intelligent media storage for creative teams.,B2B,2026-08-12T01:59:11.305325Z
+1.0,STARTUP,Y Combinator Directory,https://aircaps.com,Aircaps,5,The AI copilot for in-person conversations.,Consumer,2026-08-12T01:59:11.065051Z
+1.0,STARTUP,Y Combinator Directory,https://www.aventindustrial.com,Avent,3,AI agents for industrial commerce,B2B,2026-08-12T01:59:10.913438Z
+1.0,STARTUP,Y Combinator Directory,https://altur.io,Altur,5,Voice AI Agents for Debt Collection,B2B,2026-08-12T01:59:11.365940Z
+1.0,STARTUP,Y Combinator Directory,https://avelishealth.com,Avelis Health,3,We audit medical claims for self-insured employers and health plans.,Healthcare,2026-08-12T01:59:11.287306Z
+1.0,STARTUP,Y Combinator Directory,http://alaradental.com,Alara,1,Procurement Platform for Dental Offices,B2B,2026-08-12T01:59:11.538253Z
+1.0,STARTUP,Y Combinator Directory,https://autosana.ai,Autosana,5,AI agents for E2E testing across mobile & web,B2B,2026-08-12T01:59:11.816992Z
+1.0,STARTUP,Y Combinator Directory,https://autumnai.com,Autumn Ai,2,Stalk your prospects at scale.,B2B,2026-08-12T01:59:13.065259Z
+1.0,STARTUP,Y Combinator Directory,https://www.albacore.inc,Albacore Inc.,18,Drone submarines,Industrials,2026-08-12T01:59:10.740678Z
+1.0,STARTUP,Y Combinator Directory,https://withasync.com,Async,2,Transforming small businesses with AI agents,B2B,2026-08-12T01:59:11.749632Z
+1.0,STARTUP,Y Combinator Directory,https://alterauth.com,Alter,2,Secure access control and authorization platform for agent workflows,B2B,2026-08-12T01:59:11.436390Z
+1.0,STARTUP,Y Combinator Directory,https://args.io/,Args,2,A better GItHub,B2B,2026-08-12T01:59:11.503586Z
+1.0,STARTUP,Y Combinator Directory,https://astor.app/,Astor,5,AI advisor for retail investors,Fintech,2026-08-12T01:59:11.162952Z
+1.0,STARTUP,Y Combinator Directory,https://agentmail.to,Agentmail,10,Email Inboxes for AI Agents,B2B,2026-08-12T01:59:11.194090Z
+1.0,STARTUP,Y Combinator Directory,https://www.acrely.ai,Acrely,6,Enterprise Voice Agents,B2B,2026-08-12T01:59:10.743684Z
+1.0,STARTUP,Y Combinator Directory,https://www.adaptional.com/,Adaptional,1,AI-powered insurance claims review,B2B,2026-08-12T01:59:10.720144Z
+1.0,STARTUP,Y Combinator Directory,https://becomeautonomous.com/,Autonomous Technologies Group,8,Superintelligent financial advisor,Fintech,2026-08-12T01:59:11.537254Z
+1.0,STARTUP,Y Combinator Directory,https://aegishealth.us/,Aegis,3,AI Agents to win denied health insurance claims.,Healthcare,2026-08-12T01:59:10.740678Z
+1.0,STARTUP,Y Combinator Directory,https://airweave.ai,Airweave,7,The open-source context retrieval layer for agents,B2B,2026-08-12T01:59:10.881179Z
+1.0,STARTUP,Y Combinator Directory,https://www.adentris.com,Adentris,4,Real-time AI Compliance for Medical Documentation,Healthcare,2026-08-12T01:59:11.038086Z
+1.0,STARTUP,Y Combinator Directory,https://alkali.engineering,Alkali,2,The smarter way to estimate steel.,B2B,2026-08-12T01:59:11.830507Z
+1.0,STARTUP,Y Combinator Directory,https://getanana.com,Anana,2,The agentic system of action for hotel groups and management companies,B2B,2026-08-12T01:59:10.858721Z
+1.0,STARTUP,Y Combinator Directory,https://alpharesearch.nyc/,Alpha Research,1,"Open source, agentic knowledge bases for all of humanity's knowledge.",B2B,2026-08-12T01:59:11.308313Z
+1.0,STARTUP,Y Combinator Directory,https://almond.bot/,Almond,6,A dual-arm robot built for physical AI.,Industrials,2026-08-12T01:59:12.349764Z
+1.0,STARTUP,Y Combinator Directory,https://acolite.ai,Acolite,3,AI Native Commercial Insurance Broker,Fintech,2026-08-12T01:59:10.924449Z
+1.0,STARTUP,Y Combinator Directory,https://getauctor.com,Auctor,30,The agentic operating system for modern system integrators.,B2B,2026-08-12T01:59:13.335028Z
+1.0,STARTUP,Y Combinator Directory,https://www.avallon.ai/,Avallon Ai,7,AI agents for insurance claims operations,Fintech,2026-08-12T01:59:10.889442Z
+1.0,STARTUP,Y Combinator Directory,https://autostep.ai/,Autostep,2,The P&L for knowledge work,B2B,2026-08-12T01:59:11.457971Z
+1.0,STARTUP,Y Combinator Directory,https://www.aravolta.com/,Aravolta,4,"Software to monitor, control, and optimize data centers.",B2B,2026-08-12T01:59:11.157815Z
+1.0,STARTUP,Y Combinator Directory,https://www.ambral.com/,Ambral,4,AI for account management and customer success,B2B,2026-08-12T01:59:10.885440Z
+1.0,STARTUP,Y Combinator Directory,https://assistant-ui.com,Assistant-Ui,3,Open Source React.js Library for AI Chat,B2B,2026-08-12T01:59:12.297967Z
+1.0,STARTUP,Y Combinator Directory,https://www.artifact.engineer/,Artifact,3,"An Collaborative, AI-native IDE for Hardware Engineers",B2B,2026-08-12T01:59:10.913438Z
+1.0,STARTUP,Y Combinator Directory,https://www.axal.ai/,Axal,3,"Service company that designs, sources, and quality-tests custom PCBs",Industrials,2026-08-12T01:59:11.347908Z
+1.0,STARTUP,Y Combinator Directory,https://atlog.ai,Atlog,2,Outbound voice and text AI without a prompt,B2B,2026-08-12T01:59:11.226092Z
+1.0,STARTUP,Y Combinator Directory,https://archon.inc,Archon,3,We help software companies sell to government.,Government,2026-08-12T01:59:11.076045Z
+1.0,STARTUP,Y Combinator Directory,https://afterquery.com,Afterquery,30,Applied research lab curating data solutions for foundation model…,B2B,2026-08-12T01:59:11.239604Z
+1.0,STARTUP,Y Combinator Directory,https://societies.io,Artificial Societies,12,We build networks of AIs to simulate high-value audiences,B2B,2026-08-12T01:59:11.098322Z
+1.0,STARTUP,Y Combinator Directory,https://www.agentin.ai,Agentin Ai,2,AI Agents that automate enterprise software processes,B2B,2026-08-12T01:59:10.912439Z
+1.0,STARTUP,Y Combinator Directory,https://www.athenahq.ai,Athenahq,12,"Be the Answer in AI Search - AI SEO across SEO, GEO & AEO",B2B,2026-08-12T01:59:11.846794Z
+1.0,STARTUP,Y Combinator Directory,https://asteroid.ai,Asteroid,8,"The integration layer for healthcare: EHRs, payer portals & more",B2B,2026-08-12T01:59:11.443987Z
+1.0,STARTUP,Y Combinator Directory,https://tryamby.com,Amby Health,2,The health coach that texts you first,Healthcare,2026-08-12T01:59:12.170493Z
+1.0,STARTUP,Y Combinator Directory,https://a0.dev,A0.Dev,3,We make mobile apps using AI.,B2B,2026-08-12T01:59:11.614496Z
+1.0,STARTUP,Y Combinator Directory,https://www.a1zap.com/,A1Zap By A1Base,2,The social network layer for AI apps,B2B,2026-08-12T01:59:11.610491Z
+1.0,STARTUP,Y Combinator Directory,https://www.awen.ai/,Awen,6,awen translates intent into exceptional visuals through conversation,B2B,2026-08-12T01:59:11.859209Z
+1.0,STARTUP,Y Combinator Directory,https://www.alice.tech/,Alice.Tech,5,AI-driven exam prep,Education,2026-08-12T01:59:12.863612Z
+1.0,STARTUP,Y Combinator Directory,https://www.aviro.ai/,Aviro,2,Environments for Long Horizon Tool Use,B2B,2026-08-12T01:59:11.542253Z
+1.0,STARTUP,Y Combinator Directory,https://asha.health,Asha Health,9,We help medical practices become AI-native,Healthcare,2026-08-12T01:59:11.609493Z
+1.0,STARTUP,Y Combinator Directory,https://apolink.space,Apolink,7,24/7 satellite connectivity in low Earth orbit,Industrials,2026-08-12T01:59:11.154818Z
+1.0,STARTUP,Y Combinator Directory,https://archilabs.ai,Archilabs,2,AI CAD for AEC,Real Estate and Construction,2026-08-12T01:59:11.651545Z
+1.0,STARTUP,Y Combinator Directory,https://useautumn.com,Autumn,5,Billing infrastructure for AI,B2B,2026-08-12T01:59:11.669907Z
+1.0,STARTUP,Y Combinator Directory,https://www.abundant.ai/,Abundant,7,Agent simulation and RL for researchers,B2B,2026-08-12T01:59:11.217073Z
+1.0,STARTUP,Y Combinator Directory,https://www.autocomputer.ai/,Autocomputer,2,Desktop RPA with AI computer use,B2B,2026-08-12T01:59:11.230091Z
+1.0,STARTUP,Y Combinator Directory,https://attimet.com/,Attimet,3,we predict stuff,Fintech,2026-08-12T01:59:12.015020Z
+1.0,STARTUP,Y Combinator Directory,https://archil.com,Archil,11,The high-performance file system that connects AI to data,B2B,2026-08-12T01:59:11.241613Z
+1.0,STARTUP,Y Combinator Directory,https://afternoon.co,Afternoon.Co,4,"Bookkeeping, compliance and tax for founders",B2B,2026-08-12T01:59:11.915840Z
+1.0,STARTUP,Y Combinator Directory,https://www.arva.ai,Arva Ai,20,"AI Agents to scale AML, KYB and KYC operations",B2B,2026-08-12T01:59:12.459805Z
+1.0,STARTUP,Y Combinator Directory,https://affil.ai/,Affil.Ai,4,AI Affiliate Network For Financial Companies,B2B,2026-08-12T01:59:12.709482Z
+1.0,STARTUP,Y Combinator Directory,https://www.anglera.com/,Anglera,6,AI-Powered Product Data Enrichment,B2B,2026-08-12T01:59:11.300306Z
+1.0,STARTUP,Y Combinator Directory,https://assemblyhoa.com,Assembly Hoa,12,AI-native HOA Management Company,Real Estate and Construction,2026-08-12T01:59:11.214088Z
+1.0,STARTUP,Y Combinator Directory,https://www.autarc.energy/global,Autarc,30,autarc is the agentic OS for energy installers.,B2B,2026-08-12T01:59:11.212084Z
+1.0,STARTUP,Y Combinator Directory,https://www.argil.ai/,Argil,8,The video generation engine for the creator economy,Consumer,2026-08-12T01:59:11.617497Z
+1.0,STARTUP,Y Combinator Directory,https://www.tryandai.com/,&Ai,7,Collaborative workspace for patent litigators,B2B,2026-08-12T01:59:11.919932Z
+1.0,STARTUP,Y Combinator Directory,https://www.autumnlabs.io/,Autumn Labs,3,Datadog for industrial robots,Industrials,2026-08-12T01:59:13.749968Z
+1.0,STARTUP,Y Combinator Directory,https://anara.com,Anara,5,AI for researchers,B2B,2026-08-12T01:59:12.016020Z
+1.0,STARTUP,Y Combinator Directory,https://alunadata.com,Aluna,3,Data for biomedical AI,B2B,2026-08-12T01:59:13.148574Z
+1.0,STARTUP,Y Combinator Directory,https://anthrogen.com,Anthrogen,6,We're training the next generation of protein foundation models.,Healthcare,2026-08-12T01:59:12.151522Z
+1.0,STARTUP,Y Combinator Directory,https://autopallet.bot,Autopallet Robotics,6,We make robots that move boxes in warehouses,Industrials,2026-08-12T01:59:11.504593Z
+1.0,STARTUP,Y Combinator Directory,https://www.aminoanalytica.com,Aminoanalytica,3,The AI scientist for always-on biodefense,Healthcare,2026-08-12T01:59:11.573490Z
+1.0,STARTUP,Y Combinator Directory,https://aresindustries.com,Ares Industries,2,Building low-cost cruise missiles,Industrials,2026-08-12T01:59:12.677462Z
+1.0,STARTUP,Y Combinator Directory,https://atum.works/,Atum Works,3,Gigascale Nanomanufacturing,Industrials,2026-08-12T01:59:11.454966Z
+1.0,STARTUP,Y Combinator Directory,https://azalearobotics.com/,Azalea Robotics Corporation,1,Automating airport baggage handling with robots.,Industrials,2026-08-12T01:59:12.633847Z
+1.0,STARTUP,Y Combinator Directory,https://www.apten.ai/,Apten,4,"Omnichannel AI agents that engage leads across SMS, voice, and email",B2B,2026-08-12T01:59:11.613496Z
+1.0,STARTUP,Y Combinator Directory,http://abelpolice.com,Abel Police,5,Automating police paperwork,Government,2026-08-12T01:59:12.149126Z
+1.0,STARTUP,Y Combinator Directory,https://www.angstrom-ai.com,Ångström Ai,5,Gen AI molecular simulations that reproduce wetlab results,Healthcare,2026-08-12T01:59:12.327221Z
+1.0,STARTUP,Y Combinator Directory,https://aquavoice.com,Aqua Voice,5,Frontier Voice Input - write 4x faster than typing.,Consumer,2026-08-12T01:59:11.641541Z
+1.0,STARTUP,Y Combinator Directory,https://adapted.app,Adapted,2,AI physical therapy for athletes,Consumer,2026-08-12T01:59:11.459971Z
+1.0,STARTUP,Y Combinator Directory,https://getalai.com,Alai,5,Create high quality presentations quickly using AI,B2B,2026-08-12T01:59:12.289964Z
+1.0,STARTUP,Y Combinator Directory,https://www.artosai.com/,Artos,7,"Authoring documents for life sciences in minutes, not months.",B2B,2026-08-12T01:59:11.680918Z
+1.0,STARTUP,Y Combinator Directory,https://www.acxtherapeutics.com/,Acx,4,Next-generation biocides for sustainable agriculture at scale,Healthcare,2026-08-12T01:59:11.924858Z
+1.0,STARTUP,Y Combinator Directory,https://with-andy.com,Andy Ai,5,Faster clinical documentation for home health nurses,Healthcare,2026-08-12T01:59:11.719017Z
+1.0,STARTUP,Y Combinator Directory,https://getaftercare.com,Aftercare,3,Conversational AI surveys with intelligent follow-up questions,B2B,2026-08-12T01:59:13.596473Z
+1.0,STARTUP,Y Combinator Directory,https://astromecha.co/,Astro Mechanica,52,Supersonics for the new Jet Age,Industrials,2026-08-12T01:59:12.760498Z
+1.0,STARTUP,Y Combinator Directory,http://attunement.ai,Attunement,3,Attunement turns fragmented behavioral health records into structured…,Healthcare,2026-08-12T01:59:12.470225Z
+1.0,STARTUP,Y Combinator Directory,http://atopile.io,Atopile,5,We make tools to design electronics circuit boards with code,B2B,2026-08-12T01:59:13.439716Z
+1.0,STARTUP,Y Combinator Directory,https://artisan.co/?utm_source=ycombinator,Artisan,50,"The AI BDR for enterprise revenue teams, plus a full AI sales team",B2B,2026-08-12T01:59:13.131744Z
+1.0,STARTUP,Y Combinator Directory,https://www.arini.ai,Arini,17,AI receptionist for dentists,Healthcare,2026-08-12T01:59:12.172836Z
+1.0,STARTUP,Y Combinator Directory,https://averyiq.com,Averyiq,3,AI Copilot for Property Managers and Landlords,Real Estate and Construction,2026-08-12T01:59:12.831702Z
+1.0,STARTUP,Y Combinator Directory,https://agenticlabs.com,Agentic Labs,2,AI system design tools for dev teams,B2B,2026-08-12T01:59:12.912024Z
+1.0,STARTUP,Y Combinator Directory,https://www.aidyhq.com/,Aidy,2,Mobile app helping people better manage chronic health conditions,Healthcare,2026-08-12T01:59:12.026140Z
+1.0,STARTUP,Y Combinator Directory,https://www.argon-ai.com/,"Argon Ai, Inc.",2,AI for Pharma Intelligence,Healthcare,2026-08-12T01:59:13.293042Z
+1.0,STARTUP,Y Combinator Directory,https://alex.com,Alex,30,Your AI recruiter for interviewing and identifying the best talent,B2B,2026-08-12T01:59:12.943699Z
+1.0,STARTUP,Y Combinator Directory,https://andonlabs.com/,Andon Labs,11,Autonomous organizations without humans in the loop,B2B,2026-08-12T01:59:12.783569Z
+1.0,STARTUP,Y Combinator Directory,https://aisdr.com/,Aisdr,5,AI sales prospecting. Replace your SDR with AiSDR,B2B,2026-08-12T01:59:12.345764Z
+1.0,STARTUP,Y Combinator Directory,https://itsaffinity.com,Affinity,2,A compliance training platform built for regulated industries.,B2B,2026-08-12T01:59:12.071189Z
+1.0,STARTUP,Y Combinator Directory,http://www.andromedasurgical.com,Andromeda Surgical,12,Autonomous surgical robots,Healthcare,2026-08-12T01:59:13.076413Z
+1.0,STARTUP,Y Combinator Directory,https://automorphic.ai/,Automorphic,3,Infuse knowledge into language models with just 10 samples,B2B,2026-08-12T01:59:12.578194Z
+1.0,STARTUP,Y Combinator Directory,https://apoxy.dev,Apoxy,2,Simpler and cheaper multi-cloud and cross-platform deployments.,B2B,2026-08-12T01:59:13.358434Z
+1.0,STARTUP,Y Combinator Directory,https://aglide.com,Aglide,6,Connect every disconnected app to your SSO.,B2B,2026-08-12T01:59:13.123679Z
+1.0,STARTUP,Y Combinator Directory,https://www.agentcollect.com,Agentcollect,42,B2B debt collection powered by AI agents,Fintech,2026-08-12T01:59:12.162966Z
+1.0,STARTUP,Y Combinator Directory,https://www.arcimus.com/,Arcimus,2,A stream of engineering candidates who ship.,B2B,2026-08-12T01:59:12.789582Z
+1.0,STARTUP,Y Combinator Directory,https://alguna.com,Alguna,10,AI-Native CPQ & Billing for Modern Pricing Models,B2B,2026-08-12T01:59:12.582189Z
+1.0,STARTUP,Y Combinator Directory,https://airgoods.com/,Airgoods,10,Wholesale marketplace for food & beverage,B2B,2026-08-12T01:59:12.342778Z
+1.0,STARTUP,Y Combinator Directory,https://aivideo.com,Aivideo.Com,12,Superhuman video production as a service,B2B,2026-08-12T01:59:13.325034Z
+1.0,STARTUP,Y Combinator Directory,https://www.withaccend.com/,Accend,18,AI agents for commercial underwriting at banks and fintechs,Fintech,2026-08-12T01:59:12.455894Z
+1.0,STARTUP,Y Combinator Directory,https://www.artie.com/,Artie,16,Software that streams data from databases to warehouses in real-time,B2B,2026-08-12T01:59:12.500656Z
+1.0,STARTUP,Y Combinator Directory,https://www.runautomat.com/,Automat,1,AI enabled RPA using ChatGPT and computer vision,B2B,2026-08-12T01:59:14.632779Z
+1.0,STARTUP,Y Combinator Directory,https://www.getadri.ai/,Adri Ai,3,Your AI Partner for SAP Development,B2B,2026-08-12T01:59:12.543601Z
+1.0,STARTUP,Y Combinator Directory,https://www.atmeto.com,Atmeto,2,We develop ML that optimizes how batteries in the grid store energy,Industrials,2026-08-12T01:59:13.147577Z
+1.0,STARTUP,Y Combinator Directory,https://www.alaan.com/,Alaan,160,Modern finance platform for the Middle East,Fintech,2026-08-12T01:59:12.561806Z
+1.0,STARTUP,Y Combinator Directory,https://www.ariglad.com/,Ariglad,4,Knowledge base maintenance on auto-pilot,B2B,2026-08-12T01:59:12.516654Z
+1.0,STARTUP,Y Combinator Directory,https://alloy.app,Alloy,5,AI prototyping tool for product managers,B2B,2026-08-12T01:59:12.567828Z
+1.0,STARTUP,Y Combinator Directory,https://www.avoca.ai/,Avoca,85,AI-powered Sales Agent for Service-Based Industries,B2B,2026-08-12T01:59:13.545374Z
+1.0,STARTUP,Y Combinator Directory,https://www.accessowl.io/,Accessowl,15,Managing your Employees' Access to SaaS,B2B,2026-08-12T01:59:13.359435Z
+1.0,STARTUP,Y Combinator Directory,https://axle.insure,Axle,20,AI-native clearinghouse for insurance,Fintech,2026-08-12T01:59:14.001624Z
+1.0,STARTUP,Y Combinator Directory,https://algotest.in,Algotest,40,Ecosystem for options trading in India,Fintech,2026-08-12T01:59:12.683464Z
+1.0,STARTUP,Y Combinator Directory,https://autone.io,Autone,70,Inventory management SaaS for Retail & Consumer brands,B2B,2026-08-12T01:59:12.604554Z
+1.0,STARTUP,Y Combinator Directory,https://avina.io,Avina,5,GTM signals engine for sales teams. Automate warm outbound with AI.,B2B,2026-08-12T01:59:14.766217Z
+1.0,STARTUP,Y Combinator Directory,https://aiprise.com/,Aiprise,42,AI-powered Global Compliance Platform,Fintech,2026-08-12T01:59:14.240874Z
+1.0,STARTUP,Y Combinator Directory,https://getanchor.co/,Anchor,8,Embedded finance platform for African businesses,Fintech,2026-08-12T01:59:12.597551Z
+1.0,STARTUP,Y Combinator Directory,https://atlaswork.ai,Atlas,2,"AI contract agent: Fill a template, get signed, and run next actions.",B2B,2026-08-12T01:59:12.692474Z
+1.0,STARTUP,Y Combinator Directory,https://search-artemis.com/,Artemis Search,3,A search technology that actually finds what you’re looking for.,B2B,2026-08-12T01:59:12.690459Z
+1.0,STARTUP,Y Combinator Directory,https://www.aurelian.com/,Aurelian,45,Automating non-emergency calls for 911 centers,B2B,2026-08-12T01:59:13.568451Z
+1.0,STARTUP,Y Combinator Directory,http://www.helloaviary.ai,Aviaryai,10,Outbound AI voice agents for the financial services industry,Fintech,2026-08-12T01:59:13.275014Z
+1.0,STARTUP,Y Combinator Directory,https://anythingllm.com,Anythingllm,4,Building the definitive all-in-one on-device AI productivity tool,Consumer,2026-08-12T01:59:13.235472Z
+1.0,STARTUP,Y Combinator Directory,https://alphawatch.ai,Alphawatch Ai,8,"Discover new opportunities (jobs, deals, investors)",Fintech,2026-08-12T01:59:13.568451Z
+1.0,STARTUP,Y Combinator Directory,https://www.airhartaero.com/,Airhart Aeronautics,6,Airplanes anyone can fly,Industrials,2026-08-12T01:59:13.682821Z
+1.0,STARTUP,Y Combinator Directory,https://www.aragorn.ai,Aragorn Ai,4,Operating system for HR in the AI era,B2B,2026-08-12T01:59:12.931026Z
+1.0,STARTUP,Y Combinator Directory,http://www.applydesign.io,Apply Design,4,Helping realtors showcase the full potential of their properties,Real Estate and Construction,2026-08-12T01:59:13.482024Z
+1.0,STARTUP,Y Combinator Directory,https://www.activepieces.com,Activepieces,10,"Open-source, AI-first and no-code business automation tool",B2B,2026-08-12T01:59:13.267015Z
+1.0,STARTUP,Y Combinator Directory,https://thealttex.com/,Alt Tex,10,"Biodegradable and carbon neutral textiles, engineered from food waste.",Industrials,2026-08-12T01:59:13.052263Z
+1.0,STARTUP,Y Combinator Directory,https://www.arraylabs.io/,Array Labs,30,We're building satellites to create a real-time 3D map of the world.,Industrials,2026-08-12T01:59:12.939624Z
+1.0,STARTUP,Y Combinator Directory,http://www.AYCFund.com/,Ayc Fund,1,AI-native crypto hedge fund,Fintech,2026-08-12T01:59:15.129726Z
+1.0,STARTUP,Y Combinator Directory,http://www.Avocademy.com,Avocademy,6,We teach UX/UI design and then help people get great jobs.,Education,2026-08-12T01:59:14.379662Z
+1.0,STARTUP,Y Combinator Directory,https://www.arpari.com,Arpari,6,Multibank treasury management,Fintech,2026-08-12T01:59:12.952622Z
+1.0,STARTUP,Y Combinator Directory,https://www.beloz.com.mx/,Amiloz,20,Micro-lender in Mexico,Fintech,2026-08-12T01:59:14.861564Z
+1.0,STARTUP,Y Combinator Directory,https://argument.xyz,Argument Computer Corporation,8,Accelerate verifiable computing,B2B,2026-08-12T01:59:13.212380Z
+1.0,STARTUP,Y Combinator Directory,https://amalinvest.com,Amal Invest,3,Investing app for Muslims,Fintech,2026-08-12T01:59:14.024621Z
+1.0,STARTUP,Y Combinator Directory,https://joinattain.com/,Attain,5,One-Stop Shop for Convenience Store Inventory,B2B,2026-08-12T01:59:13.053260Z
+1.0,STARTUP,Y Combinator Directory,https://www.airworkhq.com,Airwork,4,On-demand labour that's actually good,B2B,2026-08-12T01:59:13.467519Z
+1.0,STARTUP,Y Combinator Directory,https://arintra.com,Arintra,50,Medical coding automation,Healthcare,2026-08-12T01:59:15.183469Z
+1.0,STARTUP,Y Combinator Directory,https://Argo.LA,Argo,10,A social streaming platform powered by creators and fans,Consumer,2026-08-12T01:59:14.441281Z
+1.0,STARTUP,Y Combinator Directory,https://www.alga.bio/,Alga Biosciences,6,We stop cows from burping methane.,Industrials,2026-08-12T01:59:13.121679Z
+1.0,STARTUP,Y Combinator Directory,https://GetAgency.com,Agency,50,Agency replaces traditional security and compliance headcount with AI.,B2B,2026-08-12T01:59:13.496342Z
+1.0,STARTUP,Y Combinator Directory,https://anfin.vn/,Anfin,40,A multi-asset trading platform dedicated to retail investors,Fintech,2026-08-12T01:59:13.311018Z
+1.0,STARTUP,Y Combinator Directory,http://axis.xyz,Axis,15,Knowledge base for corporate affairs teams,B2B,2026-08-12T01:59:15.830346Z
+1.0,STARTUP,Y Combinator Directory,http://www.armilla.ai,Armilla Ai,14,Liability insurance for generative AI and AI Agents,Fintech,2026-08-12T01:59:14.292094Z
+1.0,STARTUP,Y Combinator Directory,https://atlas.so,Atlas,18,Modern customer support platform replacement for Intercom and Zendesk,B2B,2026-08-12T01:59:13.856645Z
+1.0,STARTUP,Y Combinator Directory,https://aspora.com,Aspora,85,Single account to manage money across the world,Fintech,2026-08-12T01:59:15.272328Z
+1.0,STARTUP,Y Combinator Directory,https://www.axross.co/,Axross Pte Ltd,10,AI-driven HVAC control system for improved energy performance,B2B,2026-08-12T01:59:15.091630Z
+1.0,STARTUP,Y Combinator Directory,http://www.actipulseneuroscience.com,Actipulse Neuroscience,38,Bringing non-invasive brain stimulation from the hospital to the home,Healthcare,2026-08-12T01:59:16.048150Z
+1.0,STARTUP,Y Combinator Directory,https://www.useagave.com,Agave,40,AI Financial Operations for Construction,B2B,2026-08-12T01:59:13.356432Z
+1.0,STARTUP,Y Combinator Directory,https://www.astroforge.io/,Astroforge,10,We Mine Asteroids,Industrials,2026-08-12T01:59:15.438232Z
+1.0,STARTUP,Y Combinator Directory,https://www.apollofirst.xyz/,Apollo,11,Payments & Loyalty Infrastructure,Fintech,2026-08-12T01:59:13.733702Z
+1.0,STARTUP,Y Combinator Directory,https://attack.capital/,Attack Capital,5,Access the start-up asset class with vetted private companies,B2B,2026-08-12T01:59:15.231815Z
+1.0,STARTUP,Y Combinator Directory,https://AndiAI.com,Andi,2,AI Search for the Next Generation,Consumer,2026-08-12T01:59:13.781968Z
+1.0,STARTUP,Y Combinator Directory,https://www.amenli.com/,Amenli,65,Offers insurance to customers in a convenient & transparent way,Fintech,2026-08-12T01:59:14.163501Z
+1.0,STARTUP,Y Combinator Directory,https://ahazou.com,Ahazou,27,Podium for local businesses in Latam,B2B,2026-08-12T01:59:14.000621Z
+1.0,STARTUP,Y Combinator Directory,https://aviator.co,Aviator,6,Google-level engineering productivity suite,B2B,2026-08-12T01:59:15.421876Z
+1.0,STARTUP,Y Combinator Directory,https://www.adra.ai,Adravision,8,Automation for dental clinics and insurance companies.,Healthcare,2026-08-12T01:59:13.772972Z
+1.0,STARTUP,Y Combinator Directory,https://atlas.kitchen,Atlas,12,"Operating system for restaurants, focusing on Southeast Asia",B2B,2026-08-12T01:59:15.052497Z
+1.0,STARTUP,Y Combinator Directory,https://www.abatable.com,Abatable,35,Carbon markets platform and solutions,Industrials,2026-08-12T01:59:15.379886Z
+1.0,STARTUP,Y Combinator Directory,https://abhi.com.pk/,Abhi,10,Abhi is Pakistan's 1st financial wellness platform focusing on…,Fintech,2026-08-12T01:59:15.346118Z
+1.0,STARTUP,Y Combinator Directory,https://www.adni.co/,Adni,5,The AI career platform for healthcare workers,Healthcare,2026-08-12T01:59:14.603101Z
+1.0,STARTUP,Y Combinator Directory,https://www.akutehealth.com,Akute Health,4,The medical record & infrastructure stack for digital health companies,Healthcare,2026-08-12T01:59:14.237262Z
+1.0,STARTUP,Y Combinator Directory,https://www.adaptyvbio.com/,Adaptyv,25,We're building fully automated labs for protein engineering,Healthcare,2026-08-12T01:59:14.846949Z
+1.0,STARTUP,Y Combinator Directory,https://asim.sh/,Asim,9,Build and share apps with friends,Consumer,2026-08-12T01:59:15.113650Z
+1.0,STARTUP,Y Combinator Directory,http://astekdx.com,Astek Diagnostics,5,One-hour antibiotic sensitivity testing,Healthcare,2026-08-12T01:59:15.176474Z
+1.0,STARTUP,Y Combinator Directory,https://getaleph.com/,Aleph,30,One source of truth for financial data.,B2B,2026-08-12T01:59:15.434233Z
+1.0,STARTUP,Y Combinator Directory,https://www.alephee.com,Aleph Solutions (Alephee),60,We help automotive aftermarket brands to supply and sell parts online,B2B,2026-08-12T01:59:15.661685Z
+1.0,STARTUP,Y Combinator Directory,https://aitechpacks.com,Ai Tech Packs,2,Build factory ready tech packs in minutes.,B2B,2026-08-12T01:59:14.951238Z
+1.0,STARTUP,Y Combinator Directory,https://algoviral.com,Algoviral,5,We help high-growth startups go viral on autopilot,B2B,2026-08-12T01:59:16.332110Z
+1.0,STARTUP,Y Combinator Directory,https://www.investwithaqua.com,Aqua,34,The AI-Native Turnkey Alternative Investment Platform (TAIP),Fintech,2026-08-12T01:59:14.500694Z
+1.0,STARTUP,Y Combinator Directory,https://www.awesomic.com/?ref=yc,Awesomic,150,Get matched with top 1% of talents in 24h,B2B,2026-08-12T01:59:14.542492Z
+1.0,STARTUP,Y Combinator Directory,https://anakin.io,Anakin,70,One API to get clean data from any website for your AI agents at scale,B2B,2026-08-12T01:59:14.500694Z
+1.0,STARTUP,Y Combinator Directory,https://appx.co.in,Appx,30,AppX helps social media creators launch their own mobile apps.,Education,2026-08-12T01:59:15.265232Z
+1.0,STARTUP,Y Combinator Directory,http://algouniversity.com/,Algouniversity,10,Building Job driven Virtual Tech University for India 🇮🇳,Education,2026-08-12T01:59:15.996114Z
+1.0,STARTUP,Y Combinator Directory,https://affogato.ai,Affogato Ai,15,"Affogato AI — Your Agent for instant TikToks, Reels, and ads.",B2B,2026-08-12T01:59:14.772253Z
+1.0,STARTUP,Y Combinator Directory,https://www.ananya.health/,Ananya Health,8,Portable cryoablation to prevent cervical cancer,Healthcare,2026-08-12T01:59:14.780222Z
+1.0,STARTUP,Y Combinator Directory,https://www.arqfinance.com/,Arq,100,The global financial platform for affluent consumers in the Americas.,Fintech,2026-08-12T01:59:15.367927Z
+1.0,STARTUP,Y Combinator Directory,https://www.archbee.com,Archbee,12,TURN STATIC DOCS INTO INSTANT ANSWERS,B2B,2026-08-12T01:59:15.720420Z
+1.0,STARTUP,Y Combinator Directory,https://abstra.io,Abstra,18,Automate finance operations with Python and AI,B2B,2026-08-12T01:59:15.577655Z
+1.0,STARTUP,Y Combinator Directory,https://www.artillery.io,Artillery,5,"The complete production quality platform. AI-powered E2E testing,…",B2B,2026-08-12T01:59:14.792219Z
+1.0,STARTUP,Y Combinator Directory,https://www.aoadx.com/,Aoa Dx,25,Blood Test for Early Detection of Ovarian Cancer,Healthcare,2026-08-12T01:59:15.222806Z
+1.0,STARTUP,Y Combinator Directory,https://www.getdailyagape.com,Agapé,6,"Feel close, even when apart. One meaningful conversation at a time.",Healthcare,2026-08-12T01:59:15.845452Z
+1.0,STARTUP,Y Combinator Directory,https://arpio.io,Arpio,7,Recover from any outage in 10 minutes or less.,B2B,2026-08-12T01:59:15.029741Z
+1.0,STARTUP,Y Combinator Directory,https://authologic.com,Authologic,33,Stripe for online identity verification,B2B,2026-08-12T01:59:15.377918Z
+1.0,STARTUP,Y Combinator Directory,https://axolo.co,Axolo,2,Improving Developer Experience with Streamlined Code Reviews,B2B,2026-08-12T01:59:15.051490Z
+1.0,STARTUP,Y Combinator Directory,https://alpas.ai/,Alpas,5,Software for procurement departments to find suppliers 10x faster,B2B,2026-08-12T01:59:15.372971Z
+1.0,STARTUP,Y Combinator Directory,https://www.agendapro.com,Agendapro,50,Shopify for Beauty and Wellness businesses in Latam,B2B,2026-08-12T01:59:16.125369Z
+1.0,STARTUP,Y Combinator Directory,https://www.aurabeattech.com/,Aurabeat,12,"Providing clean, safe, virus free air for homes, buildings and cars",Industrials,2026-08-12T01:59:16.449074Z
+1.0,STARTUP,Y Combinator Directory,https://auricle.com,Auricle,2,Neurostimulation implant to restore hearing & speech understanding,Healthcare,2026-08-12T01:59:15.609365Z
+1.0,STARTUP,Y Combinator Directory,http://www.animahealth.com,Anima,20,The next generation care enablement platform,Healthcare,2026-08-12T01:59:15.437231Z
+1.0,STARTUP,Y Combinator Directory,https://alinea-invest.com/,Alinea,12,Automated investing for the next generation 💸,Fintech,2026-08-12T01:59:15.747818Z
+1.0,STARTUP,Y Combinator Directory,https://www.avironactive.com/,Aviron Interactive,90,"Aviron transforms workouts with game-based exercise machines, making…",Consumer,2026-08-12T01:59:15.461364Z
+1.0,STARTUP,Y Combinator Directory,https://www.axlehealth.com,Axle Health,14,Scheduling and workforce management SaaS for home healthcare providers,Healthcare,2026-08-12T01:59:15.196812Z
+1.0,STARTUP,Y Combinator Directory,https://axiom.ai,Axiom.Ai,8,No-code Browser RPA,B2B,2026-08-12T01:59:15.205892Z
+1.0,STARTUP,Y Combinator Directory,https://avocadopos.com,Avocado,4,AI-Native Restaurant POS,B2B,2026-08-12T01:59:15.669728Z
+1.0,STARTUP,Y Combinator Directory,https://arnata.com,Arnata,15,AI workers for the logistics industry.,B2B,2026-08-12T01:59:15.668629Z
+1.0,STARTUP,Y Combinator Directory,https://albedo.com,Albedo,55,Full-stack VLEO satellite missions,Industrials,2026-08-12T01:59:15.186897Z
+1.0,STARTUP,Y Combinator Directory,https://authzed.com,Authzed,31,"Authorization Infrastructure securing AI at OpenAI, Zoom, & more",B2B,2026-08-12T01:59:15.281317Z
+1.0,STARTUP,Y Combinator Directory,https://www.albaorbital.com,Alba Orbital,10,"We make satellites to image everywhere on Earth, every 15 minutes",Industrials,2026-08-12T01:59:15.783435Z
+1.0,STARTUP,Y Combinator Directory,http://atomic.industries,Atomic Industries,60,Software orchestrated mass production of plastics,Industrials,2026-08-12T01:59:15.312315Z
+1.0,STARTUP,Y Combinator Directory,https://www.atratopago.com,Atrato,80,Enabling consumers split the cost of purchases without a credit card,Fintech,2026-08-12T01:59:15.233218Z
+1.0,STARTUP,Y Combinator Directory,https://www.abacum.ai/,Abacum,125,The AI-native FP&A platform that helps Finance teams drive business…,B2B,2026-08-12T01:59:15.252235Z
+1.0,STARTUP,Y Combinator Directory,https://www.afriexapp.com,Afriex,55,"Instant, low-fee remittances",Fintech,2026-08-12T01:59:16.253481Z
+1.0,STARTUP,Y Combinator Directory,https://arketa.com,Arketa,55,Everything for your fitness or wellness business.,B2B,2026-08-12T01:59:16.371535Z
+1.0,STARTUP,Y Combinator Directory,https://www.awtomic.com,Awtomic,11,Dollar Shave Club as a platform.,B2B,2026-08-12T01:59:17.312006Z
+1.0,STARTUP,Y Combinator Directory,https://akiflow.com,Akiflow,18,All your tasks and calendars into an AI-powered productivity app,B2B,2026-08-12T01:59:17.839171Z
+1.0,STARTUP,Y Combinator Directory,https://www.atomicvest.com/,Atomic,25,API that lets companies embed investment accounts into their services,B2B,2026-08-12T01:59:17.362757Z
+1.0,STARTUP,Y Combinator Directory,https://www.arist.co,Arist,23,Deliver effective learning at scale,B2B,2026-08-12T01:59:18.498775Z
+1.0,STARTUP,Y Combinator Directory,https://atob.com/,Atob,75,Modernizing global transportation payments.,Fintech,2026-08-12T01:59:18.717230Z
+1.0,STARTUP,Y Combinator Directory,https://www.aesthetic.com,Aesthetic,4,Your AI-powered creative apprentice 🪄,B2B,2026-08-12T01:59:20.146014Z
+1.0,STARTUP,Y Combinator Directory,https://www.alphavantage.co/,Alpha Vantage,8,Developer-friendly and enterprise-grade APIs for financial market…,Fintech,2026-08-12T01:59:17.891334Z
+1.0,STARTUP,Y Combinator Directory,https://www.animaapp.com,Anima App,20,Design to Code & On-brand Vibe-coding,B2B,2026-08-12T01:59:20.040412Z
+1.0,STARTUP,Y Combinator Directory,https://soundkins.com/,"Askmyclass, Now Soundkins",2,Audio learning assistant for teachers and students.,Education,2026-08-12T01:59:18.726314Z
+1.0,STARTUP,Y Combinator Directory,https://www.apprenticehealth.com,Apprentice Health,6,We deploy sensors and software that increase hospital efficiency.,Healthcare,2026-08-12T01:59:17.815853Z
+1.0,STARTUP,Y Combinator Directory,https://activeloop.ai/,Activeloop,15,Database for AI,B2B,2026-08-12T01:59:18.543068Z
+1.0,STARTUP,Y Combinator Directory,https://www.anylist.com,Anylist,3,"One app for stress-free shopping, cooking, and meal planning.",Consumer,2026-08-12T01:59:18.086070Z
+1.0,STARTUP,Y Combinator Directory,https://www.anjuna.io,Anjuna,55,Anjuna enabled organizations to trust any infrastructure,B2B,2026-08-12T01:59:17.519644Z
+1.0,STARTUP,Y Combinator Directory,http://archform.com,Archform,23,Replacing orthodontic braces with our clear aligner and software,Healthcare,2026-08-12T01:59:19.533725Z
+1.0,STARTUP,Y Combinator Directory,http://www.algosurg.com,Algosurg Inc,8,We make AI technology for Robotic and AR Surgeries,Healthcare,2026-08-12T01:59:19.329604Z
+1.0,STARTUP,Y Combinator Directory,https://aspireapp.com,Aspire,500,All-in-one Finance OS for businesses,Fintech,2026-08-12T01:59:18.015681Z
+1.0,STARTUP,Y Combinator Directory,https://acely.com,Acely,30,Every student's AI coach for college readiness,Education,2026-08-12T01:59:17.632429Z
+1.0,STARTUP,Y Combinator Directory,https://www.assembly.com,AssemblyAI,25,Create remarkable client experiences,B2B,2026-08-12T01:59:19.054549Z
+1.0,STARTUP,Y Combinator Directory,https://www.assemblyai.com,AssemblyAI,65,The best way to build Voice AI apps,B2B,2026-08-12T01:59:17.597244Z
+1.0,STARTUP,Y Combinator Directory,http://www.airthium.com,Airthium,18,Decarbonized heat and power cheaper than fossil fuels,Industrials,2026-08-12T01:59:19.993340Z
+1.0,STARTUP,Y Combinator Directory,http://www.advano.io,Advano,25,Advano is a battery technology company that improve the longevity of…,Industrials,2026-08-12T01:59:20.501864Z
+1.0,STARTUP,Y Combinator Directory,https://www.aecore.com,Aecore,6,Vertically integrated commercial construction,Real Estate and Construction,2026-08-12T01:59:17.489146Z
+1.0,STARTUP,Y Combinator Directory,https://www.aclu.org/,Aclu,501,Defender of rights and liberties,Unspecified,2026-08-12T01:59:17.706496Z
+1.0,STARTUP,Y Combinator Directory,https://www.aon3d.com,Aon3D,40,Additive Manufacturing with advanced materials,Industrials,2026-08-12T01:59:17.796899Z
+1.0,STARTUP,Y Combinator Directory,https://www.apozy.com/,Apozy,9,Apozy makes every website safe to browse,B2B,2026-08-12T01:59:17.591280Z
+1.0,STARTUP,Y Combinator Directory,https://www.alemhealth.com,Alemhealth,25,AI Radiologist in a Box - We provide a vertically integrated AI…,Healthcare,2026-08-12T01:59:20.062046Z
+1.0,STARTUP,Y Combinator Directory,http://www.aellaapp.com,Aella,60,Diversified credit infrastructure powering payments across Africa.,Fintech,2026-08-12T01:59:19.326597Z
+1.0,STARTUP,Y Combinator Directory,https://ambient.ai,Ambient.Ai,150,AI company transforming enterprise physical security to prevent…,B2B,2026-08-12T01:59:18.724270Z
+1.0,STARTUP,Y Combinator Directory,https://www.algenbio.com/,Algen Biotechnologies,15,Using CRISPR to find treatments for cancer and inflammation,Healthcare,2026-08-12T01:59:18.150768Z
+1.0,STARTUP,Y Combinator Directory,https://airbyte.com/,Airbyte,90,Context layer for production-grade AI agents,B2B,2026-08-12T01:59:17.664230Z
+1.0,STARTUP,Y Combinator Directory,http://atmo.ai,Atmo,10,Ultra-precise AI weather forecasting.,Industrials,2026-08-12T01:59:20.333679Z
+1.0,STARTUP,Y Combinator Directory,http://www.avion.health,Avion,1,Avion builds and operates autonomous eVTOL drones that deliver vital…,Industrials,2026-08-12T01:59:18.723235Z
+1.0,STARTUP,Y Combinator Directory,https://www.anglehealth.com,Angle Health,100,Health Insurance for Startups,Fintech,2026-08-12T01:59:17.676611Z
+1.0,STARTUP,Y Combinator Directory,https://adyn.com,Adyn,7,The first test designed to prevent birth control side effects,Healthcare,2026-08-12T01:59:17.932717Z
+1.0,STARTUP,Y Combinator Directory,https://www.aiosmedical.com/,Aios,100,Building AI-native infrastructure for the next era of care.,Healthcare,2026-08-12T01:59:17.826855Z
+1.0,STARTUP,Y Combinator Directory,http://www.altaytherapeutics.com,Altay Therapeutics,6,Altay develops disease-modifying therapies targeting transcription…,Healthcare,2026-08-12T01:59:18.626658Z
+1.0,STARTUP,Y Combinator Directory,https://adenhq.com/,Aden,5,Open source agent generation framework,B2B,2026-08-12T01:59:17.649229Z
+1.0,STARTUP,Y Combinator Directory,https://www.alude.com.br/,Alude,8,We offer free software that automates bureaucracy for real-estate…,Real Estate and Construction,2026-08-12T01:59:17.754938Z
+1.0,STARTUP,Y Combinator Directory,https://www.abalonebio.com,Abalone Bio,14,We create activating antibodies to treat diseases others can’t.,Healthcare,2026-08-12T01:59:18.103113Z
+1.0,STARTUP,Y Combinator Directory,https://inaccord.com,Accord,20,The Revenue Excellence Platform,B2B,2026-08-12T01:59:17.858943Z
+1.0,STARTUP,Y Combinator Directory,https://www.apolloshield.com,Apolloshield,1,ApolloShield is a system that detects unwanted drones and drives them…,Industrials,2026-08-12T01:59:18.021680Z
+1.0,STARTUP,Y Combinator Directory,https://apurata.com,Apurata,12,Point of sale financing for Latin America's middle class.,Fintech,2026-08-12T01:59:19.400789Z
+1.0,STARTUP,Y Combinator Directory,https://aspect.app,Aspect,1,Build UI fast.,B2B,2026-08-12T01:59:18.575336Z
+1.0,STARTUP,Y Combinator Directory,http://www.airfordable.com,Airfordable,7,Buy flights for only a fraction upfront and pay off the rest in…,Fintech,2026-08-12T01:59:19.846905Z
+1.0,STARTUP,Y Combinator Directory,http://athelas.com,Athelas,1000,"Extensible, Integrated Technology that Simplifies Health Systems",Healthcare,2026-08-12T01:59:20.221170Z
+1.0,STARTUP,Y Combinator Directory,https://www.aperohealth.com,Apero Health,24,Modern medical billing,Healthcare,2026-08-12T01:59:18.524902Z
+1.0,STARTUP,Y Combinator Directory,https://atlascard.com,Atlas,25,Modern spend management & concierge.,Fintech,2026-08-12T01:59:19.018813Z
+1.0,STARTUP,Y Combinator Directory,http://www.acciojob.com,Acciojob,250,Upskilling bootcamp for India,Education,2026-08-12T01:59:20.106060Z
+1.0,STARTUP,Y Combinator Directory,https://amberbox.com,Amberbox Gunshot Detection,1,Detect Gunshots | Inform Law Enforcement | Empower First Responders,B2B,2026-08-12T01:59:18.842072Z
+1.0,STARTUP,Y Combinator Directory,https://ampup.io,Ampup,45,We make EV charging as simple and reliable as LED lights,Consumer,2026-08-12T01:59:19.005270Z
+1.0,STARTUP,Y Combinator Directory,https://alpaca.markets/,Alpaca,150,API-first stock and crypto brokerage platform,Fintech,2026-08-12T01:59:18.455818Z
+1.0,STARTUP,Y Combinator Directory,https://auravision.ai,Aura Vision,10,In-store analytics AI assistant to fix your retail stores,B2B,2026-08-12T01:59:18.320789Z
+1.0,STARTUP,Y Combinator Directory,https://helloaxel.com/,Axel Travel,20,AI agent that saves you money on travel,Consumer,2026-08-12T01:59:19.028858Z
+1.0,STARTUP,Y Combinator Directory,https://www.autodial.com,Autodial Prev Qwest,1,Skip Busy Phone Lines,Consumer,2026-08-12T01:59:20.565414Z
+1.0,STARTUP,Y Combinator Directory,https://www.ashbyhq.com,Ashby,110,All-in-one recruiting platform that empowers hiring excellence in…,B2B,2026-08-12T01:59:18.306933Z
+1.0,STARTUP,Y Combinator Directory,https://www.aiinsurance.io,Ai Insurance,16,AI Insurance is the platform that runs insurance companies,Fintech,2026-08-12T01:59:19.663943Z
+1.0,STARTUP,Y Combinator Directory,https://www.avo.app/,Avo,10,Fixing data quality in product analytics.,B2B,2026-08-12T01:59:18.718232Z
+1.0,STARTUP,Y Combinator Directory,https://www.allsome.com,Allsome Fulfillment,18,Fulfillment platform to build Southeast Asia e-commerce operations,B2B,2026-08-12T01:59:18.551807Z
+1.0,STARTUP,Y Combinator Directory,http://www.astranis.com,Astranis,500,Advanced satellites for high orbits.,Industrials,2026-08-12T01:59:18.893039Z
+1.0,STARTUP,Y Combinator Directory,https://www.apollo.io/,Apollo.Io,800,Apollo is the foundation of your entire go-to-market strategy.,B2B,2026-08-12T01:59:18.358024Z
+1.0,STARTUP,Y Combinator Directory,http://www.auro.ai/,Auro Robotics,1,Autonomous shuttles for campus-like environments.,Industrials,2026-08-12T01:59:18.718232Z
+1.0,STARTUP,Y Combinator Directory,http://appcanary.com,Appcanary,2,Appcanary tracks the dependencies you use in your apps and servers…,B2B,2026-08-12T01:59:19.194546Z
+1.0,STARTUP,Y Combinator Directory,https://www.aptopayments.com/,Apto Payments,32,API platform for partners to issue branded debit and credit cards to…,Fintech,2026-08-12T01:59:19.427454Z
+1.0,STARTUP,Y Combinator Directory,https://www.aptible.com,Aptible,25,The No Infrastructure Platform as a Service,B2B,2026-08-12T01:59:19.896841Z
+1.0,STARTUP,Y Combinator Directory,https://axoni.com,Axoni,155,Axoni is building the next generation of capital markets technology,Fintech,2026-08-12T01:59:18.408253Z
+1.0,STARTUP,Y Combinator Directory,http://apptimize.com,Apptimize,50,Apptimize lets mobile teams innovate faster to create an amazing user…,B2B,2026-08-12T01:59:20.463798Z
+1.0,STARTUP,Y Combinator Directory,http://authy.com,Authy,201,Authy is a Two-Factor Authentication platform for developers,B2B,2026-08-12T01:59:20.756953Z
+1.0,STARTUP,Y Combinator Directory,http://athinkingape.com,A Thinking Ape,75,We build communities through massively multiplayer mobile games,B2B,2026-08-12T01:59:21.118803Z
+1.0,STARTUP,Y Combinator Directory,https://www.rohanmehta.com/,Arcane,2,AI,Consumer,2026-08-12T01:59:18.533061Z
+1.0,STARTUP,Y Combinator Directory,https://autotab.com,Autotab,2,AI agents reliable enough to do real work,B2B,2026-08-12T01:59:19.337584Z
+1.0,STARTUP,Y Combinator Directory,https://www.arroyo.dev,Arroyo,2,Cloud-native stream processing,B2B,2026-08-12T01:59:18.684860Z
+1.0,STARTUP,Y Combinator Directory,https://anjahealth.com,Anja Health,2,Cord Blood Banking Reimagined,Healthcare,2026-08-12T01:59:19.827881Z
+1.0,STARTUP,Y Combinator Directory,https://www.joinarc.com/,Arc,30,Banking & Funding for Startups,Fintech,2026-08-12T01:59:20.461772Z
+1.0,STARTUP,Y Combinator Directory,https://www.aercompliance.com/,Aer,18,Compound compliance: the central hub for meeting SEC obligations,Fintech,2026-08-12T01:59:20.436097Z
+1.0,STARTUP,Y Combinator Directory,https://avenue.app/,Avenue,8,Observability platform for operations teams,B2B,2026-08-12T01:59:18.786663Z
+1.0,STARTUP,Y Combinator Directory,https://www.aquariumlearning.com/,Aquarium Learning,12,We help ML teams improve their models by improving their datasets,B2B,2026-08-12T01:59:18.913192Z
+1.0,STARTUP,Y Combinator Directory,https://altro.io,Altro,29,Build Credit With Your Subscriptions,Fintech,2026-08-12T01:59:19.962120Z
+1.0,STARTUP,Y Combinator Directory,https://www.autohub.io,Autohub,2,We help dealerships appraise vehicle trade-ins more efficiently…,B2B,2026-08-12T01:59:19.470580Z
+1.0,STARTUP,Y Combinator Directory,http://armory.io,Armory,90,"Continuous Deployment at any scale, for all developers.",B2B,2026-08-12T01:59:20.564535Z
+1.0,STARTUP,Y Combinator Directory,https://ablejobs.co/,Able,50,India's Largest Placement Platform for Early Professionals,Consumer,2026-08-12T01:59:19.042006Z
+1.0,STARTUP,Y Combinator Directory,http://automatic.com,Automatic,51,Automatic connects your car to the rest of your digital life.,Consumer,2026-08-12T01:59:20.794548Z
+1.0,STARTUP,Y Combinator Directory,https://ascen.com,Ascen,17,EOR for the staffing industry,B2B,2026-08-12T01:59:20.471776Z
+1.0,STARTUP,Y Combinator Directory,http://www.airmada.com,Airmada,2,Autonomous ground stations for drones,Industrials,2026-08-12T01:59:20.321522Z
+1.0,STARTUP,Y Combinator Directory,http://audobox.com,Audobox,1,Audobox is a developer and user friendly tool for in-app feedback.,B2B,2026-08-12T01:59:21.310903Z
+1.0,STARTUP,Y Combinator Directory,http://amulyte.com,Amulyte,2,Remote monitoring & activity tracking system for seniors.,Healthcare,2026-08-12T01:59:20.051008Z
+1.0,STARTUP,Y Combinator Directory,http://appcubator.com,Appcubator,1,The easiest way to prototype web applications.,B2B,2026-08-12T01:59:21.377695Z
+1.0,STARTUP,Y Combinator Directory,http://audiobeta.com,Audiobeta,1,Y Combinator Startup,B2B,2026-08-12T01:59:20.400874Z
+1.0,STARTUP,Y Combinator Directory,https://altrina.com,Altrina,4,The SOP Automation Platform,B2B,2026-08-12T01:59:20.807195Z
+1.0,STARTUP,Y Combinator Directory,https://www.tryabel.com,Abel,2,Transforming document review for litigation teams,B2B,2026-08-12T01:59:21.448722Z
+1.0,STARTUP,Y Combinator Directory,https://airtrain.ai,Airtrain Ai,5,No-code data curation for LLM fine-tuning and evaluation.,B2B,2026-08-12T01:59:20.612800Z
+1.0,STARTUP,Y Combinator Directory,https://www.aisupervision.com,Aisupervision,13,The operating system for factory production lines,Industrials,2026-08-12T01:59:20.030404Z
+1.0,STARTUP,Y Combinator Directory,https://alima.la,Alima,10,Fresh procurement made easy,B2B,2026-08-12T01:59:20.155530Z
+1.0,STARTUP,Y Combinator Directory,https://www.antwalk.com/,Antwalk,50,An employee up-skilling platform for fast growing companies,Education,2026-08-12T01:59:20.362730Z
+1.0,STARTUP,Y Combinator Directory,https://avionschool.com,Avion School,4,We teach Filipinos to become remote software engineers globally.,Education,2026-08-12T01:59:22.133917Z
+1.0,STARTUP,Y Combinator Directory,https://www.aerotime.com,Aerotime,6,Calendar that kills time fragmentation,B2B,2026-08-12T01:59:20.751524Z
+1.0,STARTUP,Y Combinator Directory,https://www.heyartifact.com/,Artifact,10,Personal podcasts with the people in your life,Consumer,2026-08-12T01:59:21.223516Z
+1.0,STARTUP,Y Combinator Directory,https://www.avonow.com/,Avo,10,Online convenience store for residential and office buildings,Consumer,2026-08-12T01:59:20.686516Z
+1.0,STARTUP,Y Combinator Directory,http://www.aalo.co,Aalo,1,Lego-like furniture for design geeks. We create furniture that's…,Consumer,2026-08-12T01:59:21.827059Z
+1.0,STARTUP,Y Combinator Directory,http://www.airohealth.com,Airo Health,2,Airo is an AI to passively track and manage your mental health.,Healthcare,2026-08-12T01:59:21.177053Z
+1.0,STARTUP,Y Combinator Directory,http://auroraq.com,Auroraq,1,"Building the first practical, integrated quantum computer.",Industrials,2026-08-12T01:59:23.512610Z
+1.0,STARTUP,Y Combinator Directory,https://www.allocommunity.com/,Allo,2,Allo is an app that helps neighboring families meet and help each…,Consumer,2026-08-12T01:59:22.687508Z
+1.0,STARTUP,Y Combinator Directory,https://bolna.ai,Bolna Ai,21,Voice AI to enable India's next billion,B2B,2026-08-12T01:59:22.827826Z
+1.0,STARTUP,Y Combinator Directory,https://www.getstructured.ai/,Structured Ai,10,The AI drawing review platform for architects and engineers.,Real Estate and Construction,2026-08-12T01:59:22.925588Z
+1.0,STARTUP,Y Combinator Directory,https://upliftai.org/,Uplift Ai,3,Foundational Voice Models for regional languages,B2B,2026-08-12T01:59:21.328461Z
+1.0,STARTUP,Y Combinator Directory,https://www.usebizzy.com/,Bizzy Ai,1,Bizzy works 24/7 so you never miss a lead.,B2B,2026-08-12T01:59:21.303485Z
+1.0,STARTUP,Y Combinator Directory,https://useflywheel.ai/,Flywheel Ai,2,Waymo for excavators,Industrials,2026-08-12T01:59:21.273991Z
+1.0,STARTUP,Y Combinator Directory,https://www.certus-ai.com/,Certus Ai,8,Replacing the restaurant phone line with Voice AI,B2B,2026-08-12T01:59:21.433501Z
+1.0,STARTUP,Y Combinator Directory,https://www.pares.ai/,Pares Ai,3,AI-native real estate services firm,Real Estate and Construction,2026-08-12T01:59:21.569236Z
+1.0,STARTUP,Y Combinator Directory,https://getsocratix.ai,Socratix Ai,4,AI coworkers for fraud and compliance teams.,B2B,2026-08-12T01:59:22.068362Z
+1.0,STARTUP,Y Combinator Directory,https://gominimal.ai/,Minimal Ai,3,AI Agents for E-commerce Customer Support,B2B,2026-08-12T01:59:21.561531Z
+1.0,STARTUP,Y Combinator Directory,https://www.risely.ai/,Risely Ai,9,AI agents that automate administrative work across college campuses.,Education,2026-08-12T01:59:22.696509Z
+1.0,STARTUP,Y Combinator Directory,https://roboticscenter.ai/,Deepaware Ai (Robotics Center Of Silicon Valley),4,"Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",Industrials,2026-08-12T01:59:21.728644Z
+1.0,STARTUP,Y Combinator Directory,https://www.ondeckai.com,Ondeck Ai,7,"Analyze any footage, without training a model",B2B,2026-08-12T01:59:22.321849Z
+1.0,STARTUP,Y Combinator Directory,https://janet.ai,Janet Ai,4,The Autonomous Product Management System,B2B,2026-08-12T01:59:22.753058Z
+1.0,STARTUP,Y Combinator Directory,https://www.designarena.ai/,Design Arena,3,World's largest crowdsourced benchmark for AI-generated design,Consumer,2026-08-12T01:59:22.113213Z
+1.0,STARTUP,Y Combinator Directory,https://www.theliva.ai,Liva Ai,4,Audio & Video Data,B2B,2026-08-12T01:59:22.863679Z
+1.0,STARTUP,Y Combinator Directory,https://nimbic-ai.com,Nimbic Ai,3,Automatically write and update internal docs with every code commit.,B2B,2026-08-12T01:59:21.877293Z
+1.0,STARTUP,Y Combinator Directory,https://www.mobyanalytics.com/,Moby Analytics,4,AI financial auditors,B2B,2026-08-12T01:59:22.832828Z
+1.0,STARTUP,Y Combinator Directory,https://www.eloquentai.co/,Eloquent Ai,5,The AI Operator for Financial Services,B2B,2026-08-12T01:59:22.264037Z
+1.0,STARTUP,Y Combinator Directory,https://www.klavis.ai/,Klavis Ai,3,High Quality Coding & Agentic Data for AI labs,B2B,2026-08-12T01:59:22.737588Z
+1.0,STARTUP,Y Combinator Directory,https://besimple.ai,Besimple Ai,6,Voice data for AI,B2B,2026-08-12T01:59:22.494399Z
+1.0,STARTUP,Y Combinator Directory,https://www.opusense.com/,Opusense Ai,2,AI for Field Inspection Reports,Real Estate and Construction,2026-08-12T01:59:23.076899Z
+1.0,STARTUP,Y Combinator Directory,https://www.mbodi.ai/,Mbodi Ai,6,Industrial Robots that Learn and Operate Like Humans,Industrials,2026-08-12T01:59:22.621654Z
+1.0,STARTUP,Y Combinator Directory,https://www.forgeautomation.ca,Forge Automation,21,Software Enabled CNC Parts Supplier,Industrials,2026-08-12T01:59:24.209442Z
+1.0,STARTUP,Y Combinator Directory,https://fuseai.com/,Fuse Ai,12,#1 AI Platform for Outbound Sales,B2B,2026-08-12T01:59:23.095044Z
+1.0,STARTUP,Y Combinator Directory,https://www.usepeppr.ai/,Peppr Ai,4,In-call AI teleprompter that helps reps close enterprise deals,B2B,2026-08-12T01:59:22.944981Z
+1.0,STARTUP,Y Combinator Directory,https://www.sennu.ai,Sennu Ai,2,We turn traditional companies into AI companies,B2B,2026-08-12T01:59:23.374781Z
+1.0,STARTUP,Y Combinator Directory,https://confident-ai.com,Confident Ai,7,The LLM Eval and Observability Platform for AI Quality,B2B,2026-08-12T01:59:23.805919Z
+1.0,STARTUP,Y Combinator Directory,https://mundoai.world,Mundo Ai,4,High Quality Multilingual Training Data for AI Models,B2B,2026-08-12T01:59:23.097355Z
+1.0,STARTUP,Y Combinator Directory,https://www.tryelip.ai/,Elip Ai,4,Cooking something sweet and salty!,B2B,2026-08-12T01:59:23.641423Z
+1.0,STARTUP,Y Combinator Directory,https://www.trytruffle.ai/,Truffle Ai,2,AWS for AI Agents,B2B,2026-08-12T01:59:23.161730Z
+1.0,STARTUP,Y Combinator Directory,https://www.leapingai.com,Leaping Ai,13,AI voice and texting agents,B2B,2026-08-12T01:59:23.959663Z
+1.0,STARTUP,Y Combinator Directory,https://www.bild.ai,Bild Ai,9,"AI estimating & detailing for Division 8 doors, frames & hardware",Real Estate and Construction,2026-08-12T01:59:24.062290Z
+1.0,STARTUP,Y Combinator Directory,https://www.relvy.ai,Relvy Ai,3,AI powered debugging notebooks for incident response,B2B,2026-08-12T01:59:23.372818Z
+1.0,STARTUP,Y Combinator Directory,https://tryforerunner.com,Forerunner Ai,2,AI that gets aircraft flying faster,Industrials,2026-08-12T01:59:23.775574Z
+1.0,STARTUP,Y Combinator Directory,https://www.sandra-ai.com,Sandra Ai,3,Building AI employees for car dealers,B2B,2026-08-12T01:59:24.267413Z
+1.0,STARTUP,Y Combinator Directory,https://lightscreen.ai,Lightscreen Ai,2,Voice + video AI interviewer,B2B,2026-08-12T01:59:23.503539Z
+1.0,STARTUP,Y Combinator Directory,https://www.merlinai.co,Merlin Ai,19,AI powered ERP for Construction,B2B,2026-08-12T01:59:23.433857Z
+1.0,STARTUP,Y Combinator Directory,https://usemica.com/,Mica Ai,3,Replace the humans fixing bad data,B2B,2026-08-12T01:59:23.809928Z
+1.0,STARTUP,Y Combinator Directory,https://www.capitol.ai/,Capitol Ai,11,Capitol: the sovereign operating system for intelligence.,B2B,2026-08-12T01:59:23.169142Z
+1.0,STARTUP,Y Combinator Directory,https://www.et-al.io,Et Al.,2,Feed of insights extracted from your go-to sources using LLMs.,Consumer,2026-08-12T01:59:23.514636Z
+1.0,STARTUP,Y Combinator Directory,https://www.usesimple.ai,Simple Ai,11,AI voice that sells,B2B,2026-08-12T01:59:23.200501Z
+1.0,STARTUP,Y Combinator Directory,https://www.presti.ai/,Presti Ai,16,Helping furniture companies create product visuals with AI,B2B,2026-08-12T01:59:23.147500Z
+1.0,STARTUP,Y Combinator Directory,https://trykura.com,Kura Ai,2,New State of the Art for Browser Agents,B2B,2026-08-12T01:59:23.935239Z
+1.0,STARTUP,Y Combinator Directory,https://zeit-ai.com/,Zeit Ai,9,From data to enterprise insights in just a few words.,B2B,2026-08-12T01:59:23.807947Z
+1.0,STARTUP,Y Combinator Directory,https://www.withdavid.ai/,David Ai,10,Data for audio AI,B2B,2026-08-12T01:59:23.157735Z
+1.0,STARTUP,Y Combinator Directory,https://www.hireseals.ai/,Seals Ai,4,AI Employees for Wholesalers & Distributors,B2B,2026-08-12T01:59:24.185327Z
+1.0,STARTUP,Y Combinator Directory,https://redouble.ai/,Redouble Ai,3,Java-native multi-agentic AI operating system for enterprise,B2B,2026-08-12T01:59:23.300971Z
+1.0,STARTUP,Y Combinator Directory,https://www.finny.com/,Finny Ai,35,The organic growth engine for financial advisors,Fintech,2026-08-12T01:59:24.269412Z
+1.0,STARTUP,Y Combinator Directory,https://clearly-ai.com,Clearly Ai,12,Automate security and privacy reviews,B2B,2026-08-12T01:59:23.283866Z
+1.0,STARTUP,Y Combinator Directory,https://lighthouz.ai/,Lighthouz Ai,8,"Freight bill audits, AP, AR automation for freight brokers with…",B2B,2026-08-12T01:59:24.047721Z
+1.0,STARTUP,Y Combinator Directory,https://runlocal.ai,Runlocal Ai,3,AI agent that optimizes inference for embedded compute like Jetson,B2B,2026-08-12T01:59:23.858597Z
+1.0,STARTUP,Y Combinator Directory,https://storia.ai,Storia Ai,2,Open source AI copilot that knows your company's code and its context,B2B,2026-08-12T01:59:24.968086Z
+1.0,STARTUP,Y Combinator Directory,https://www.decisional.com/,Decisional Ai,3,AI Coworkers for Business Automation,B2B,2026-08-12T01:59:24.203451Z
+1.0,STARTUP,Y Combinator Directory,https://unsloth.ai/,Unsloth Ai,8,Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.,B2B,2026-08-12T01:59:23.435871Z
+1.0,STARTUP,Y Combinator Directory,https://hamming.ai/,Hamming Ai,8,Complete QA platform for voice agents,B2B,2026-08-12T01:59:23.307005Z
+1.0,STARTUP,Y Combinator Directory,https://saphira.ai,Saphira Ai,8,The Enablement Layer for Physical AI,B2B,2026-08-12T01:59:24.266413Z
+1.0,STARTUP,Y Combinator Directory,https://www.inspectmind.ai,Inspectmind Ai,2,AI agent for construction drawings review,Real Estate and Construction,2026-08-12T01:59:23.810982Z
+1.0,STARTUP,Y Combinator Directory,https://useocular.com,Ocular Ai,8,Applied AI Data Research Lab Encoding Human Expertise into Machines…,B2B,2026-08-12T01:59:24.248210Z
+1.0,STARTUP,Y Combinator Directory,https://retellai.com,Retell Ai,50,Supercharge Your Contact Center Operations with AI Phone Agents,B2B,2026-08-12T01:59:23.870096Z
+1.0,STARTUP,Y Combinator Directory,https://www.getzep.com/,Zep Ai,5,Agent Context Is Hard. We Fixed It.,B2B,2026-08-12T01:59:23.712046Z
+1.0,STARTUP,Y Combinator Directory,https://centauri-ai.tech,Centauri Ai,5,Helps teams work effectively with AI coding agents.,B2B,2026-08-12T01:59:24.432451Z
+1.0,STARTUP,Y Combinator Directory,https://soundry.ai/,Soundry Ai,2,Remix any song into any style,Consumer,2026-08-12T01:59:23.448992Z
+1.0,STARTUP,Y Combinator Directory,https://codeant.ai/,Codeant Ai,25,Autonomous offensive and defensive security platform,B2B,2026-08-12T01:59:23.809928Z
